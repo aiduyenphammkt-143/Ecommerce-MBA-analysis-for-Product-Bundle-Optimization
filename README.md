@@ -24,7 +24,7 @@ This project applies Market Basket Analysis (MBA) to uncover purchasing patterns
 
 ---
 
-## Dataset overview
+## 3. Dataset overview
 
 The analysis is based on 25,728 transaction baskets collected between 2020 and 2023.
 
@@ -46,7 +46,7 @@ This approach provides:
 
 ---
 
-## 3. Methodology
+## 4. Methodology
 
 ### Association Rule Mining
 
@@ -60,18 +60,9 @@ Applied the Apriori algorithm at the Subcategory level to identify purchasing as
 
 ### Other terminologies
 
-* **Antecedents:**
-* **Consequents:**
-* **Association Rule:**
-
-### Action Framework
-
-| Action Group | Determination | Interpretation |Recommended Action |
-|---|---|---|---|
-| Scale | Support ≥ 0.002 & Confidence ≥ 0.1692 | High-tier Support and Confidence |Bundles and broad recommendations |
-| Reach | Support ≥ 0.002 & Confidence ≤ 0.1692 |	High-tier Support but low-tier Confidence | Promotional testing and exploration |
-| Precision	| Support ≤ 0.002 & Confidence ≥ 0.1692 | Low-tier Support but high-tier Confidence | Personalized cross-selling |
-| Monitor	| Support ≤ 0.002 & Confidence ≤ 0.1692 | Low-tier Support and Confidence | Periodic review |
+* **Antecedents:** The product category (or categories) that we suppose customers have already purchased.
+* **Consequents:** The product category (or categories) that are frequently purchased together with the antecedents.
+* **Association Rule:** A purchasing pattern that links antecedents to consequents, showing what customers are likely to buy next.
 
 ---
 
@@ -86,29 +77,56 @@ Applied the Apriori algorithm at the Subcategory level to identify purchasing as
 
 * Support, Confidence, and Lift capture different dimensions of customer behavior. Yet, little overlap exists between top rules ranked by Support, Confidence, and Lift, confirming that no single metric is sufficient for business decision-making.
 
-<img src='./images/Meaningful assocation rules.png' width=1200>
+---
+
+## 5. Association Rules Matrix & Action Framework
+
+### Bubble Chart 01: Three metrics show different dimension, no single metric is inherently superior
+
+***Finding:** Rules with the strongest associations (highest lift values) are distributed across all support-confidence quadrants. This suggests that association strength is largely independent of rule popularity and conversion likelihood in the current dataset.*
+
+<img src='images/Meaningful association rules.png' width=800>
+
+
+### Bubble Chart 02: Association Rules Matrix
+
+***Implication:** Lift was used as a qualification criterion to ensure that only rules exhibiting meaningful associations beyond random chance were considered. Subsequent action segmentation was performed using Support and Confidence, representing market reach and conversion potential, respectively.*
+
+<img src='images/Association Rules Action Matrix.png' width=800>
+
+
+#### Action Framework
+
+| Action Group | Determination | Interpretation |Recommended Action |
+|---|---|---|---|
+| Scale | Support ≥ 0.002 & Confidence ≥ 0.1692 | High-tier Support and Confidence | Product-page recommendations, bundles, promotions |
+| Reach | Support ≥ 0.002 & Confidence ≤ 0.1692 |	High-tier Support but low-tier Confidence | Awareness campaigns, category-level promotions, A/B testing |
+| Precision	| Support ≤ 0.002 & Confidence ≥ 0.1692 | Low-tier Support but high-tier Confidence |Personalized recommendations, CRM journeys, targeted cross-selling |
+| Monitor	| Support ≤ 0.002 & Confidence ≤ 0.1692 | Low-tier Support and Confidence | Periodic review |
+
 
 ---
 
-## Các thư viện Python sử dụng phân tích
+## 6. Python Libraries
 
-- Pandas
-- Mlxtend (Apriori)
-- NumPy
-- Matplotlib
-- Seaborn
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Mlxtend (Apriori)
+
 
 ---
-## 📁 Cấu trúc dự án
+## 📁 Repository Structure
 
 ```text
 ├── data/
 │   ├── EcomSales.csv
-│   │   └── Dữ liệu giao dịch với 51.290 dòng ở cấp độ Order Line Item
+│   │   └── Transaction-level sales data containing 51,290 order line items.
 │   └── Product.csv
-│       └── Danh mục sản phẩm và thông tin phân loại
+│       └── Product master data and category hierarchy.
 ├── Market Basket Analysis_Ecommerce dataset.ipynb
-│   └── Tiền xử lý dữ liệu, xây dựng mô hình Apriori và phân tích Association Rules
+│   └── Data preparation, exploratory analysis, Apriori implementation, and Association Rule Mining.
 └── README.md
-    └── Tổng quan dự án, kết quả phân tích và khuyến nghị kinh doanh
+    └── Project overview, methodology, key findings, and business recommendations.
 ```
