@@ -120,11 +120,15 @@ Applied the Apriori algorithm at the Subcategory level to identify purchasing as
 
 ## 9. Key findings: Executive Summary
 
-* Customers do not shop by individual products. Instead, they purchase around broader self-care and wellness needs.
-* Two major purchase journeys were identified:
-  * Holistic self-care Journey
-  * At-home Wellness Journey
-  > These patterns create opportunities for category-level recommendations and targeted cross-selling initiatives.
+* SKU-level Market Basket Analysis was ineffective due to the highly fragmented nature of cosmetic products.
+* Subcategory-level analysis identified 2,004 meaningful association rules.
+* Customer purchases are primarily driven by two needs:
+   * Holistic Self-Care
+   * At-Home Wellness
+
+> Strong associations are not concentrated within a single support-confidence segment, indicating that no single metric is sufficient for prioritization.
+
+* An Action Framework was developed to translate association rules into recommendation, promotion, and CRM strategies.
 
 
 ---
