@@ -86,6 +86,8 @@ Applied the Apriori algorithm at the Subcategory level to identify purchasing as
 
 * Support, Confidence, and Lift capture different dimensions of customer behavior. Yet, little overlap exists between top rules ranked by Support, Confidence, and Lift, confirming that no single metric is sufficient for business decision-making.
 
+<img src='./images/Meaningful assocation rules.png' width=1200>
+
 ---
 
 ## Các thư viện Python sử dụng phân tích
