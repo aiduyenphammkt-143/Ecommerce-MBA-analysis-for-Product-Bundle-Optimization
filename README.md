@@ -1,178 +1,90 @@
-# Xây Dựng Chiến Lược Đề Xuất Sản Phẩm Từ Market Basket Analysis
+# Market Basket Analysis for E-commerce Cosmetics Retail
 
 
-## Tình hình doanh nghiệp
+## 1. Business context
 
-Đội ngũ Marketing nhận thấy khách hàng thường mua nhiều sản phẩm trong cùng một đơn hàng nhưng hệ thống recommendation hiện tại chưa tận dụng được các mối liên hệ này để đề xuất sản phẩm phù hợp.
+The Marketing team has observed that customers frequently purchase multiple products within the same transaction. However, the current product recommendation system does not effectively leverage these purchasing patterns, resulting in missed opportunities for cross-selling and revenue growth.
 
-**Mục tiêu của dự án:**
-
-- Khám phá các nhóm sản phẩm thường được mua cùng nhau.
-- Xác định các combo có tiềm năng thương mại cao.
-- Đề xuất chiến lược cross-sell và recommendation dựa trên hành vi mua hàng thực tế.
+Management would like to better understand customer buying behavior by analyzing historical transaction data to identify product groups that are commonly purchased together. The insights generated will be used to improve product recommendations, promotional campaigns, and online storefront merchandising.
 
 ---
 
-## Câu hỏi mục tiêu phân tích:
+## 2. Analytical objectives
 
-Để giải quyết được vấn đề của phòng Marketing, dự án phân tích sẽ tập trung trả lời các câu hỏi phân tích quan trọng:
+This project applies Market Basket Analysis (MBA) to uncover purchasing patterns and translate them into actionable recommendations that can improve cross-selling performance, Average Order Value (AOV), and customer experience.
 
-1. Combo sản phẩm nào có mối liên kết mạnh nhất?
-2. Có tồn tại các nhóm hành vi mua hàng đặc thù không?
-3. Động lực mua hàng nào đứng sau các combo này?
-4. Doanh nghiệp nên triển khai recommendation và promotion như thế nào?
-
----
-
-## Tổng quan về tệp dữ liệu
-
-Phân tích thực hiện trên 25.728 giỏ hàng (basket).
-
-Danh mục sản phẩm gồm khoảng **3.576 SKU**, được chia thành **17 subcategories** thuộc **5 ngành hàng chính**:
-
-- Face Care
-- Hair Care
-- Body Care
-- Makeup
-- Home & Accessories
-
-Phân tích được thực hiện ở cấp độ **Subcategory** để cân bằng giữa:
-
-- Độ chi tiết của hành vi mua hàng
-- Khả năng tổng quát hóa kết quả
-- Tránh dữ liệu quá phân mảnh ở cấp SKU
+* Identify product combinations with the strongest purchase associations.
+* Understand customer purchasing behavior and underlying needs.
+* Detect cross-category shopping patterns.
+* Provide actionable recommendations for:
+  * Product recommendations
+  * Bundling strategies
+  * Cross-selling campaigns
+  * Customer targeting
 
 ---
 
-## Phương pháp phân tích
+## Dataset overview
 
-Áp dụng thuật toán **Apriori** để khai phá Association Rules.
+The analysis is based on 25,728 transaction baskets collected between 2020 and 2023.
 
-### Tham số lọc rules
+The product catalog contains approximately 20,000 SKUs, grouped into 17 subcategories across 5 main categories:
 
-| Chỉ số | Ý nghĩa | Ngưỡng lọc |
-|----------|----------|----------|
-| Support | Tỷ lệ đơn hàng chứa tổ hợp sản phẩm 1 & 2 | 0.1% |
-| Confidence | Xác suất xuất hiện của nhóm sản phẩm 2 khi nhóm sản phẩm 1 xuất hiện | 10% |
-| Lift | Độ mạnh của mối liên hệ giữa các nhóm sản phẩm so với ngẫu nhiên | 1.2 |
+* Face Care
+* Hair Care
+* Body Care
+* Makeup
+* Home & Accessories
 
-### Kết quả lọc rules
+*To balance behavioral insights and analytical reliability, the analysis was conducted at the **Subcategory level** rather than the SKU level.*
 
-- 994 Association Rules thỏa điều kiện lọc.
-- Đánh giá rule dựa trên:
-  - Support
-  - Confidence
-  - Lift
-  - Leverage
+This approach provides:
 
----
-
-## Giỏ hàng của tệp khách hàng hiện tại nói chúng ta nghe điều gì?
-
-### 1. Nail Care là ngành hàng phổ biến nhất
-
-Nail Care xuất hiện trong khoảng **20% đơn hàng**.
-
-Do tỷ lệ xuất hiện nền cao nên các rule có Nail Care ở nhóm sản phẩm thứ 2 (Consequent) thường đạt confidence lớn.
-
-**Tuy nhiên:**
-
-- Confidence cao không đồng nghĩa với quan hệ nhân quả.
-- Không thể kết luận rằng sản phẩm ở nhóm sản phẩm thứ 1 (antecedent) tạo ra nhu cầu mua Nail Care.
-
-### 2. Khách hàng có xu hướng mua theo **thói quen chăm sóc cá nhân**
-
-Ngoài Nail Care, các nhóm thường xuất hiện cùng nhau bao gồm:
-
-- Bath Oils
-- Body Moisturizers
-- Hand Creams
-- Shampoos & Conditioners
-
-Dữ liệu cho thấy khách hàng không mua từng sản phẩm đơn lẻ mà thường xây dựng một routine chăm sóc cơ thể, tóc và bàn tay trong cùng một đơn hàng.
-
-**Business Implication:**
-
-- Tiềm năng xây dựng combo sản phẩm.
-- Tăng hiệu quả cross-sell theo routine thay vì theo từng SKU riêng lẻ.
-
-### 3. Xuất hiện phân khúc khách hàng yêu thích **tự chăm sóc tại nhà**
-
-Một số combo kết hợp:
-
-- Hair Care
-- Face Care
-- Body Care
-- Home & Relaxation Products
-
-có Lift dao động từ **1.75 - 1.90**.
-
-Tuy nhiên:
-
-- Support thấp
-- Leverage thấp
-
-=> Đây là hành vi của một phân khúc khách hàng nhỏ nhưng có sở thích rõ rệt.
-
-**Business Implication:**
-
-Không phù hợp triển khai đại trà nhưng có tiềm năng cho recommendation cá nhân hóa.
-
+* Better representation of customer needs.
+* More interpretable purchasing patterns.
+* Reduced SKU fragmentation caused by brand, color, size, and fragrance variations.
 
 ---
 
-## Đề xuất hành động Marketing:
+## 3. Methodology
 
-994 association rules được phân tích và ưu tiên thành 3 nhóm hành động:
+### Association Rule Mining
 
-| Ưu tiên | # Rules | Mục tiêu | Hành động |
-|-----------|---------:|-----------|-----------|
-| 🟢 1 | confidence > 0.3; lift = [1.6 - 1.8]; leverage > 90 | Triển khai ngay | Recommendation, Cross-sell, Bundle Promotion |
-| 🔵 2 | lift > 1.7; confidence < 0.25 | Cá nhân hóa | Segment-based Recommendation, CRM |
-| 🟡 3 |  lift = [1.35–1.70]; confidence = [0.15–0.3]; leverage > 90 | Theo dõi & thử nghiệm | A/B Testing, Validation |
+Applied the Apriori algorithm at the Subcategory level to identify purchasing associations across product groups.
+
+| Metric | Business Meaning	| Threshold |
+|---|---|---|
+| Support |	% of baskets containing both product groups |	≥ 0.1% |
+| Confidence | Probability of purchasing product group B after purchasing A	| ≥ 10% |
+| Lift | Association strength beyond random chance | ≥ 1.2 |
+
+### Other terminologies
+
+* **Antecedents:**
+* **Consequents:**
+* **Association Rule:**
+
+### Action Framework
+
+| Action Group | Determination | Interpretation |Recommended Action |
+|---|---|---|---|
+| Scale | Support ≥ 0.002 & Confidence ≥ 0.1692 | High-tier Support and Confidence |Bundles and broad recommendations |
+| Reach | Support ≥ 0.002 & Confidence ≤ 0.1692 |	High-tier Support but low-tier Confidence | Promotional testing and exploration |
+| Precision	| Support ≤ 0.002 & Confidence ≥ 0.1692 | Low-tier Support but high-tier Confidence | Personalized cross-selling |
+| Monitor	| Support ≤ 0.002 & Confidence ≤ 0.1692 | Low-tier Support and Confidence | Periodic review |
 
 ---
 
-## Hạn chế của phân tích hiện tại
+## 4. Key findings: What do current baskets tell us?
 
-Framework hiện tại mới phân loại được khoảng **13% trong tổng số 994 rules**.
+* The most common product combinations are centered around personal care categories, including nail care, body care, hand care, bath products, and hair care.
 
-Một số hạn chế:
+* The strongest associations (high lift) suggest two dominant customer needs:
 
-- Ngưỡng phân loại được xác định thủ công.
-- Các nhóm có thể chồng lấn nhau.
-- Chưa đảm bảo tính MECE.
+  * Holistic self-care: hair care, facial skincare, body cleansing, nail care.
+  * At-home wellness spa: personal care products purchased alongside candles, diffusers, home fragrance, and spa products.
 
----
-
-## Hướng phát triển & cải thiện:
-
-### 1. Xây dựng Composite Score
-
-Kết hợp:
-
-- Lift
-- Confidence
-- Leverage
-
-thành một chỉ số tổng hợp giúp so sánh và xếp hạng rules hiệu quả hơn.
-
-### 2. Phân cụm Association Rules
-
-- Khám phá các nhóm hành vi tự nhiên.
-- Giảm phụ thuộc vào business rule thủ công.
-
-### 3. Sequential Pattern Mining
-
-Market Basket Analysis chỉ trả lời:
-
-> "Khách hàng mua A và B cùng nhau"
-
-Nhưng chưa trả lời được:
-
-> "Khách hàng mua A trước hay mua B trước?"
-
-Nếu có dữ liệu theo thời gian, Sequential Pattern Mining có thể giúp xây dựng hệ thống recommendation chính xác hơn dựa trên hành trình mua hàng thực tế.
+* Support, Confidence, and Lift capture different dimensions of customer behavior. Yet, little overlap exists between top rules ranked by Support, Confidence, and Lift, confirming that no single metric is sufficient for business decision-making.
 
 ---
 
