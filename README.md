@@ -24,7 +24,12 @@ This project applies Market Basket Analysis (MBA) to uncover purchasing patterns
 
 ---
 
-## 3. Dataset overview
+## 3. Analytical Workflow
+
+Transaction Data → Basket Transformation → Frequent Itemsets (Apriori) → Association Rules → Rule Evaluation → Action Segmentation → Recommendation Framework
+
+---
+## 4. Dataset overview
 
 The analysis is based on 25,728 transaction baskets collected between 2020 and 2023.
 
@@ -46,7 +51,7 @@ This approach provides:
 
 ---
 
-## 4. Methodology
+## 5. Methodology
 
 ### Association Rule Mining
 
@@ -66,29 +71,35 @@ Applied the Apriori algorithm at the Subcategory level to identify purchasing as
 
 ---
 
-## 4. Key findings: What do current baskets tell us?
+## 6. Key results
 
-* The most common product combinations are centered around personal care categories, including nail care, body care, hand care, bath products, and hair care.
-
-* The strongest associations (high lift) suggest two dominant customer needs:
-
-  * Holistic self-care: hair care, facial skincare, body cleansing, nail care.
-  * At-home wellness spa: personal care products purchased alongside candles, diffusers, home fragrance, and spa products.
-
-* Support, Confidence, and Lift capture different dimensions of customer behavior. Yet, little overlap exists between top rules ranked by Support, Confidence, and Lift, confirming that no single metric is sufficient for business decision-making.
+* 25,728 baskets analyzed
+* ~20,000 SKUs evaluated
+* 2,004 association rules identified
+* 17 subcategories analyzed
+* 4 recommendation action groups created
 
 ---
 
-## 5. Association Rules Matrix & Action Framework
+## 7. Final Deliverables
 
-### Bubble Chart 01: Three metrics show different dimension, no single metric is inherently superior
+* Market Basket Analysis Notebook
+* Association Rule Dataset
+* Power BI Recommendation Dashboard
+* Business Recommendations
+
+---
+
+## 8. MBA Bubble Chart, Association Rules Matrix & Action Framework
+
+### Strong Associations Are Not Necessarily the Most Scalable Opportunities
 
 ***Finding:** Rules with the strongest associations (highest lift values) are distributed across all support-confidence quadrants. This suggests that association strength is largely independent of rule popularity and conversion likelihood in the current dataset.*
 
 <img src='images/Meaningful association rules.png' width=800>
 
 
-### Bubble Chart 02: Association Rules Matrix
+### Association Rules Action Matrix
 
 ***Implication:** Lift was used as a qualification criterion to ensure that only rules exhibiting meaningful associations beyond random chance were considered. Subsequent action segmentation was performed using Support and Confidence, representing market reach and conversion potential, respectively.*
 
@@ -107,7 +118,18 @@ Applied the Apriori algorithm at the Subcategory level to identify purchasing as
 
 ---
 
-## 6. Python Libraries
+## 9. Key findings: Executive Summary
+
+* Customers do not shop by individual products. Instead, they purchase around broader self-care and wellness needs.
+* Two major purchase journeys were identified:
+  * Holistic self-care Journey
+  * At-home Wellness Journey
+  > These patterns create opportunities for category-level recommendations and targeted cross-selling initiatives.
+
+
+---
+
+## 10. Python Libraries
 
 * Pandas
 * NumPy
