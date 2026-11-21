@@ -1,0 +1,945 @@
+﻿support,confidence,lift,antecedents_str,consequents_str,combo_str,ActionGroup
+0.0012,0.1824,1.9323,"candles, sprays, diffusers/ Accessories",hair colors and toners,"candles, sprays, diffusers/ Accessories + hair colors and toners",Precision
+0.0021,0.1809,1.9171,"candles, sprays, diffusers/ shampoos and conditioners",hair colors and toners,"candles, sprays, diffusers/ shampoos and conditioners + hair colors and toners",Scale
+0.0014,0.2164,1.8675,shampoos and conditioners/ Lipsticks,face moisturizing products,shampoos and conditioners/ Lipsticks + face moisturizing products,Precision
+0.0011,0.2979,1.8520,face masks and exfoliators/ Lipsticks,shampoos and conditioners,face masks and exfoliators/ Lipsticks + shampoos and conditioners,Precision
+0.0012,0.1739,1.8428,Body soaps and washes/ face masks and exfoliators,Accessories,Body soaps and washes/ face masks and exfoliators + Accessories,Precision
+0.0021,0.1455,1.8234,hair colors and toners/ shampoos and conditioners,"candles, sprays, diffusers","hair colors and toners/ shampoos and conditioners + candles, sprays, diffusers",Reach
+0.0023,0.2042,1.7994,"candles, sprays, diffusers/ bath oils, bubbles and soaks",face masks and exfoliators,"candles, sprays, diffusers/ bath oils, bubbles and soaks + face masks and exfoliators",Scale
+0.0015,0.1696,1.7976,Accessories/ brushes and applicators,hair colors and toners,Accessories/ brushes and applicators + hair colors and toners,Precision
+0.0012,0.3563,1.7895,foundations and concealers/ Lipsticks,Nail care products,foundations and concealers/ Lipsticks + Nail care products,Precision
+0.0023,0.2636,1.7864,"candles, sprays, diffusers/ face masks and exfoliators","bath oils, bubbles and soaks","candles, sprays, diffusers/ face masks and exfoliators + bath oils, bubbles and soaks",Scale
+0.0029,0.1670,1.7700,brushes and applicators/ Nail care products,Accessories,brushes and applicators/ Nail care products + Accessories,Reach
+0.0015,0.1674,1.7687,hair colors and toners/ Accessories,brushes and applicators,hair colors and toners/ Accessories + brushes and applicators,Monitor
+0.0016,0.1660,1.7539,face moisturizing products/ hair colors and toners,brushes and applicators,face moisturizing products/ hair colors and toners + brushes and applicators,Monitor
+0.0011,0.2029,1.7511,"bath oils, bubbles and soaks/ Lipsticks",face moisturizing products,"bath oils, bubbles and soaks/ Lipsticks + face moisturizing products",Precision
+0.0027,0.2584,1.7511,Accessories/ face masks and exfoliators,"bath oils, bubbles and soaks","Accessories/ face masks and exfoliators + bath oils, bubbles and soaks",Scale
+0.0013,0.1650,1.7484,Body soaps and washes/ vitamins and supplements,Accessories,Body soaps and washes/ vitamins and supplements + Accessories,Monitor
+0.0029,0.1652,1.7455,Accessories/ Nail care products,brushes and applicators,Accessories/ Nail care products + brushes and applicators,Reach
+0.0014,0.2803,1.7428,face moisturizing products/ Lipsticks,shampoos and conditioners,face moisturizing products/ Lipsticks + shampoos and conditioners,Precision
+0.0019,0.2008,1.7331,shampoos and conditioners/ Body soaps and washes,face moisturizing products,shampoos and conditioners/ Body soaps and washes + face moisturizing products,Precision
+0.0018,0.1492,1.7323,face moisturizing products/ vitamins and supplements,foundations and concealers,face moisturizing products/ vitamins and supplements + foundations and concealers,Monitor
+0.0013,0.2538,1.7200,fragrances/ Nail care products,"bath oils, bubbles and soaks","fragrances/ Nail care products + bath oils, bubbles and soaks",Precision
+0.0010,0.3421,1.7181,fragrances/ vitamins and supplements,Nail care products,fragrances/ vitamins and supplements + Nail care products,Precision
+0.0012,0.2462,1.7116,fragrances/ Nail care products,body moisturizers,fragrances/ Nail care products + body moisturizers,Precision
+0.0012,0.1366,1.7114,hair colors and toners/ Accessories,"candles, sprays, diffusers","hair colors and toners/ Accessories + candles, sprays, diffusers",Monitor
+0.0021,0.2750,1.7098,"hair colors and toners/ candles, sprays, diffusers",shampoos and conditioners,"hair colors and toners/ candles, sprays, diffusers + shampoos and conditioners",Scale
+0.0012,0.1199,1.7083,Accessories/ face masks and exfoliators,Body soaps and washes,Accessories/ face masks and exfoliators + Body soaps and washes,Monitor
+0.0012,0.1357,1.7012,Body soaps and washes/ body moisturizers,"candles, sprays, diffusers","Body soaps and washes/ body moisturizers + candles, sprays, diffusers",Monitor
+0.0018,0.1597,1.6925,foundations and concealers/ hand creams,hair colors and toners,foundations and concealers/ hand creams + hair colors and toners,Monitor
+0.0015,0.1597,1.6919,hair colors and toners/ brushes and applicators,Accessories,hair colors and toners/ brushes and applicators + Accessories,Monitor
+0.0021,0.1596,1.6916,Accessories/ hand creams,hair colors and toners,Accessories/ hand creams + hair colors and toners,Monitor
+0.0013,0.2481,1.6892,vitamins and supplements/ Lipsticks,hand creams,vitamins and supplements/ Lipsticks + hand creams,Precision
+0.0029,0.3348,1.6815,Accessories/ brushes and applicators,Nail care products,Accessories/ brushes and applicators + Nail care products,Scale
+0.0022,0.1591,1.6809,"hair colors and toners/ bath oils, bubbles and soaks",brushes and applicators,"hair colors and toners/ bath oils, bubbles and soaks + brushes and applicators",Reach
+0.0017,0.1339,1.6784,hair colors and toners/ hand creams,"candles, sprays, diffusers","hair colors and toners/ hand creams + candles, sprays, diffusers",Monitor
+0.0012,0.1905,1.6783,Body soaps and washes/ Accessories,face masks and exfoliators,Body soaps and washes/ Accessories + face masks and exfoliators,Precision
+0.0035,0.2473,1.6754,shampoos and conditioners/ Accessories,"bath oils, bubbles and soaks","shampoos and conditioners/ Accessories + bath oils, bubbles and soaks",Scale
+0.0022,0.1577,1.6715,"bath oils, bubbles and soaks/ brushes and applicators",hair colors and toners,"bath oils, bubbles and soaks/ brushes and applicators + hair colors and toners",Reach
+0.0021,0.1577,1.6715,hair colors and toners/ hand creams,Accessories,hair colors and toners/ hand creams + Accessories,Monitor
+0.0021,0.2466,1.6712,foundations and concealers/ face masks and exfoliators,"bath oils, bubbles and soaks","foundations and concealers/ face masks and exfoliators + bath oils, bubbles and soaks",Scale
+0.0035,0.1573,1.6673,"shampoos and conditioners/ bath oils, bubbles and soaks",Accessories,"shampoos and conditioners/ bath oils, bubbles and soaks + Accessories",Reach
+0.0026,0.2454,1.6629,Accessories/ Eye shadows and pencils,"bath oils, bubbles and soaks","Accessories/ Eye shadows and pencils + bath oils, bubbles and soaks",Scale
+0.0013,0.1325,1.6609,Body soaps and washes/ shampoos and conditioners,"candles, sprays, diffusers","Body soaps and washes/ shampoos and conditioners + candles, sprays, diffusers",Monitor
+0.0013,0.3300,1.6573,"fragrances/ bath oils, bubbles and soaks",Nail care products,"fragrances/ bath oils, bubbles and soaks + Nail care products",Precision
+0.0012,0.3299,1.6568,fragrances/ body moisturizers,Nail care products,fragrances/ body moisturizers + Nail care products,Precision
+0.0011,0.3295,1.6550,Accessories/ Lipsticks,Nail care products,Accessories/ Lipsticks + Nail care products,Precision
+0.0010,0.1161,1.6545,Accessories/ brushes and applicators,Body soaps and washes,Accessories/ brushes and applicators + Body soaps and washes,Monitor
+0.0026,0.2659,1.6531,hair colors and toners/ face masks and exfoliators,shampoos and conditioners,hair colors and toners/ face masks and exfoliators + shampoos and conditioners,Scale
+0.0027,0.1558,1.6505,"face masks and exfoliators/ bath oils, bubbles and soaks",Accessories,"face masks and exfoliators/ bath oils, bubbles and soaks + Accessories",Reach
+0.0010,0.1557,1.6497,Body soaps and washes/ brushes and applicators,Accessories,Body soaps and washes/ brushes and applicators + Accessories,Monitor
+0.0025,0.1561,1.6493,face moisturizing products/ hand creams,brushes and applicators,face moisturizing products/ hand creams + brushes and applicators,Reach
+0.0017,0.1552,1.6443,"candles, sprays, diffusers/ hand creams",hair colors and toners,"candles, sprays, diffusers/ hand creams + hair colors and toners",Monitor
+0.0026,0.1551,1.6434,shampoos and conditioners/ face masks and exfoliators,hair colors and toners,shampoos and conditioners/ face masks and exfoliators + hair colors and toners,Reach
+0.0017,0.1555,1.6428,hair colors and toners/ vitamins and supplements,brushes and applicators,hair colors and toners/ vitamins and supplements + brushes and applicators,Monitor
+0.0012,0.1550,1.6424,"hair colors and toners/ candles, sprays, diffusers",Accessories,"hair colors and toners/ candles, sprays, diffusers + Accessories",Monitor
+0.0023,0.1309,1.6407,"face masks and exfoliators/ bath oils, bubbles and soaks","candles, sprays, diffusers","face masks and exfoliators/ bath oils, bubbles and soaks + candles, sprays, diffusers",Reach
+0.0021,0.2409,1.6401,"candles, sprays, diffusers/ face masks and exfoliators",hand creams,"candles, sprays, diffusers/ face masks and exfoliators + hand creams",Precision
+0.0025,0.3265,1.6399,foundations and concealers/ hair colors and toners,Nail care products,foundations and concealers/ hair colors and toners + Nail care products,Scale
+0.0032,0.2635,1.6383,face moisturizing products/ vitamins and supplements,shampoos and conditioners,face moisturizing products/ vitamins and supplements + shampoos and conditioners,Scale
+0.0012,0.1550,1.6377,Body soaps and washes/ vitamins and supplements,brushes and applicators,Body soaps and washes/ vitamins and supplements + brushes and applicators,Monitor
+0.0027,0.2405,1.6377,brushes and applicators/ vitamins and supplements,hand creams,brushes and applicators/ vitamins and supplements + hand creams,Scale
+0.0010,0.1548,1.6352,Body soaps and washes/ Accessories,brushes and applicators,Body soaps and washes/ Accessories + brushes and applicators,Monitor
+0.0012,0.1403,1.6286,Lipsticks/ Nail care products,foundations and concealers,Lipsticks/ Nail care products + foundations and concealers,Monitor
+0.0027,0.1845,1.6256,"Accessories/ bath oils, bubbles and soaks",face masks and exfoliators,"Accessories/ bath oils, bubbles and soaks + face masks and exfoliators",Scale
+0.0013,0.1538,1.6255,Body soaps and washes/ body moisturizers,brushes and applicators,Body soaps and washes/ body moisturizers + brushes and applicators,Monitor
+0.0029,0.2381,1.6210,face moisturizing products/ vitamins and supplements,hand creams,face moisturizing products/ vitamins and supplements + hand creams,Scale
+0.0025,0.1394,1.6188,hair colors and toners/ Nail care products,foundations and concealers,hair colors and toners/ Nail care products + foundations and concealers,Reach
+0.0027,0.1532,1.6184,hand creams/ vitamins and supplements,brushes and applicators,hand creams/ vitamins and supplements + brushes and applicators,Reach
+0.0010,0.1875,1.6182,hair colors and toners/ Body soaps and washes,face moisturizing products,hair colors and toners/ Body soaps and washes + face moisturizing products,Precision
+0.0013,0.1134,1.6164,Accessories/ vitamins and supplements,Body soaps and washes,Accessories/ vitamins and supplements + Body soaps and washes,Monitor
+0.0026,0.1523,1.6135,"bath oils, bubbles and soaks/ vitamins and supplements",hair colors and toners,"bath oils, bubbles and soaks/ vitamins and supplements + hair colors and toners",Reach
+0.0019,0.1526,1.6129,hair colors and toners/ body moisturizers,brushes and applicators,hair colors and toners/ body moisturizers + brushes and applicators,Monitor
+0.0021,0.1286,1.6121,face masks and exfoliators/ hand creams,"candles, sprays, diffusers","face masks and exfoliators/ hand creams + candles, sprays, diffusers",Monitor
+0.0021,0.1828,1.6103,"candles, sprays, diffusers/ hand creams",face masks and exfoliators,"candles, sprays, diffusers/ hand creams + face masks and exfoliators",Precision
+0.0049,0.2376,1.6102,face masks and exfoliators/ Nail care products,"bath oils, bubbles and soaks","face masks and exfoliators/ Nail care products + bath oils, bubbles and soaks",Scale
+0.0037,0.1822,1.6050,"bath oils, bubbles and soaks/ hand creams",face masks and exfoliators,"bath oils, bubbles and soaks/ hand creams + face masks and exfoliators",Scale
+0.0026,0.2367,1.6042,hair colors and toners/ vitamins and supplements,"bath oils, bubbles and soaks","hair colors and toners/ vitamins and supplements + bath oils, bubbles and soaks",Scale
+0.0017,0.1512,1.6022,brushes and applicators/ vitamins and supplements,hair colors and toners,brushes and applicators/ vitamins and supplements + hair colors and toners,Monitor
+0.0013,0.1511,1.6012,"Body soaps and washes/ bath oils, bubbles and soaks",Accessories,"Body soaps and washes/ bath oils, bubbles and soaks + Accessories",Monitor
+0.0018,0.1122,1.5992,face moisturizing products/ hand creams,Body soaps and washes,face moisturizing products/ hand creams + Body soaps and washes,Monitor
+0.0012,0.2348,1.5989,face moisturizing products/ Lipsticks,hand creams,face moisturizing products/ Lipsticks + hand creams,Precision
+0.0018,0.1513,1.5988,"candles, sprays, diffusers/ shampoos and conditioners",brushes and applicators,"candles, sprays, diffusers/ shampoos and conditioners + brushes and applicators",Monitor
+0.0023,0.2348,1.5987,face moisturizing products/ hair colors and toners,hand creams,face moisturizing products/ hair colors and toners + hand creams,Scale
+0.0018,0.2347,1.5978,foundations and concealers/ hair colors and toners,hand creams,foundations and concealers/ hair colors and toners + hand creams,Precision
+0.0025,0.1506,1.5957,foundations and concealers/ Nail care products,hair colors and toners,foundations and concealers/ Nail care products + hair colors and toners,Reach
+0.0012,0.1119,1.5956,"candles, sprays, diffusers/ body moisturizers",Body soaps and washes,"candles, sprays, diffusers/ body moisturizers + Body soaps and washes",Monitor
+0.0022,0.2353,1.5943,hair colors and toners/ brushes and applicators,"bath oils, bubbles and soaks","hair colors and toners/ brushes and applicators + bath oils, bubbles and soaks",Scale
+0.0019,0.1503,1.5927,body moisturizers/ brushes and applicators,hair colors and toners,body moisturizers/ brushes and applicators + hair colors and toners,Monitor
+0.0022,0.1269,1.5909,brushes and applicators/ Nail care products,"candles, sprays, diffusers","brushes and applicators/ Nail care products + candles, sprays, diffusers",Reach
+0.0010,0.1806,1.5909,hair colors and toners/ Body soaps and washes,face masks and exfoliators,hair colors and toners/ Body soaps and washes + face masks and exfoliators,Precision
+0.0021,0.2335,1.5896,hair colors and toners/ Accessories,hand creams,hair colors and toners/ Accessories + hand creams,Precision
+0.0018,0.1369,1.5895,hair colors and toners/ hand creams,foundations and concealers,hair colors and toners/ hand creams + foundations and concealers,Monitor
+0.0029,0.1500,1.5895,shampoos and conditioners/ hand creams,hair colors and toners,shampoos and conditioners/ hand creams + hair colors and toners,Reach
+0.0028,0.2286,1.5894,face moisturizing products/ vitamins and supplements,body moisturizers,face moisturizing products/ vitamins and supplements + body moisturizers,Scale
+0.0022,0.1504,1.5891,"candles, sprays, diffusers/ Nail care products",brushes and applicators,"candles, sprays, diffusers/ Nail care products + brushes and applicators",Reach
+0.0031,0.1503,1.5878,face moisturizing products/ Nail care products,brushes and applicators,face moisturizing products/ Nail care products + brushes and applicators,Reach
+0.0039,0.2342,1.5869,body moisturizers/ Eye shadows and pencils,"bath oils, bubbles and soaks","body moisturizers/ Eye shadows and pencils + bath oils, bubbles and soaks",Scale
+0.0039,0.1953,1.5827,"bath oils, bubbles and soaks/ body moisturizers",Eye shadows and pencils,"bath oils, bubbles and soaks/ body moisturizers + Eye shadows and pencils",Scale
+0.0012,0.2273,1.5803,"candles, sprays, diffusers/ Body soaps and washes",body moisturizers,"candles, sprays, diffusers/ Body soaps and washes + body moisturizers",Precision
+0.0037,0.2330,1.5788,face masks and exfoliators/ hand creams,"bath oils, bubbles and soaks","face masks and exfoliators/ hand creams + bath oils, bubbles and soaks",Scale
+0.0018,0.1829,1.5784,foundations and concealers/ vitamins and supplements,face moisturizing products,foundations and concealers/ vitamins and supplements + face moisturizing products,Precision
+0.0034,0.1786,1.5740,shampoos and conditioners/ vitamins and supplements,face masks and exfoliators,shampoos and conditioners/ vitamins and supplements + face masks and exfoliators,Scale
+0.0012,0.1824,1.5738,hand creams/ Lipsticks,face moisturizing products,hand creams/ Lipsticks + face moisturizing products,Precision
+0.0023,0.1255,1.5733,shampoos and conditioners/ Eye shadows and pencils,"candles, sprays, diffusers","shampoos and conditioners/ Eye shadows and pencils + candles, sprays, diffusers",Reach
+0.0020,0.2321,1.5730,Accessories/ brushes and applicators,"bath oils, bubbles and soaks","Accessories/ brushes and applicators + bath oils, bubbles and soaks",Precision
+0.0026,0.2313,1.5672,face moisturizing products/ face masks and exfoliators,"bath oils, bubbles and soaks","face moisturizing products/ face masks and exfoliators + bath oils, bubbles and soaks",Scale
+0.0029,0.2301,1.5663,body moisturizers/ brushes and applicators,hand creams,body moisturizers/ brushes and applicators + hand creams,Scale
+0.0011,0.3118,1.5660,shampoos and conditioners/ fragrances,Nail care products,shampoos and conditioners/ fragrances + Nail care products,Precision
+0.0017,0.3116,1.5648,"bath oils, bubbles and soaks/ Lipsticks",Nail care products,"bath oils, bubbles and soaks/ Lipsticks + Nail care products",Precision
+0.0025,0.1813,1.5648,hand creams/ brushes and applicators,face moisturizing products,hand creams/ brushes and applicators + face moisturizing products,Scale
+0.0034,0.2014,1.5625,shampoos and conditioners/ face masks and exfoliators,vitamins and supplements,shampoos and conditioners/ face masks and exfoliators + vitamins and supplements,Scale
+0.0026,0.1772,1.5617,hair colors and toners/ shampoos and conditioners,face masks and exfoliators,hair colors and toners/ shampoos and conditioners + face masks and exfoliators,Scale
+0.0021,0.1809,1.5615,"candles, sprays, diffusers/ shampoos and conditioners",face moisturizing products,"candles, sprays, diffusers/ shampoos and conditioners + face moisturizing products",Scale
+0.0025,0.1477,1.5609,"bath oils, bubbles and soaks/ vitamins and supplements",brushes and applicators,"bath oils, bubbles and soaks/ vitamins and supplements + brushes and applicators",Reach
+0.0010,0.1093,1.5581,face moisturizing products/ hair colors and toners,Body soaps and washes,face moisturizing products/ hair colors and toners + Body soaps and washes,Monitor
+0.0031,0.1804,1.5570,brushes and applicators/ Nail care products,face moisturizing products,brushes and applicators/ Nail care products + face moisturizing products,Scale
+0.0024,0.2296,1.5559,face masks and exfoliators/ brushes and applicators,"bath oils, bubbles and soaks","face masks and exfoliators/ brushes and applicators + bath oils, bubbles and soaks",Scale
+0.0013,0.2500,1.5544,"candles, sprays, diffusers/ Body soaps and washes",shampoos and conditioners,"candles, sprays, diffusers/ Body soaps and washes + shampoos and conditioners",Precision
+0.0021,0.2500,1.5544,"face moisturizing products/ candles, sprays, diffusers",shampoos and conditioners,"face moisturizing products/ candles, sprays, diffusers + shampoos and conditioners",Scale
+0.0035,0.1800,1.5535,shampoos and conditioners/ hand creams,face moisturizing products,shampoos and conditioners/ hand creams + face moisturizing products,Scale
+0.0021,0.1763,1.5532,"foundations and concealers/ bath oils, bubbles and soaks",face masks and exfoliators,"foundations and concealers/ bath oils, bubbles and soaks + face masks and exfoliators",Scale
+0.0038,0.2292,1.5528,shampoos and conditioners/ face masks and exfoliators,"bath oils, bubbles and soaks","shampoos and conditioners/ face masks and exfoliators + bath oils, bubbles and soaks",Scale
+0.0020,0.1465,1.5521,"bath oils, bubbles and soaks/ brushes and applicators",Accessories,"bath oils, bubbles and soaks/ brushes and applicators + Accessories",Monitor
+0.0016,0.1238,1.5519,face moisturizing products/ Eye shadows and pencils,"candles, sprays, diffusers","face moisturizing products/ Eye shadows and pencils + candles, sprays, diffusers",Monitor
+0.0013,0.2000,1.5517,"candles, sprays, diffusers/ Accessories",vitamins and supplements,"candles, sprays, diffusers/ Accessories + vitamins and supplements",Precision
+0.0010,0.2000,1.5517,fragrances/ Nail care products,vitamins and supplements,fragrances/ Nail care products + vitamins and supplements,Precision
+0.0010,0.1467,1.5504,Body soaps and washes/ face masks and exfoliators,brushes and applicators,Body soaps and washes/ face masks and exfoliators + brushes and applicators,Monitor
+0.0026,0.1463,1.5501,"bath oils, bubbles and soaks/ Eye shadows and pencils",Accessories,"bath oils, bubbles and soaks/ Eye shadows and pencils + Accessories",Reach
+0.0039,0.2227,1.5487,brushes and applicators/ Nail care products,body moisturizers,brushes and applicators/ Nail care products + body moisturizers,Scale
+0.0016,0.3083,1.5482,vitamins and supplements/ Lipsticks,Nail care products,vitamins and supplements/ Lipsticks + Nail care products,Precision
+0.0013,0.1086,1.5473,"candles, sprays, diffusers/ shampoos and conditioners",Body soaps and washes,"candles, sprays, diffusers/ shampoos and conditioners + Body soaps and washes",Monitor
+0.0045,0.2224,1.5467,face masks and exfoliators/ Nail care products,body moisturizers,face masks and exfoliators/ Nail care products + body moisturizers,Scale
+0.0023,0.1908,1.5460,"candles, sprays, diffusers/ shampoos and conditioners",Eye shadows and pencils,"candles, sprays, diffusers/ shampoos and conditioners + Eye shadows and pencils",Scale
+0.0017,0.1331,1.5456,face moisturizing products/ Eye shadows and pencils,foundations and concealers,face moisturizing products/ Eye shadows and pencils + foundations and concealers,Monitor
+0.0029,0.1462,1.5447,hand creams/ body moisturizers,brushes and applicators,hand creams/ body moisturizers + brushes and applicators,Reach
+0.0030,0.1461,1.5438,"bath oils, bubbles and soaks/ hand creams",brushes and applicators,"bath oils, bubbles and soaks/ hand creams + brushes and applicators",Reach
+0.0013,0.2481,1.5427,vitamins and supplements/ Lipsticks,shampoos and conditioners,vitamins and supplements/ Lipsticks + shampoos and conditioners,Precision
+0.0039,0.3067,1.5405,body moisturizers/ brushes and applicators,Nail care products,body moisturizers/ brushes and applicators + Nail care products,Scale
+0.0019,0.2262,1.5403,Lipsticks/ Nail care products,hand creams,Lipsticks/ Nail care products + hand creams,Precision
+0.0023,0.2273,1.5400,face moisturizing products/ Accessories,"bath oils, bubbles and soaks","face moisturizing products/ Accessories + bath oils, bubbles and soaks",Scale
+0.0017,0.1784,1.5399,foundations and concealers/ Eye shadows and pencils,face moisturizing products,foundations and concealers/ Eye shadows and pencils + face moisturizing products,Precision
+0.0034,0.3066,1.5399,foundations and concealers/ body moisturizers,Nail care products,foundations and concealers/ body moisturizers + Nail care products,Scale
+0.0025,0.2261,1.5397,face moisturizing products/ brushes and applicators,hand creams,face moisturizing products/ brushes and applicators + hand creams,Scale
+0.0024,0.1746,1.5388,"bath oils, bubbles and soaks/ brushes and applicators",face masks and exfoliators,"bath oils, bubbles and soaks/ brushes and applicators + face masks and exfoliators",Scale
+0.0027,0.1983,1.5386,hand creams/ brushes and applicators,vitamins and supplements,hand creams/ brushes and applicators + vitamins and supplements,Scale
+0.0021,0.1456,1.5384,shampoos and conditioners/ Accessories,brushes and applicators,shampoos and conditioners/ Accessories + brushes and applicators,Monitor
+0.0049,0.1746,1.5382,"bath oils, bubbles and soaks/ Nail care products",face masks and exfoliators,"bath oils, bubbles and soaks/ Nail care products + face masks and exfoliators",Scale
+0.0029,0.2270,1.5381,body moisturizers/ brushes and applicators,"bath oils, bubbles and soaks","body moisturizers/ brushes and applicators + bath oils, bubbles and soaks",Scale
+0.0018,0.1227,1.5372,shampoos and conditioners/ brushes and applicators,"candles, sprays, diffusers","shampoos and conditioners/ brushes and applicators + candles, sprays, diffusers",Monitor
+0.0012,0.1455,1.5369,"candles, sprays, diffusers/ face masks and exfoliators",brushes and applicators,"candles, sprays, diffusers/ face masks and exfoliators + brushes and applicators",Monitor
+0.0020,0.1449,1.5353,"hair colors and toners/ bath oils, bubbles and soaks",Accessories,"hair colors and toners/ bath oils, bubbles and soaks + Accessories",Monitor
+0.0018,0.2255,1.5352,face moisturizing products/ Body soaps and washes,hand creams,face moisturizing products/ Body soaps and washes + hand creams,Precision
+0.0016,0.1449,1.5352,face moisturizing products/ brushes and applicators,hair colors and toners,face moisturizing products/ brushes and applicators + hair colors and toners,Monitor
+0.0018,0.1776,1.5329,Body soaps and washes/ hand creams,face moisturizing products,Body soaps and washes/ hand creams + face moisturizing products,Precision
+0.0019,0.1075,1.5327,face moisturizing products/ shampoos and conditioners,Body soaps and washes,face moisturizing products/ shampoos and conditioners + Body soaps and washes,Monitor
+0.0014,0.1446,1.5320,Body soaps and washes/ shampoos and conditioners,Accessories,Body soaps and washes/ shampoos and conditioners + Accessories,Monitor
+0.0017,0.2250,1.5318,"hair colors and toners/ candles, sprays, diffusers",hand creams,"hair colors and toners/ candles, sprays, diffusers + hand creams",Precision
+0.0016,0.1448,1.5302,"candles, sprays, diffusers/ hand creams",brushes and applicators,"candles, sprays, diffusers/ hand creams + brushes and applicators",Monitor
+0.0029,0.1445,1.5271,"bath oils, bubbles and soaks/ body moisturizers",brushes and applicators,"bath oils, bubbles and soaks/ body moisturizers + brushes and applicators",Reach
+0.0021,0.1440,1.5259,shampoos and conditioners/ brushes and applicators,hair colors and toners,shampoos and conditioners/ brushes and applicators + hair colors and toners,Reach
+0.0038,0.1731,1.5250,"shampoos and conditioners/ bath oils, bubbles and soaks",face masks and exfoliators,"shampoos and conditioners/ bath oils, bubbles and soaks + face masks and exfoliators",Scale
+0.0039,0.1443,1.5247,body moisturizers/ Nail care products,brushes and applicators,body moisturizers/ Nail care products + brushes and applicators,Reach
+0.0023,0.2239,1.5242,"candles, sprays, diffusers/ body moisturizers",hand creams,"candles, sprays, diffusers/ body moisturizers + hand creams",Scale
+0.0013,0.1964,1.5240,Body soaps and washes/ Accessories,vitamins and supplements,Body soaps and washes/ Accessories + vitamins and supplements,Precision
+0.0019,0.2451,1.5239,face moisturizing products/ Body soaps and washes,shampoos and conditioners,face moisturizing products/ Body soaps and washes + shampoos and conditioners,Precision
+0.0020,0.2247,1.5223,hair colors and toners/ Accessories,"bath oils, bubbles and soaks","hair colors and toners/ Accessories + bath oils, bubbles and soaks",Precision
+0.0012,0.1215,1.5221,face moisturizing products/ hair colors and toners,"candles, sprays, diffusers","face moisturizing products/ hair colors and toners + candles, sprays, diffusers",Monitor
+0.0013,0.1214,1.5217,brushes and applicators/ Eye shadows and pencils,"candles, sprays, diffusers","brushes and applicators/ Eye shadows and pencils + candles, sprays, diffusers",Monitor
+0.0023,0.2447,1.5216,"candles, sprays, diffusers/ Eye shadows and pencils",shampoos and conditioners,"candles, sprays, diffusers/ Eye shadows and pencils + shampoos and conditioners",Scale
+0.0047,0.2245,1.5211,face moisturizing products/ Nail care products,"bath oils, bubbles and soaks","face moisturizing products/ Nail care products + bath oils, bubbles and soaks",Scale
+0.0026,0.1760,1.5190,shampoos and conditioners/ brushes and applicators,face moisturizing products,shampoos and conditioners/ brushes and applicators + face moisturizing products,Scale
+0.0018,0.1433,1.5185,hair colors and toners/ body moisturizers,Accessories,hair colors and toners/ body moisturizers + Accessories,Monitor
+0.0018,0.1433,1.5185,Accessories/ body moisturizers,hair colors and toners,Accessories/ body moisturizers + hair colors and toners,Monitor
+0.0012,0.1065,1.5184,brushes and applicators/ vitamins and supplements,Body soaps and washes,brushes and applicators/ vitamins and supplements + Body soaps and washes,Monitor
+0.0039,0.2183,1.5182,"bath oils, bubbles and soaks/ Eye shadows and pencils",body moisturizers,"bath oils, bubbles and soaks/ Eye shadows and pencils + body moisturizers",Scale
+0.0016,0.2228,1.5170,Body soaps and washes/ face masks and exfoliators,hand creams,Body soaps and washes/ face masks and exfoliators + hand creams,Precision
+0.0013,0.1435,1.5158,"candles, sprays, diffusers/ Eye shadows and pencils",brushes and applicators,"candles, sprays, diffusers/ Eye shadows and pencils + brushes and applicators",Monitor
+0.0025,0.2234,1.5135,brushes and applicators/ vitamins and supplements,"bath oils, bubbles and soaks","brushes and applicators/ vitamins and supplements + bath oils, bubbles and soaks",Scale
+0.0022,0.1717,1.5127,Accessories/ hand creams,face masks and exfoliators,Accessories/ hand creams + face masks and exfoliators,Scale
+0.0018,0.1716,1.5123,"candles, sprays, diffusers/ body moisturizers",face masks and exfoliators,"candles, sprays, diffusers/ body moisturizers + face masks and exfoliators",Precision
+0.0017,0.1429,1.5094,face moisturizing products/ vitamins and supplements,brushes and applicators,face moisturizing products/ vitamins and supplements + brushes and applicators,Monitor
+0.0021,0.1429,1.5094,hair colors and toners/ shampoos and conditioners,brushes and applicators,hair colors and toners/ shampoos and conditioners + brushes and applicators,Reach
+0.0019,0.1429,1.5094,hair colors and toners/ hand creams,brushes and applicators,hair colors and toners/ hand creams + brushes and applicators,Monitor
+0.0014,0.1429,1.5094,hair colors and toners/ face masks and exfoliators,brushes and applicators,hair colors and toners/ face masks and exfoliators + brushes and applicators,Monitor
+0.0013,0.1941,1.5061,hand creams/ Lipsticks,vitamins and supplements,hand creams/ Lipsticks + vitamins and supplements,Precision
+0.0018,0.1424,1.5047,face moisturizing products/ Eye shadows and pencils,brushes and applicators,face moisturizing products/ Eye shadows and pencils + brushes and applicators,Monitor
+0.0019,0.1742,1.5036,foundations and concealers/ body moisturizers,face moisturizing products,foundations and concealers/ body moisturizers + face moisturizing products,Precision
+0.0038,0.1416,1.5005,shampoos and conditioners/ Nail care products,hair colors and toners,shampoos and conditioners/ Nail care products + hair colors and toners,Reach
+0.0026,0.1419,1.4997,face moisturizing products/ shampoos and conditioners,brushes and applicators,face moisturizing products/ shampoos and conditioners + brushes and applicators,Reach
+0.0023,0.1415,1.4990,face moisturizing products/ hand creams,hair colors and toners,face moisturizing products/ hand creams + hair colors and toners,Reach
+0.0021,0.1413,1.4976,shampoos and conditioners/ brushes and applicators,Accessories,shampoos and conditioners/ brushes and applicators + Accessories,Monitor
+0.0010,0.1413,1.4973,Body soaps and washes/ face masks and exfoliators,hair colors and toners,Body soaps and washes/ face masks and exfoliators + hair colors and toners,Monitor
+0.0013,0.1930,1.4973,shampoos and conditioners/ Lipsticks,vitamins and supplements,shampoos and conditioners/ Lipsticks + vitamins and supplements,Precision
+0.0035,0.2406,1.4962,"Accessories/ bath oils, bubbles and soaks",shampoos and conditioners,"Accessories/ bath oils, bubbles and soaks + shampoos and conditioners",Scale
+0.0015,0.1733,1.4960,"Body soaps and washes/ bath oils, bubbles and soaks",face moisturizing products,"Body soaps and washes/ bath oils, bubbles and soaks + face moisturizing products",Precision
+0.0040,0.2208,1.4960,shampoos and conditioners/ Eye shadows and pencils,"bath oils, bubbles and soaks","shampoos and conditioners/ Eye shadows and pencils + bath oils, bubbles and soaks",Scale
+0.0019,0.1696,1.4944,hair colors and toners/ vitamins and supplements,face masks and exfoliators,hair colors and toners/ vitamins and supplements + face masks and exfoliators,Precision
+0.0026,0.2403,1.4940,hair colors and toners/ vitamins and supplements,shampoos and conditioners,hair colors and toners/ vitamins and supplements + shampoos and conditioners,Scale
+0.0020,0.2194,1.4938,"candles, sprays, diffusers/ Eye shadows and pencils",hand creams,"candles, sprays, diffusers/ Eye shadows and pencils + hand creams",Precision
+0.0016,0.1409,1.4930,brushes and applicators/ vitamins and supplements,Accessories,brushes and applicators/ vitamins and supplements + Accessories,Monitor
+0.0029,0.2202,1.4923,hair colors and toners/ hand creams,"bath oils, bubbles and soaks","hair colors and toners/ hand creams + bath oils, bubbles and soaks",Scale
+0.0016,0.1190,1.4910,hand creams/ brushes and applicators,"candles, sprays, diffusers","hand creams/ brushes and applicators + candles, sprays, diffusers",Monitor
+0.0049,0.2967,1.4902,body moisturizers/ vitamins and supplements,Nail care products,body moisturizers/ vitamins and supplements + Nail care products,Scale
+0.0024,0.2143,1.4900,face moisturizing products/ face masks and exfoliators,body moisturizers,face moisturizing products/ face masks and exfoliators + body moisturizers,Scale
+0.0023,0.1726,1.4898,hair colors and toners/ hand creams,face moisturizing products,hair colors and toners/ hand creams + face moisturizing products,Scale
+0.0016,0.1409,1.4887,Accessories/ vitamins and supplements,brushes and applicators,Accessories/ vitamins and supplements + brushes and applicators,Monitor
+0.0029,0.1404,1.4879,"bath oils, bubbles and soaks/ hand creams",hair colors and toners,"bath oils, bubbles and soaks/ hand creams + hair colors and toners",Reach
+0.0045,0.1688,1.4876,body moisturizers/ Nail care products,face masks and exfoliators,body moisturizers/ Nail care products + face masks and exfoliators,Reach
+0.0016,0.1723,1.4868,hair colors and toners/ brushes and applicators,face moisturizing products,hair colors and toners/ brushes and applicators + face moisturizing products,Precision
+0.0013,0.1043,1.4866,brushes and applicators/ body moisturizers,Body soaps and washes,brushes and applicators/ body moisturizers + Body soaps and washes,Monitor
+0.0017,0.2194,1.4865,hair colors and toners/ foundations and concealers,"bath oils, bubbles and soaks","hair colors and toners/ foundations and concealers + bath oils, bubbles and soaks",Precision
+0.0012,0.1185,1.4853,face masks and exfoliators/ brushes and applicators,"candles, sprays, diffusers","face masks and exfoliators/ brushes and applicators + candles, sprays, diffusers",Monitor
+0.0027,0.2190,1.4842,face moisturizing products/ vitamins and supplements,"bath oils, bubbles and soaks","face moisturizing products/ vitamins and supplements + bath oils, bubbles and soaks",Scale
+0.0015,0.1719,1.4840,Lipsticks/ Nail care products,face moisturizing products,Lipsticks/ Nail care products + face moisturizing products,Precision
+0.0019,0.2178,1.4827,"Body soaps and washes/ bath oils, bubbles and soaks",hand creams,"Body soaps and washes/ bath oils, bubbles and soaks + hand creams",Precision
+0.0021,0.1183,1.4823,face moisturizing products/ shampoos and conditioners,"candles, sprays, diffusers","face moisturizing products/ shampoos and conditioners + candles, sprays, diffusers",Reach
+0.0025,0.2177,1.4820,face moisturizing products/ face masks and exfoliators,hand creams,face moisturizing products/ face masks and exfoliators + hand creams,Scale
+0.0023,0.1402,1.4812,body moisturizers/ vitamins and supplements,brushes and applicators,body moisturizers/ vitamins and supplements + brushes and applicators,Reach
+0.0039,0.1397,1.4799,"bath oils, bubbles and soaks/ Nail care products",hair colors and toners,"bath oils, bubbles and soaks/ Nail care products + hair colors and toners",Reach
+0.0026,0.1396,1.4796,shampoos and conditioners/ vitamins and supplements,hair colors and toners,shampoos and conditioners/ vitamins and supplements + hair colors and toners,Reach
+0.0024,0.1400,1.4788,"face masks and exfoliators/ bath oils, bubbles and soaks",brushes and applicators,"face masks and exfoliators/ bath oils, bubbles and soaks + brushes and applicators",Reach
+0.0030,0.2181,1.4780,brushes and applicators/ hand creams,"bath oils, bubbles and soaks","brushes and applicators/ hand creams + bath oils, bubbles and soaks",Scale
+0.0019,0.1905,1.4779,hair colors and toners/ face masks and exfoliators,vitamins and supplements,hair colors and toners/ face masks and exfoliators + vitamins and supplements,Precision
+0.0027,0.2181,1.4776,Accessories/ body moisturizers,"bath oils, bubbles and soaks","Accessories/ body moisturizers + bath oils, bubbles and soaks",Scale
+0.0029,0.2125,1.4774,hand creams/ brushes and applicators,body moisturizers,hand creams/ brushes and applicators + body moisturizers,Scale
+0.0024,0.1179,1.4771,face masks and exfoliators/ Nail care products,"candles, sprays, diffusers","face masks and exfoliators/ Nail care products + candles, sprays, diffusers",Reach
+0.0019,0.2941,1.4771,hand creams/ Lipsticks,Nail care products,hand creams/ Lipsticks + Nail care products,Precision
+0.0026,0.1903,1.4768,"hair colors and toners/ bath oils, bubbles and soaks",vitamins and supplements,"hair colors and toners/ bath oils, bubbles and soaks + vitamins and supplements",Scale
+0.0030,0.2169,1.4767,"bath oils, bubbles and soaks/ brushes and applicators",hand creams,"bath oils, bubbles and soaks/ brushes and applicators + hand creams",Scale
+0.0039,0.2179,1.4762,hair colors and toners/ Nail care products,"bath oils, bubbles and soaks","hair colors and toners/ Nail care products + bath oils, bubbles and soaks",Scale
+0.0037,0.2167,1.4754,"face masks and exfoliators/ bath oils, bubbles and soaks",hand creams,"face masks and exfoliators/ bath oils, bubbles and soaks + hand creams",Scale
+0.0034,0.1270,1.4743,body moisturizers/ Nail care products,foundations and concealers,body moisturizers/ Nail care products + foundations and concealers,Reach
+0.0016,0.1818,1.4733,"face moisturizing products/ candles, sprays, diffusers",Eye shadows and pencils,"face moisturizing products/ candles, sprays, diffusers + Eye shadows and pencils",Precision
+0.0021,0.2366,1.4711,Accessories/ brushes and applicators,shampoos and conditioners,Accessories/ brushes and applicators + shampoos and conditioners,Precision
+0.0032,0.1704,1.4709,shampoos and conditioners/ vitamins and supplements,face moisturizing products,shampoos and conditioners/ vitamins and supplements + face moisturizing products,Scale
+0.0010,0.1032,1.4706,hair colors and toners/ face masks and exfoliators,Body soaps and washes,hair colors and toners/ face masks and exfoliators + Body soaps and washes,Monitor
+0.0013,0.1388,1.4705,"candles, sprays, diffusers/ vitamins and supplements",Accessories,"candles, sprays, diffusers/ vitamins and supplements + Accessories",Monitor
+0.0020,0.1390,1.4691,"Accessories/ bath oils, bubbles and soaks",brushes and applicators,"Accessories/ bath oils, bubbles and soaks + brushes and applicators",Monitor
+0.0020,0.1171,1.4677,hand creams/ Eye shadows and pencils,"candles, sprays, diffusers","hand creams/ Eye shadows and pencils + candles, sprays, diffusers",Monitor
+0.0022,0.1383,1.4660,face masks and exfoliators/ hand creams,Accessories,face masks and exfoliators/ hand creams + Accessories,Reach
+0.0023,0.1170,1.4657,hand creams/ body moisturizers,"candles, sprays, diffusers","hand creams/ body moisturizers + candles, sprays, diffusers",Reach
+0.0016,0.2917,1.4648,hair colors and toners/ Body soaps and washes,Nail care products,hair colors and toners/ Body soaps and washes + Nail care products,Precision
+0.0017,0.1807,1.4645,Body soaps and washes/ shampoos and conditioners,Eye shadows and pencils,Body soaps and washes/ shampoos and conditioners + Eye shadows and pencils,Precision
+0.0013,0.1168,1.4642,Accessories/ vitamins and supplements,"candles, sprays, diffusers","Accessories/ vitamins and supplements + candles, sprays, diffusers",Monitor
+0.0024,0.2160,1.4638,foundations and concealers/ body moisturizers,"bath oils, bubbles and soaks","foundations and concealers/ body moisturizers + bath oils, bubbles and soaks",Scale
+0.0038,0.2159,1.4626,Accessories/ Nail care products,"bath oils, bubbles and soaks","Accessories/ Nail care products + bath oils, bubbles and soaks",Scale
+0.0034,0.2351,1.4620,face masks and exfoliators/ vitamins and supplements,shampoos and conditioners,face masks and exfoliators/ vitamins and supplements + shampoos and conditioners,Scale
+0.0011,0.1026,1.4619,Accessories/ Eye shadows and pencils,Body soaps and washes,Accessories/ Eye shadows and pencils + Body soaps and washes,Monitor
+0.0017,0.1378,1.4604,"foundations and concealers/ bath oils, bubbles and soaks",hair colors and toners,"foundations and concealers/ bath oils, bubbles and soaks + hair colors and toners",Monitor
+0.0020,0.1802,1.4603,hair colors and toners/ vitamins and supplements,Eye shadows and pencils,hair colors and toners/ vitamins and supplements + Eye shadows and pencils,Precision
+0.0024,0.2153,1.4587,foundations and concealers/ hand creams,"bath oils, bubbles and soaks","foundations and concealers/ hand creams + bath oils, bubbles and soaks",Scale
+0.0047,0.1690,1.4585,"bath oils, bubbles and soaks/ Nail care products",face moisturizing products,"bath oils, bubbles and soaks/ Nail care products + face moisturizing products",Reach
+0.0030,0.1799,1.4578,body moisturizers/ vitamins and supplements,Eye shadows and pencils,body moisturizers/ vitamins and supplements + Eye shadows and pencils,Scale
+0.0016,0.1688,1.4567,"candles, sprays, diffusers/ Eye shadows and pencils",face moisturizing products,"candles, sprays, diffusers/ Eye shadows and pencils + face moisturizing products",Monitor
+0.0031,0.1795,1.4549,"bath oils, bubbles and soaks/ vitamins and supplements",Eye shadows and pencils,"bath oils, bubbles and soaks/ vitamins and supplements + Eye shadows and pencils",Scale
+0.0011,0.1373,1.4544,Body soaps and washes/ Eye shadows and pencils,Accessories,Body soaps and washes/ Eye shadows and pencils + Accessories,Monitor
+0.0018,0.2091,1.4539,"candles, sprays, diffusers/ face masks and exfoliators",body moisturizers,"candles, sprays, diffusers/ face masks and exfoliators + body moisturizers",Precision
+0.0022,0.2135,1.4534,Accessories/ face masks and exfoliators,hand creams,Accessories/ face masks and exfoliators + hand creams,Scale
+0.0020,0.1793,1.4530,"candles, sprays, diffusers/ hand creams",Eye shadows and pencils,"candles, sprays, diffusers/ hand creams + Eye shadows and pencils",Precision
+0.0023,0.2143,1.4520,brushes and applicators/ Eye shadows and pencils,"bath oils, bubbles and soaks","brushes and applicators/ Eye shadows and pencils + bath oils, bubbles and soaks",Scale
+0.0021,0.1682,1.4519,Accessories/ body moisturizers,face moisturizing products,Accessories/ body moisturizers + face moisturizing products,Reach
+0.0028,0.1682,1.4519,body moisturizers/ vitamins and supplements,face moisturizing products,body moisturizers/ vitamins and supplements + face moisturizing products,Reach
+0.0026,0.1791,1.4517,"Accessories/ bath oils, bubbles and soaks",Eye shadows and pencils,"Accessories/ bath oils, bubbles and soaks + Eye shadows and pencils",Scale
+0.0023,0.1370,1.4516,"face moisturizing products/ bath oils, bubbles and soaks",Accessories,"face moisturizing products/ bath oils, bubbles and soaks + Accessories",Reach
+0.0015,0.1373,1.4510,"candles, sprays, diffusers/ bath oils, bubbles and soaks",brushes and applicators,"candles, sprays, diffusers/ bath oils, bubbles and soaks + brushes and applicators",Monitor
+0.0038,0.1369,1.4503,"bath oils, bubbles and soaks/ Nail care products",Accessories,"bath oils, bubbles and soaks/ Nail care products + Accessories",Reach
+0.0026,0.2332,1.4500,face moisturizing products/ brushes and applicators,shampoos and conditioners,face moisturizing products/ brushes and applicators + shampoos and conditioners,Scale
+0.0029,0.2085,1.4495,"bath oils, bubbles and soaks/ brushes and applicators",body moisturizers,"bath oils, bubbles and soaks/ brushes and applicators + body moisturizers",Scale
+0.0028,0.2139,1.4491,Accessories/ hand creams,"bath oils, bubbles and soaks","Accessories/ hand creams + bath oils, bubbles and soaks",Scale
+0.0027,0.1367,1.4487,"bath oils, bubbles and soaks/ body moisturizers",Accessories,"bath oils, bubbles and soaks/ body moisturizers + Accessories",Reach
+0.0013,0.2329,1.4479,body moisturizers/ Lipsticks,shampoos and conditioners,body moisturizers/ Lipsticks + shampoos and conditioners,Precision
+0.0019,0.2882,1.4475,"candles, sprays, diffusers/ Accessories",Nail care products,"candles, sprays, diffusers/ Accessories + Nail care products",Precision
+0.0015,0.2879,1.4457,face moisturizing products/ Lipsticks,Nail care products,face moisturizing products/ Lipsticks + Nail care products,Precision
+0.0012,0.2123,1.4456,body moisturizers/ Lipsticks,hand creams,body moisturizers/ Lipsticks + hand creams,Precision
+0.0040,0.1783,1.4450,"shampoos and conditioners/ bath oils, bubbles and soaks",Eye shadows and pencils,"shampoos and conditioners/ bath oils, bubbles and soaks + Eye shadows and pencils",Scale
+0.0020,0.1364,1.4450,"Accessories/ bath oils, bubbles and soaks",hair colors and toners,"Accessories/ bath oils, bubbles and soaks + hair colors and toners",Monitor
+0.0012,0.1364,1.4450,"face moisturizing products/ candles, sprays, diffusers",hair colors and toners,"face moisturizing products/ candles, sprays, diffusers + hair colors and toners",Monitor
+0.0023,0.1364,1.4450,"bath oils, bubbles and soaks/ vitamins and supplements",Accessories,"bath oils, bubbles and soaks/ vitamins and supplements + Accessories",Reach
+0.0017,0.1366,1.4438,Body soaps and washes/ Nail care products,brushes and applicators,Body soaps and washes/ Nail care products + brushes and applicators,Monitor
+0.0023,0.1366,1.4430,shampoos and conditioners/ face masks and exfoliators,brushes and applicators,shampoos and conditioners/ face masks and exfoliators + brushes and applicators,Reach
+0.0011,0.1637,1.4427,shampoos and conditioners/ Lipsticks,face masks and exfoliators,shampoos and conditioners/ Lipsticks + face masks and exfoliators,Monitor
+0.0026,0.2118,1.4422,Accessories/ body moisturizers,hand creams,Accessories/ body moisturizers + hand creams,Scale
+0.0021,0.1242,1.4414,"face masks and exfoliators/ bath oils, bubbles and soaks",foundations and concealers,"face masks and exfoliators/ bath oils, bubbles and soaks + foundations and concealers",Reach
+0.0024,0.1636,1.4414,"candles, sprays, diffusers/ Nail care products",face masks and exfoliators,"candles, sprays, diffusers/ Nail care products + face masks and exfoliators",Reach
+0.0019,0.1360,1.4409,hand creams/ brushes and applicators,hair colors and toners,hand creams/ brushes and applicators + hair colors and toners,Monitor
+0.0030,0.1364,1.4408,"shampoos and conditioners/ bath oils, bubbles and soaks",brushes and applicators,"shampoos and conditioners/ bath oils, bubbles and soaks + brushes and applicators",Reach
+0.0014,0.1364,1.4408,face moisturizing products/ Accessories,brushes and applicators,face moisturizing products/ Accessories + brushes and applicators,Monitor
+0.0012,0.1856,1.4402,Body soaps and washes/ brushes and applicators,vitamins and supplements,Body soaps and washes/ brushes and applicators + vitamins and supplements,Precision
+0.0034,0.2071,1.4398,foundations and concealers/ Nail care products,body moisturizers,foundations and concealers/ Nail care products + body moisturizers,Scale
+0.0016,0.1855,1.4394,Lipsticks/ Nail care products,vitamins and supplements,Lipsticks/ Nail care products + vitamins and supplements,Precision
+0.0023,0.2069,1.4387,"candles, sprays, diffusers/ hand creams",body moisturizers,"candles, sprays, diffusers/ hand creams + body moisturizers",Scale
+0.0020,0.1667,1.4384,"foundations and concealers/ bath oils, bubbles and soaks",face moisturizing products,"foundations and concealers/ bath oils, bubbles and soaks + face moisturizing products",Monitor
+0.0031,0.2862,1.4374,face moisturizing products/ brushes and applicators,Nail care products,face moisturizing products/ brushes and applicators + Nail care products,Scale
+0.0011,0.2121,1.4373,face moisturizing products/ Lipsticks,"bath oils, bubbles and soaks","face moisturizing products/ Lipsticks + bath oils, bubbles and soaks",Precision
+0.0022,0.1359,1.4361,face masks and exfoliators/ hand creams,brushes and applicators,face masks and exfoliators/ hand creams + brushes and applicators,Reach
+0.0010,0.2857,1.4349,hair colors and toners/ Lipsticks,Nail care products,hair colors and toners/ Lipsticks + Nail care products,Precision
+0.0025,0.2117,1.4346,face masks and exfoliators/ Eye shadows and pencils,"bath oils, bubbles and soaks","face masks and exfoliators/ Eye shadows and pencils + bath oils, bubbles and soaks",Scale
+0.0017,0.1849,1.4344,hair colors and toners/ brushes and applicators,vitamins and supplements,hair colors and toners/ brushes and applicators + vitamins and supplements,Precision
+0.0023,0.2062,1.4337,brushes and applicators/ vitamins and supplements,body moisturizers,brushes and applicators/ vitamins and supplements + body moisturizers,Scale
+0.0045,0.2854,1.4331,face masks and exfoliators/ body moisturizers,Nail care products,face masks and exfoliators/ body moisturizers + Nail care products,Scale
+0.0040,0.2060,1.4324,shampoos and conditioners/ hand creams,body moisturizers,shampoos and conditioners/ hand creams + body moisturizers,Scale
+0.0019,0.2059,1.4316,hair colors and toners/ brushes and applicators,body moisturizers,hair colors and toners/ brushes and applicators + body moisturizers,Precision
+0.0029,0.2102,1.4313,"hair colors and toners/ bath oils, bubbles and soaks",hand creams,"hair colors and toners/ bath oils, bubbles and soaks + hand creams",Scale
+0.0018,0.1843,1.4300,face moisturizing products/ foundations and concealers,vitamins and supplements,face moisturizing products/ foundations and concealers + vitamins and supplements,Precision
+0.0016,0.2100,1.4297,Body soaps and washes/ vitamins and supplements,hand creams,Body soaps and washes/ vitamins and supplements + hand creams,Precision
+0.0010,0.1656,1.4293,"foundations and concealers/ candles, sprays, diffusers",face moisturizing products,"foundations and concealers/ candles, sprays, diffusers + face moisturizing products",Monitor
+0.0032,0.1621,1.4283,"bath oils, bubbles and soaks/ body moisturizers",face masks and exfoliators,"bath oils, bubbles and soaks/ body moisturizers + face masks and exfoliators",Reach
+0.0023,0.1840,1.4280,body moisturizers/ brushes and applicators,vitamins and supplements,body moisturizers/ brushes and applicators + vitamins and supplements,Scale
+0.0028,0.1347,1.4276,"bath oils, bubbles and soaks/ hand creams",Accessories,"bath oils, bubbles and soaks/ hand creams + Accessories",Reach
+0.0033,0.1840,1.4275,shampoos and conditioners/ Eye shadows and pencils,vitamins and supplements,shampoos and conditioners/ Eye shadows and pencils + vitamins and supplements,Scale
+0.0034,0.1229,1.4269,"bath oils, bubbles and soaks/ Nail care products",foundations and concealers,"bath oils, bubbles and soaks/ Nail care products + foundations and concealers",Reach
+0.0039,0.2841,1.4267,"hair colors and toners/ bath oils, bubbles and soaks",Nail care products,"hair colors and toners/ bath oils, bubbles and soaks + Nail care products",Scale
+0.0020,0.2105,1.4265,face moisturizing products/ hair colors and toners,"bath oils, bubbles and soaks","face moisturizing products/ hair colors and toners + bath oils, bubbles and soaks",Precision
+0.0030,0.1346,1.4264,"shampoos and conditioners/ bath oils, bubbles and soaks",hair colors and toners,"shampoos and conditioners/ bath oils, bubbles and soaks + hair colors and toners",Reach
+0.0012,0.1345,1.4255,foundations and concealers/ face masks and exfoliators,Accessories,foundations and concealers/ face masks and exfoliators + Accessories,Monitor
+0.0010,0.1617,1.4245,Body soaps and washes/ brushes and applicators,face masks and exfoliators,Body soaps and washes/ brushes and applicators + face masks and exfoliators,Monitor
+0.0026,0.2048,1.4242,Accessories/ hand creams,body moisturizers,Accessories/ hand creams + body moisturizers,Scale
+0.0013,0.1347,1.4232,"candles, sprays, diffusers/ vitamins and supplements",brushes and applicators,"candles, sprays, diffusers/ vitamins and supplements + brushes and applicators",Monitor
+0.0015,0.1343,1.4228,hair colors and toners/ vitamins and supplements,Accessories,hair colors and toners/ vitamins and supplements + Accessories,Monitor
+0.0021,0.2045,1.4223,face moisturizing products/ Accessories,body moisturizers,face moisturizing products/ Accessories + body moisturizers,Scale
+0.0049,0.1833,1.4219,body moisturizers/ Nail care products,vitamins and supplements,body moisturizers/ Nail care products + vitamins and supplements,Scale
+0.0013,0.1134,1.4211,brushes and applicators/ vitamins and supplements,"candles, sprays, diffusers","brushes and applicators/ vitamins and supplements + candles, sprays, diffusers",Monitor
+0.0025,0.1831,1.4206,"bath oils, bubbles and soaks/ brushes and applicators",vitamins and supplements,"bath oils, bubbles and soaks/ brushes and applicators + vitamins and supplements",Scale
+0.0028,0.1344,1.4205,shampoos and conditioners/ body moisturizers,brushes and applicators,shampoos and conditioners/ body moisturizers + brushes and applicators,Reach
+0.0016,0.1830,1.4201,Accessories/ brushes and applicators,vitamins and supplements,Accessories/ brushes and applicators + vitamins and supplements,Precision
+0.0029,0.1829,1.4193,face moisturizing products/ hand creams,vitamins and supplements,face moisturizing products/ hand creams + vitamins and supplements,Scale
+0.0025,0.1132,1.4191,Eye shadows and pencils/ Nail care products,"candles, sprays, diffusers","Eye shadows and pencils/ Nail care products + candles, sprays, diffusers",Reach
+0.0035,0.2825,1.4189,face moisturizing products/ vitamins and supplements,Nail care products,face moisturizing products/ vitamins and supplements + Nail care products,Scale
+0.0012,0.2083,1.4184,hair colors and toners/ Body soaps and washes,hand creams,hair colors and toners/ Body soaps and washes + hand creams,Precision
+0.0017,0.1222,1.4183,"hair colors and toners/ bath oils, bubbles and soaks",foundations and concealers,"hair colors and toners/ bath oils, bubbles and soaks + foundations and concealers",Monitor
+0.0018,0.1643,1.4179,brushes and applicators/ Eye shadows and pencils,face moisturizing products,brushes and applicators/ Eye shadows and pencils + face moisturizing products,Monitor
+0.0049,0.2822,1.4171,"face masks and exfoliators/ bath oils, bubbles and soaks",Nail care products,"face masks and exfoliators/ bath oils, bubbles and soaks + Nail care products",Scale
+0.0012,0.1131,1.4170,hair colors and toners/ vitamins and supplements,"candles, sprays, diffusers","hair colors and toners/ vitamins and supplements + candles, sprays, diffusers",Monitor
+0.0021,0.1641,1.4166,foundations and concealers/ shampoos and conditioners,face moisturizing products,foundations and concealers/ shampoos and conditioners + face moisturizing products,Reach
+0.0034,0.2821,1.4165,"foundations and concealers/ bath oils, bubbles and soaks",Nail care products,"foundations and concealers/ bath oils, bubbles and soaks + Nail care products",Scale
+0.0029,0.1641,1.4164,hand creams/ vitamins and supplements,face moisturizing products,hand creams/ vitamins and supplements + face moisturizing products,Reach
+0.0026,0.1340,1.4158,shampoos and conditioners/ hand creams,brushes and applicators,shampoos and conditioners/ hand creams + brushes and applicators,Reach
+0.0049,0.1825,1.4158,shampoos and conditioners/ Nail care products,vitamins and supplements,shampoos and conditioners/ Nail care products + vitamins and supplements,Scale
+0.0013,0.2036,1.4157,Body soaps and washes/ brushes and applicators,body moisturizers,Body soaps and washes/ brushes and applicators + body moisturizers,Precision
+0.0012,0.1640,1.4156,foundations and concealers/ Accessories,face moisturizing products,foundations and concealers/ Accessories + face moisturizing products,Monitor
+0.0024,0.2818,1.4153,"candles, sprays, diffusers/ face masks and exfoliators",Nail care products,"candles, sprays, diffusers/ face masks and exfoliators + Nail care products",Scale
+0.0016,0.1336,1.4152,face masks and exfoliators/ Eye shadows and pencils,Accessories,face masks and exfoliators/ Eye shadows and pencils + Accessories,Monitor
+0.0035,0.1639,1.4146,shampoos and conditioners/ body moisturizers,face moisturizing products,shampoos and conditioners/ body moisturizers + face moisturizing products,Reach
+0.0033,0.1745,1.4143,shampoos and conditioners/ vitamins and supplements,Eye shadows and pencils,shampoos and conditioners/ vitamins and supplements + Eye shadows and pencils,Scale
+0.0012,0.1333,1.4129,"Body soaps and washes/ bath oils, bubbles and soaks",hair colors and toners,"Body soaps and washes/ bath oils, bubbles and soaks + hair colors and toners",Monitor
+0.0014,0.1333,1.4129,face masks and exfoliators/ brushes and applicators,hair colors and toners,face masks and exfoliators/ brushes and applicators + hair colors and toners,Monitor
+0.0022,0.2074,1.4121,face masks and exfoliators/ brushes and applicators,hand creams,face masks and exfoliators/ brushes and applicators + hand creams,Scale
+0.0012,0.2083,1.4116,hair colors and toners/ Body soaps and washes,"bath oils, bubbles and soaks","hair colors and toners/ Body soaps and washes + bath oils, bubbles and soaks",Precision
+0.0022,0.1332,1.4112,body moisturizers/ vitamins and supplements,hair colors and toners,body moisturizers/ vitamins and supplements + hair colors and toners,Reach
+0.0021,0.2269,1.4107,hair colors and toners/ brushes and applicators,shampoos and conditioners,hair colors and toners/ brushes and applicators + shampoos and conditioners,Scale
+0.0017,0.1331,1.4107,face moisturizing products/ Eye shadows and pencils,Accessories,face moisturizing products/ Eye shadows and pencils + Accessories,Monitor
+0.0022,0.2808,1.4101,"candles, sprays, diffusers/ brushes and applicators",Nail care products,"candles, sprays, diffusers/ brushes and applicators + Nail care products",Scale
+0.0023,0.1634,1.4101,"bath oils, bubbles and soaks/ brushes and applicators",face moisturizing products,"bath oils, bubbles and soaks/ brushes and applicators + face moisturizing products",Reach
+0.0030,0.2080,1.4094,shampoos and conditioners/ brushes and applicators,"bath oils, bubbles and soaks","shampoos and conditioners/ brushes and applicators + bath oils, bubbles and soaks",Scale
+0.0018,0.2026,1.4091,hair colors and toners/ Accessories,body moisturizers,hair colors and toners/ Accessories + body moisturizers,Precision
+0.0018,0.2266,1.4089,"candles, sprays, diffusers/ brushes and applicators",shampoos and conditioners,"candles, sprays, diffusers/ brushes and applicators + shampoos and conditioners",Precision
+0.0016,0.2069,1.4086,"candles, sprays, diffusers/ brushes and applicators",hand creams,"candles, sprays, diffusers/ brushes and applicators + hand creams",Precision
+0.0018,0.1597,1.4073,foundations and concealers/ hand creams,face masks and exfoliators,foundations and concealers/ hand creams + face masks and exfoliators,Monitor
+0.0013,0.1122,1.4066,face moisturizing products/ face masks and exfoliators,"candles, sprays, diffusers","face moisturizing products/ face masks and exfoliators + candles, sprays, diffusers",Monitor
+0.0018,0.1122,1.4060,face masks and exfoliators/ body moisturizers,"candles, sprays, diffusers","face masks and exfoliators/ body moisturizers + candles, sprays, diffusers",Monitor
+0.0024,0.1211,1.4059,"bath oils, bubbles and soaks/ body moisturizers",foundations and concealers,"bath oils, bubbles and soaks/ body moisturizers + foundations and concealers",Reach
+0.0026,0.1326,1.4046,body moisturizers/ hand creams,Accessories,body moisturizers/ hand creams + Accessories,Reach
+0.0018,0.2063,1.4044,foundations and concealers/ face masks and exfoliators,hand creams,foundations and concealers/ face masks and exfoliators + hand creams,Precision
+0.0036,0.1626,1.4032,"shampoos and conditioners/ bath oils, bubbles and soaks",face moisturizing products,"shampoos and conditioners/ bath oils, bubbles and soaks + face moisturizing products",Reach
+0.0034,0.2071,1.4030,foundations and concealers/ Nail care products,"bath oils, bubbles and soaks","foundations and concealers/ Nail care products + bath oils, bubbles and soaks",Scale
+0.0015,0.1592,1.4026,"candles, sprays, diffusers/ vitamins and supplements",face masks and exfoliators,"candles, sprays, diffusers/ vitamins and supplements + face masks and exfoliators",Monitor
+0.0010,0.1324,1.4025,face moisturizing products/ Body soaps and washes,hair colors and toners,face moisturizing products/ Body soaps and washes + hair colors and toners,Monitor
+0.0019,0.1208,1.4022,face moisturizing products/ body moisturizers,foundations and concealers,face moisturizing products/ body moisturizers + foundations and concealers,Monitor
+0.0022,0.2014,1.4005,hair colors and toners/ vitamins and supplements,body moisturizers,hair colors and toners/ vitamins and supplements + body moisturizers,Scale
+0.0014,0.1205,1.3993,face masks and exfoliators/ Eye shadows and pencils,foundations and concealers,face masks and exfoliators/ Eye shadows and pencils + foundations and concealers,Monitor
+0.0035,0.1727,1.3992,"bath oils, bubbles and soaks/ hand creams",Eye shadows and pencils,"bath oils, bubbles and soaks/ hand creams + Eye shadows and pencils",Scale
+0.0023,0.1324,1.3991,"face moisturizing products/ bath oils, bubbles and soaks",brushes and applicators,"face moisturizing products/ bath oils, bubbles and soaks + brushes and applicators",Reach
+0.0030,0.1803,1.3991,body moisturizers/ Eye shadows and pencils,vitamins and supplements,body moisturizers/ Eye shadows and pencils + vitamins and supplements,Scale
+0.0012,0.1587,1.3986,foundations and concealers/ Accessories,face masks and exfoliators,foundations and concealers/ Accessories + face masks and exfoliators,Monitor
+0.0043,0.1620,1.3985,shampoos and conditioners/ Nail care products,face moisturizing products,shampoos and conditioners/ Nail care products + face moisturizing products,Reach
+0.0020,0.2063,1.3982,hair colors and toners/ face masks and exfoliators,"bath oils, bubbles and soaks","hair colors and toners/ face masks and exfoliators + bath oils, bubbles and soaks",Precision
+0.0022,0.1586,1.3978,hand creams/ brushes and applicators,face masks and exfoliators,hand creams/ brushes and applicators + face masks and exfoliators,Reach
+0.0019,0.1319,1.3973,shampoos and conditioners/ Accessories,hair colors and toners,shampoos and conditioners/ Accessories + hair colors and toners,Monitor
+0.0024,0.2052,1.3971,face masks and exfoliators/ Eye shadows and pencils,hand creams,face masks and exfoliators/ Eye shadows and pencils + hand creams,Scale
+0.0023,0.2062,1.3971,Accessories/ vitamins and supplements,"bath oils, bubbles and soaks","Accessories/ vitamins and supplements + bath oils, bubbles and soaks",Scale
+0.0026,0.1799,1.3958,hair colors and toners/ shampoos and conditioners,vitamins and supplements,hair colors and toners/ shampoos and conditioners + vitamins and supplements,Scale
+0.0024,0.1320,1.3951,shampoos and conditioners/ Eye shadows and pencils,brushes and applicators,shampoos and conditioners/ Eye shadows and pencils + brushes and applicators,Reach
+0.0016,0.1583,1.3948,Body soaps and washes/ hand creams,face masks and exfoliators,Body soaps and washes/ hand creams + face masks and exfoliators,Monitor
+0.0019,0.2242,1.3941,foundations and concealers/ face masks and exfoliators,shampoos and conditioners,foundations and concealers/ face masks and exfoliators + shampoos and conditioners,Precision
+0.0018,0.1581,1.3928,Accessories/ vitamins and supplements,face masks and exfoliators,Accessories/ vitamins and supplements + face masks and exfoliators,Monitor
+0.0018,0.1581,1.3928,brushes and applicators/ vitamins and supplements,face masks and exfoliators,brushes and applicators/ vitamins and supplements + face masks and exfoliators,Monitor
+0.0011,0.1111,1.3924,hair colors and toners/ face masks and exfoliators,"candles, sprays, diffusers","hair colors and toners/ face masks and exfoliators + candles, sprays, diffusers",Monitor
+0.0019,0.1718,1.3923,brushes and applicators/ vitamins and supplements,Eye shadows and pencils,brushes and applicators/ vitamins and supplements + Eye shadows and pencils,Precision
+0.0028,0.2239,1.3923,brushes and applicators/ body moisturizers,shampoos and conditioners,brushes and applicators/ body moisturizers + shampoos and conditioners,Scale
+0.0011,0.1312,1.3905,Lipsticks/ Nail care products,Accessories,Lipsticks/ Nail care products + Accessories,Monitor
+0.0025,0.1715,1.3897,"candles, sprays, diffusers/ Nail care products",Eye shadows and pencils,"candles, sprays, diffusers/ Nail care products + Eye shadows and pencils",Scale
+0.0038,0.2235,1.3895,"face masks and exfoliators/ bath oils, bubbles and soaks",shampoos and conditioners,"face masks and exfoliators/ bath oils, bubbles and soaks + shampoos and conditioners",Scale
+0.0012,0.1576,1.3889,"candles, sprays, diffusers/ brushes and applicators",face masks and exfoliators,"candles, sprays, diffusers/ brushes and applicators + face masks and exfoliators",Monitor
+0.0035,0.2050,1.3887,hand creams/ Eye shadows and pencils,"bath oils, bubbles and soaks","hand creams/ Eye shadows and pencils + bath oils, bubbles and soaks",Scale
+0.0023,0.2049,1.3887,face moisturizing products/ brushes and applicators,"bath oils, bubbles and soaks","face moisturizing products/ brushes and applicators + bath oils, bubbles and soaks",Scale
+0.0033,0.2049,1.3882,face moisturizing products/ hand creams,"bath oils, bubbles and soaks","face moisturizing products/ hand creams + bath oils, bubbles and soaks",Scale
+0.0029,0.2232,1.3878,hair colors and toners/ hand creams,shampoos and conditioners,hair colors and toners/ hand creams + shampoos and conditioners,Scale
+0.0045,0.2038,1.3877,Eye shadows and pencils/ Nail care products,hand creams,Eye shadows and pencils/ Nail care products + hand creams,Scale
+0.0047,0.2763,1.3874,"face moisturizing products/ bath oils, bubbles and soaks",Nail care products,"face moisturizing products/ bath oils, bubbles and soaks + Nail care products",Scale
+0.0014,0.1607,1.3871,Accessories/ brushes and applicators,face moisturizing products,Accessories/ brushes and applicators + face moisturizing products,Monitor
+0.0011,0.2231,1.3870,fragrances/ Nail care products,shampoos and conditioners,fragrances/ Nail care products + shampoos and conditioners,Precision
+0.0023,0.1573,1.3863,shampoos and conditioners/ brushes and applicators,face masks and exfoliators,shampoos and conditioners/ brushes and applicators + face masks and exfoliators,Reach
+0.0022,0.2036,1.3859,brushes and applicators/ Eye shadows and pencils,hand creams,brushes and applicators/ Eye shadows and pencils + hand creams,Scale
+0.0028,0.1308,1.3855,shampoos and conditioners/ body moisturizers,Accessories,shampoos and conditioners/ body moisturizers + Accessories,Reach
+0.0019,0.1786,1.3855,brushes and applicators/ Eye shadows and pencils,vitamins and supplements,brushes and applicators/ Eye shadows and pencils + vitamins and supplements,Precision
+0.0014,0.1311,1.3850,Accessories/ face masks and exfoliators,brushes and applicators,Accessories/ face masks and exfoliators + brushes and applicators,Monitor
+0.0042,0.2034,1.3849,face masks and exfoliators/ Nail care products,hand creams,face masks and exfoliators/ Nail care products + hand creams,Scale
+0.0032,0.1785,1.3849,face moisturizing products/ shampoos and conditioners,vitamins and supplements,face moisturizing products/ shampoos and conditioners + vitamins and supplements,Scale
+0.0040,0.2227,1.3847,"bath oils, bubbles and soaks/ Eye shadows and pencils",shampoos and conditioners,"bath oils, bubbles and soaks/ Eye shadows and pencils + shampoos and conditioners",Scale
+0.0023,0.1604,1.3846,"Accessories/ bath oils, bubbles and soaks",face moisturizing products,"Accessories/ bath oils, bubbles and soaks + face moisturizing products",Reach
+0.0023,0.1310,1.3842,"bath oils, bubbles and soaks/ Eye shadows and pencils",brushes and applicators,"bath oils, bubbles and soaks/ Eye shadows and pencils + brushes and applicators",Reach
+0.0012,0.1306,1.3840,"candles, sprays, diffusers/ vitamins and supplements",hair colors and toners,"candles, sprays, diffusers/ vitamins and supplements + hair colors and toners",Monitor
+0.0015,0.1306,1.3837,Accessories/ vitamins and supplements,hair colors and toners,Accessories/ vitamins and supplements + hair colors and toners,Monitor
+0.0031,0.2755,1.3836,face moisturizing products/ face masks and exfoliators,Nail care products,face moisturizing products/ face masks and exfoliators + Nail care products,Scale
+0.0055,0.2754,1.3830,"bath oils, bubbles and soaks/ body moisturizers",Nail care products,"bath oils, bubbles and soaks/ body moisturizers + Nail care products",Scale
+0.0013,0.1988,1.3826,shampoos and conditioners/ Lipsticks,body moisturizers,shampoos and conditioners/ Lipsticks + body moisturizers,Precision
+0.0040,0.2040,1.3823,shampoos and conditioners/ hand creams,"bath oils, bubbles and soaks","shampoos and conditioners/ hand creams + bath oils, bubbles and soaks",Scale
+0.0032,0.1602,1.3823,"bath oils, bubbles and soaks/ body moisturizers",face moisturizing products,"bath oils, bubbles and soaks/ body moisturizers + face moisturizing products",Reach
+0.0016,0.1304,1.3821,Body soaps and washes/ Nail care products,hair colors and toners,Body soaps and washes/ Nail care products + hair colors and toners,Monitor
+0.0021,0.1304,1.3821,face moisturizing products/ body moisturizers,Accessories,face moisturizing products/ body moisturizers + Accessories,Reach
+0.0024,0.1987,1.3818,"foundations and concealers/ bath oils, bubbles and soaks",body moisturizers,"foundations and concealers/ bath oils, bubbles and soaks + body moisturizers",Scale
+0.0020,0.2039,1.3817,face moisturizing products/ foundations and concealers,"bath oils, bubbles and soaks","face moisturizing products/ foundations and concealers + bath oils, bubbles and soaks",Precision
+0.0027,0.1568,1.3817,"bath oils, bubbles and soaks/ vitamins and supplements",face masks and exfoliators,"bath oils, bubbles and soaks/ vitamins and supplements + face masks and exfoliators",Reach
+0.0010,0.1781,1.3817,body moisturizers/ Lipsticks,vitamins and supplements,body moisturizers/ Lipsticks + vitamins and supplements,Precision
+0.0010,0.2222,1.3817,Eye shadows and pencils/ Lipsticks,shampoos and conditioners,Eye shadows and pencils/ Lipsticks + shampoos and conditioners,Precision
+0.0011,0.2029,1.3814,foundations and concealers/ Body soaps and washes,hand creams,foundations and concealers/ Body soaps and washes + hand creams,Precision
+0.0035,0.1780,1.3811,shampoos and conditioners/ hand creams,vitamins and supplements,shampoos and conditioners/ hand creams + vitamins and supplements,Scale
+0.0042,0.1985,1.3804,face moisturizing products/ Nail care products,body moisturizers,face moisturizing products/ Nail care products + body moisturizers,Scale
+0.0023,0.2027,1.3803,Accessories/ vitamins and supplements,hand creams,Accessories/ vitamins and supplements + hand creams,Scale
+0.0030,0.2037,1.3803,hair colors and toners/ shampoos and conditioners,"bath oils, bubbles and soaks","hair colors and toners/ shampoos and conditioners + bath oils, bubbles and soaks",Scale
+0.0023,0.1777,1.3788,Accessories/ hand creams,vitamins and supplements,Accessories/ hand creams + vitamins and supplements,Scale
+0.0055,0.2035,1.3786,body moisturizers/ Nail care products,"bath oils, bubbles and soaks","body moisturizers/ Nail care products + bath oils, bubbles and soaks",Scale
+0.0020,0.1187,1.3784,"face moisturizing products/ bath oils, bubbles and soaks",foundations and concealers,"face moisturizing products/ bath oils, bubbles and soaks + foundations and concealers",Monitor
+0.0016,0.1700,1.3779,face moisturizing products/ hair colors and toners,Eye shadows and pencils,face moisturizing products/ hair colors and toners + Eye shadows and pencils,Precision
+0.0016,0.1300,1.3779,face moisturizing products/ Eye shadows and pencils,hair colors and toners,face moisturizing products/ Eye shadows and pencils + hair colors and toners,Monitor
+0.0022,0.1776,1.3777,hair colors and toners/ body moisturizers,vitamins and supplements,hair colors and toners/ body moisturizers + vitamins and supplements,Scale
+0.0049,0.1981,1.3777,vitamins and supplements/ Nail care products,body moisturizers,vitamins and supplements/ Nail care products + body moisturizers,Scale
+0.0025,0.2743,1.3774,"candles, sprays, diffusers/ Eye shadows and pencils",Nail care products,"candles, sprays, diffusers/ Eye shadows and pencils + Nail care products",Scale
+0.0015,0.1099,1.3767,"bath oils, bubbles and soaks/ brushes and applicators","candles, sprays, diffusers","bath oils, bubbles and soaks/ brushes and applicators + candles, sprays, diffusers",Monitor
+0.0014,0.1562,1.3767,Accessories/ brushes and applicators,face masks and exfoliators,Accessories/ brushes and applicators + face masks and exfoliators,Monitor
+0.0023,0.1299,1.3762,shampoos and conditioners/ Eye shadows and pencils,Accessories,shampoos and conditioners/ Eye shadows and pencils + Accessories,Reach
+0.0033,0.1594,1.3757,"bath oils, bubbles and soaks/ hand creams",face moisturizing products,"bath oils, bubbles and soaks/ hand creams + face moisturizing products",Reach
+0.0015,0.1773,1.3754,"candles, sprays, diffusers/ face masks and exfoliators",vitamins and supplements,"candles, sprays, diffusers/ face masks and exfoliators + vitamins and supplements",Precision
+0.0025,0.1561,1.3754,face moisturizing products/ hand creams,face masks and exfoliators,face moisturizing products/ hand creams + face masks and exfoliators,Reach
+0.0028,0.2212,1.3752,Accessories/ body moisturizers,shampoos and conditioners,Accessories/ body moisturizers + shampoos and conditioners,Scale
+0.0019,0.1297,1.3747,face masks and exfoliators/ vitamins and supplements,hair colors and toners,face masks and exfoliators/ vitamins and supplements + hair colors and toners,Monitor
+0.0025,0.2211,1.3746,face moisturizing products/ face masks and exfoliators,shampoos and conditioners,face moisturizing products/ face masks and exfoliators + shampoos and conditioners,Scale
+0.0014,0.1296,1.3736,face masks and exfoliators/ brushes and applicators,Accessories,face masks and exfoliators/ brushes and applicators + Accessories,Monitor
+0.0019,0.2017,1.3731,hair colors and toners/ brushes and applicators,hand creams,hair colors and toners/ brushes and applicators + hand creams,Precision
+0.0010,0.1182,1.3721,"face moisturizing products/ candles, sprays, diffusers",foundations and concealers,"face moisturizing products/ candles, sprays, diffusers + foundations and concealers",Monitor
+0.0032,0.2024,1.3717,face masks and exfoliators/ body moisturizers,"bath oils, bubbles and soaks","face masks and exfoliators/ body moisturizers + bath oils, bubbles and soaks",Scale
+0.0017,0.2206,1.3715,Body soaps and washes/ Eye shadows and pencils,shampoos and conditioners,Body soaps and washes/ Eye shadows and pencils + shampoos and conditioners,Precision
+0.0013,0.2024,1.3713,Body soaps and washes/ Accessories,"bath oils, bubbles and soaks","Body soaps and washes/ Accessories + bath oils, bubbles and soaks",Precision
+0.0019,0.1293,1.3700,"candles, sprays, diffusers/ Nail care products",Accessories,"candles, sprays, diffusers/ Nail care products + Accessories",Monitor
+0.0023,0.1690,1.3696,"bath oils, bubbles and soaks/ brushes and applicators",Eye shadows and pencils,"bath oils, bubbles and soaks/ brushes and applicators + Eye shadows and pencils",Reach
+0.0055,0.1969,1.3693,"bath oils, bubbles and soaks/ Nail care products",body moisturizers,"bath oils, bubbles and soaks/ Nail care products + body moisturizers",Scale
+0.0023,0.1291,1.3680,hand creams/ vitamins and supplements,Accessories,hand creams/ vitamins and supplements + Accessories,Reach
+0.0026,0.1553,1.3679,"face moisturizing products/ bath oils, bubbles and soaks",face masks and exfoliators,"face moisturizing products/ bath oils, bubbles and soaks + face masks and exfoliators",Reach
+0.0023,0.2198,1.3665,Accessories/ Eye shadows and pencils,shampoos and conditioners,Accessories/ Eye shadows and pencils + shampoos and conditioners,Scale
+0.0017,0.1686,1.3664,foundations and concealers/ face moisturizing products,Eye shadows and pencils,foundations and concealers/ face moisturizing products + Eye shadows and pencils,Monitor
+0.0030,0.2197,1.3661,"brushes and applicators/ bath oils, bubbles and soaks",shampoos and conditioners,"brushes and applicators/ bath oils, bubbles and soaks + shampoos and conditioners",Scale
+0.0024,0.1176,1.3659,"bath oils, bubbles and soaks/ hand creams",foundations and concealers,"bath oils, bubbles and soaks/ hand creams + foundations and concealers",Reach
+0.0015,0.1293,1.3657,face moisturizing products/ face masks and exfoliators,brushes and applicators,face moisturizing products/ face masks and exfoliators + brushes and applicators,Monitor
+0.0035,0.2195,1.3648,face moisturizing products/ hand creams,shampoos and conditioners,face moisturizing products/ hand creams + shampoos and conditioners,Scale
+0.0019,0.1961,1.3634,face moisturizing products/ foundations and concealers,body moisturizers,face moisturizing products/ foundations and concealers + body moisturizers,Precision
+0.0012,0.1174,1.3633,face moisturizing products/ Accessories,foundations and concealers,face moisturizing products/ Accessories + foundations and concealers,Monitor
+0.0011,0.1174,1.3631,face moisturizing products/ hair colors and toners,foundations and concealers,face moisturizing products/ hair colors and toners + foundations and concealers,Monitor
+0.0011,0.1289,1.3618,"Body soaps and washes/ bath oils, bubbles and soaks",brushes and applicators,"Body soaps and washes/ bath oils, bubbles and soaks + brushes and applicators",Monitor
+0.0033,0.1680,1.3614,shampoos and conditioners/ hand creams,Eye shadows and pencils,shampoos and conditioners/ hand creams + Eye shadows and pencils,Reach
+0.0035,0.1284,1.3604,hand creams/ Nail care products,hair colors and toners,hand creams/ Nail care products + hair colors and toners,Reach
+0.0030,0.2708,1.3601,foundations and concealers/ hand creams,Nail care products,foundations and concealers/ hand creams + Nail care products,Scale
+0.0030,0.2187,1.3601,"hair colors and toners/ bath oils, bubbles and soaks",shampoos and conditioners,"hair colors and toners/ bath oils, bubbles and soaks + shampoos and conditioners",Scale
+0.0017,0.1575,1.3594,Accessories/ Eye shadows and pencils,face moisturizing products,Accessories/ Eye shadows and pencils + face moisturizing products,Monitor
+0.0010,0.1955,1.3593,vitamins and supplements/ Lipsticks,body moisturizers,vitamins and supplements/ Lipsticks + body moisturizers,Precision
+0.0026,0.1542,1.3587,body moisturizers/ vitamins and supplements,face masks and exfoliators,body moisturizers/ vitamins and supplements + face masks and exfoliators,Reach
+0.0023,0.2185,1.3586,face masks and exfoliators/ brushes and applicators,shampoos and conditioners,face masks and exfoliators/ brushes and applicators + shampoos and conditioners,Scale
+0.0020,0.1281,1.3578,vitamins and supplements/ Eye shadows and pencils,hair colors and toners,vitamins and supplements/ Eye shadows and pencils + hair colors and toners,Monitor
+0.0034,0.1285,1.3574,shampoos and conditioners/ Nail care products,brushes and applicators,shampoos and conditioners/ Nail care products + brushes and applicators,Reach
+0.0013,0.1675,1.3572,"candles, sprays, diffusers/ brushes and applicators",Eye shadows and pencils,"candles, sprays, diffusers/ brushes and applicators + Eye shadows and pencils",Monitor
+0.0044,0.1951,1.3568,Eye shadows and pencils/ Nail care products,body moisturizers,Eye shadows and pencils/ Nail care products + body moisturizers,Scale
+0.0022,0.1284,1.3564,hand creams/ Eye shadows and pencils,brushes and applicators,hand creams/ Eye shadows and pencils + brushes and applicators,Reach
+0.0025,0.1280,1.3563,shampoos and conditioners/ hand creams,Accessories,shampoos and conditioners/ hand creams + Accessories,Reach
+0.0028,0.1951,1.3563,shampoos and conditioners/ Accessories,body moisturizers,shampoos and conditioners/ Accessories + body moisturizers,Scale
+0.0013,0.1538,1.3555,Body soaps and washes/ body moisturizers,face masks and exfoliators,Body soaps and washes/ body moisturizers + face masks and exfoliators,Monitor
+0.0036,0.2000,1.3552,face moisturizing products/ shampoos and conditioners,"bath oils, bubbles and soaks","face moisturizing products/ shampoos and conditioners + bath oils, bubbles and soaks",Scale
+0.0024,0.2179,1.3545,brushes and applicators/ Eye shadows and pencils,shampoos and conditioners,brushes and applicators/ Eye shadows and pencils + shampoos and conditioners,Scale
+0.0028,0.1947,1.3536,shampoos and conditioners/ brushes and applicators,body moisturizers,shampoos and conditioners/ brushes and applicators + body moisturizers,Scale
+0.0027,0.1568,1.3534,"bath oils, bubbles and soaks/ vitamins and supplements",face moisturizing products,"bath oils, bubbles and soaks/ vitamins and supplements + face moisturizing products",Reach
+0.0024,0.1987,1.3529,"foundations and concealers/ bath oils, bubbles and soaks",hand creams,"foundations and concealers/ bath oils, bubbles and soaks + hand creams",Scale
+0.0014,0.1535,1.3527,foundations and concealers/ Eye shadows and pencils,face masks and exfoliators,foundations and concealers/ Eye shadows and pencils + face masks and exfoliators,Monitor
+0.0035,0.1987,1.3527,"bath oils, bubbles and soaks/ Eye shadows and pencils",hand creams,"bath oils, bubbles and soaks/ Eye shadows and pencils + hand creams",Scale
+0.0016,0.1567,1.3526,"candles, sprays, diffusers/ body moisturizers",face moisturizing products,"candles, sprays, diffusers/ body moisturizers + face moisturizing products",Monitor
+0.0019,0.1079,1.3526,Accessories/ Nail care products,"candles, sprays, diffusers","Accessories/ Nail care products + candles, sprays, diffusers",Monitor
+0.0045,0.1669,1.3525,hand creams/ Nail care products,Eye shadows and pencils,hand creams/ Nail care products + Eye shadows and pencils,Reach
+0.0029,0.1984,1.3508,hair colors and toners/ shampoos and conditioners,hand creams,hair colors and toners/ shampoos and conditioners + hand creams,Scale
+0.0011,0.1667,1.3506,Body soaps and washes/ Accessories,Eye shadows and pencils,Body soaps and washes/ Accessories + Eye shadows and pencils,Monitor
+0.0027,0.1532,1.3496,hand creams/ vitamins and supplements,face masks and exfoliators,hand creams/ vitamins and supplements + face masks and exfoliators,Reach
+0.0019,0.1992,1.3496,foundations and concealers/ Eye shadows and pencils,"bath oils, bubbles and soaks","foundations and concealers/ Eye shadows and pencils + bath oils, bubbles and soaks",Precision
+0.0035,0.1982,1.3495,brushes and applicators/ Nail care products,hand creams,brushes and applicators/ Nail care products + hand creams,Scale
+0.0028,0.1739,1.3493,face moisturizing products/ body moisturizers,vitamins and supplements,face moisturizing products/ body moisturizers + vitamins and supplements,Scale
+0.0021,0.1273,1.3491,shampoos and conditioners/ face masks and exfoliators,Accessories,shampoos and conditioners/ face masks and exfoliators + Accessories,Reach
+0.0011,0.1273,1.3486,"candles, sprays, diffusers/ face masks and exfoliators",hair colors and toners,"candles, sprays, diffusers/ face masks and exfoliators + hair colors and toners",Monitor
+0.0021,0.1161,1.3483,face moisturizing products/ shampoos and conditioners,foundations and concealers,face moisturizing products/ shampoos and conditioners + foundations and concealers,Reach
+0.0014,0.1272,1.3479,face moisturizing products/ brushes and applicators,Accessories,face moisturizing products/ brushes and applicators + Accessories,Monitor
+0.0010,0.1529,1.3476,"candles, sprays, diffusers/ Accessories",face masks and exfoliators,"candles, sprays, diffusers/ Accessories + face masks and exfoliators",Monitor
+0.0022,0.1979,1.3472,hair colors and toners/ vitamins and supplements,hand creams,hair colors and toners/ vitamins and supplements + hand creams,Scale
+0.0018,0.1075,1.3469,body moisturizers/ vitamins and supplements,"candles, sprays, diffusers","body moisturizers/ vitamins and supplements + candles, sprays, diffusers",Monitor
+0.0010,0.1275,1.3466,face moisturizing products/ Body soaps and washes,brushes and applicators,face moisturizing products/ Body soaps and washes + brushes and applicators,Monitor
+0.0012,0.1270,1.3456,hair colors and toners/ face masks and exfoliators,Accessories,hair colors and toners/ face masks and exfoliators + Accessories,Monitor
+0.0019,0.1270,1.3456,hair colors and toners/ shampoos and conditioners,Accessories,hair colors and toners/ shampoos and conditioners + Accessories,Monitor
+0.0030,0.1935,1.3453,vitamins and supplements/ Eye shadows and pencils,body moisturizers,vitamins and supplements/ Eye shadows and pencils + body moisturizers,Scale
+0.0035,0.2679,1.3452,hair colors and toners/ hand creams,Nail care products,hair colors and toners/ hand creams + Nail care products,Scale
+0.0019,0.1526,1.3450,Accessories/ body moisturizers,face masks and exfoliators,Accessories/ body moisturizers + face masks and exfoliators,Monitor
+0.0031,0.1985,1.3450,vitamins and supplements/ Eye shadows and pencils,"bath oils, bubbles and soaks","vitamins and supplements/ Eye shadows and pencils + bath oils, bubbles and soaks",Scale
+0.0042,0.1526,1.3449,hand creams/ Nail care products,face masks and exfoliators,hand creams/ Nail care products + face masks and exfoliators,Reach
+0.0014,0.1659,1.3445,foundations and concealers/ face masks and exfoliators,Eye shadows and pencils,foundations and concealers/ face masks and exfoliators + Eye shadows and pencils,Monitor
+0.0019,0.1157,1.3438,shampoos and conditioners/ face masks and exfoliators,foundations and concealers,shampoos and conditioners/ face masks and exfoliators + foundations and concealers,Monitor
+0.0010,0.1557,1.3437,Body soaps and washes/ brushes and applicators,face moisturizing products,Body soaps and washes/ brushes and applicators + face moisturizing products,Monitor
+0.0024,0.2160,1.3432,foundations and concealers/ body moisturizers,shampoos and conditioners,foundations and concealers/ body moisturizers + shampoos and conditioners,Scale
+0.0032,0.1981,1.3421,face moisturizing products/ body moisturizers,"bath oils, bubbles and soaks","face moisturizing products/ body moisturizers + bath oils, bubbles and soaks",Scale
+0.0019,0.1266,1.3420,"candles, sprays, diffusers/ Nail care products",hair colors and toners,"candles, sprays, diffusers/ Nail care products + hair colors and toners",Monitor
+0.0015,0.2671,1.3415,body moisturizers/ Lipsticks,Nail care products,body moisturizers/ Lipsticks + Nail care products,Precision
+0.0035,0.1270,1.3415,hand creams/ Nail care products,brushes and applicators,hand creams/ Nail care products + brushes and applicators,Reach
+0.0012,0.1266,1.3413,"candles, sprays, diffusers/ Eye shadows and pencils",hair colors and toners,"candles, sprays, diffusers/ Eye shadows and pencils + hair colors and toners",Monitor
+0.0029,0.1979,1.3409,"candles, sprays, diffusers/ Nail care products","bath oils, bubbles and soaks","candles, sprays, diffusers/ Nail care products + bath oils, bubbles and soaks",Scale
+0.0024,0.1522,1.3408,face moisturizing products/ body moisturizers,face masks and exfoliators,face moisturizing products/ body moisturizers + face masks and exfoliators,Reach
+0.0025,0.1553,1.3407,face masks and exfoliators/ hand creams,face moisturizing products,face masks and exfoliators/ hand creams + face moisturizing products,Reach
+0.0019,0.1520,1.3391,foundations and concealers/ shampoos and conditioners,face masks and exfoliators,foundations and concealers/ shampoos and conditioners + face masks and exfoliators,Monitor
+0.0041,0.1967,1.3389,face moisturizing products/ Nail care products,hand creams,face moisturizing products/ Nail care products + hand creams,Scale
+0.0012,0.2153,1.3385,hair colors and toners/ Body soaps and washes,shampoos and conditioners,hair colors and toners/ Body soaps and washes + shampoos and conditioners,Precision
+0.0031,0.1725,1.3383,"bath oils, bubbles and soaks/ Eye shadows and pencils",vitamins and supplements,"bath oils, bubbles and soaks/ Eye shadows and pencils + vitamins and supplements",Scale
+0.0012,0.1975,1.3379,"foundations and concealers/ candles, sprays, diffusers","bath oils, bubbles and soaks","foundations and concealers/ candles, sprays, diffusers + bath oils, bubbles and soaks",Precision
+0.0018,0.1723,1.3367,Accessories/ face masks and exfoliators,vitamins and supplements,Accessories/ face masks and exfoliators + vitamins and supplements,Precision
+0.0035,0.2150,1.3366,face moisturizing products/ body moisturizers,shampoos and conditioners,face moisturizing products/ body moisturizers + shampoos and conditioners,Scale
+0.0036,0.2150,1.3365,body moisturizers/ vitamins and supplements,shampoos and conditioners,body moisturizers/ vitamins and supplements + shampoos and conditioners,Scale
+0.0023,0.1648,1.3357,shampoos and conditioners/ Accessories,Eye shadows and pencils,shampoos and conditioners/ Accessories + Eye shadows and pencils,Reach
+0.0035,0.1961,1.3349,hair colors and toners/ Nail care products,hand creams,hair colors and toners/ Nail care products + hand creams,Scale
+0.0017,0.1546,1.3346,brushes and applicators/ vitamins and supplements,face moisturizing products,brushes and applicators/ vitamins and supplements + face moisturizing products,Monitor
+0.0010,0.1720,1.3343,"foundations and concealers/ candles, sprays, diffusers",vitamins and supplements,"foundations and concealers/ candles, sprays, diffusers + vitamins and supplements",Precision
+0.0014,0.1513,1.3328,hair colors and toners/ brushes and applicators,face masks and exfoliators,hair colors and toners/ brushes and applicators + face masks and exfoliators,Monitor
+0.0042,0.1544,1.3326,body moisturizers/ Nail care products,face moisturizing products,body moisturizers/ Nail care products + face moisturizing products,Reach
+0.0025,0.2653,1.3324,"candles, sprays, diffusers/ vitamins and supplements",Nail care products,"candles, sprays, diffusers/ vitamins and supplements + Nail care products",Scale
+0.0014,0.2143,1.3323,Body soaps and washes/ Accessories,shampoos and conditioners,Body soaps and washes/ Accessories + shampoos and conditioners,Precision
+0.0020,0.1717,1.3323,hair colors and toners/ Eye shadows and pencils,vitamins and supplements,hair colors and toners/ Eye shadows and pencils + vitamins and supplements,Precision
+0.0010,0.1957,1.3320,"bath oils, bubbles and soaks/ Lipsticks",hand creams,"bath oils, bubbles and soaks/ Lipsticks + hand creams",Precision
+0.0018,0.1716,1.3317,"candles, sprays, diffusers/ body moisturizers",vitamins and supplements,"candles, sprays, diffusers/ body moisturizers + vitamins and supplements",Precision
+0.0021,0.1511,1.3313,shampoos and conditioners/ Accessories,face masks and exfoliators,shampoos and conditioners/ Accessories + face masks and exfoliators,Reach
+0.0029,0.2650,1.3309,hair colors and toners/ vitamins and supplements,Nail care products,hair colors and toners/ vitamins and supplements + Nail care products,Scale
+0.0035,0.1914,1.3309,face moisturizing products/ shampoos and conditioners,body moisturizers,face moisturizing products/ shampoos and conditioners + body moisturizers,Scale
+0.0017,0.1955,1.3307,"face moisturizing products/ candles, sprays, diffusers",hand creams,"face moisturizing products/ candles, sprays, diffusers + hand creams",Precision
+0.0025,0.1715,1.3307,"candles, sprays, diffusers/ Nail care products",vitamins and supplements,"candles, sprays, diffusers/ Nail care products + vitamins and supplements",Scale
+0.0012,0.2650,1.3306,Eye shadows and pencils/ Lipsticks,Nail care products,Eye shadows and pencils/ Lipsticks + Nail care products,Precision
+0.0033,0.2648,1.3298,Accessories/ body moisturizers,Nail care products,Accessories/ body moisturizers + Nail care products,Scale
+0.0026,0.1255,1.3296,face masks and exfoliators/ Nail care products,Accessories,face masks and exfoliators/ Nail care products + Accessories,Reach
+0.0031,0.1540,1.3291,face masks and exfoliators/ Nail care products,face moisturizing products,face masks and exfoliators/ Nail care products + face moisturizing products,Reach
+0.0021,0.1060,1.3284,shampoos and conditioners/ hand creams,"candles, sprays, diffusers","shampoos and conditioners/ hand creams + candles, sprays, diffusers",Monitor
+0.0037,0.2136,1.3283,"bath oils, bubbles and soaks/ vitamins and supplements",shampoos and conditioners,"bath oils, bubbles and soaks/ vitamins and supplements + shampoos and conditioners",Scale
+0.0027,0.2136,1.3282,face moisturizing products/ Eye shadows and pencils,shampoos and conditioners,face moisturizing products/ Eye shadows and pencils + shampoos and conditioners,Scale
+0.0033,0.2136,1.3279,vitamins and supplements/ Eye shadows and pencils,shampoos and conditioners,vitamins and supplements/ Eye shadows and pencils + shampoos and conditioners,Scale
+0.0016,0.1909,1.3275,"face moisturizing products/ candles, sprays, diffusers",body moisturizers,"face moisturizing products/ candles, sprays, diffusers + body moisturizers",Precision
+0.0019,0.1256,1.3274,vitamins and supplements/ Eye shadows and pencils,brushes and applicators,vitamins and supplements/ Eye shadows and pencils + brushes and applicators,Monitor
+0.0024,0.1253,1.3273,shampoos and conditioners/ vitamins and supplements,Accessories,shampoos and conditioners/ vitamins and supplements + Accessories,Reach
+0.0018,0.1909,1.3272,foundations and concealers/ Eye shadows and pencils,body moisturizers,foundations and concealers/ Eye shadows and pencils + body moisturizers,Precision
+0.0026,0.1252,1.3270,shampoos and conditioners/ body moisturizers,hair colors and toners,shampoos and conditioners/ body moisturizers + hair colors and toners,Reach
+0.0029,0.2641,1.3262,"candles, sprays, diffusers/ bath oils, bubbles and soaks",Nail care products,"candles, sprays, diffusers/ bath oils, bubbles and soaks + Nail care products",Scale
+0.0024,0.1537,1.3262,face masks and exfoliators/ body moisturizers,face moisturizing products,face masks and exfoliators/ body moisturizers + face moisturizing products,Reach
+0.0051,0.2640,1.3258,shampoos and conditioners/ hand creams,Nail care products,shampoos and conditioners/ hand creams + Nail care products,Scale
+0.0024,0.1142,1.3256,shampoos and conditioners/ body moisturizers,foundations and concealers,shampoos and conditioners/ body moisturizers + foundations and concealers,Reach
+0.0026,0.1535,1.3248,"face masks and exfoliators/ bath oils, bubbles and soaks",face moisturizing products,"face masks and exfoliators/ bath oils, bubbles and soaks + face moisturizing products",Reach
+0.0038,0.1707,1.3247,Eye shadows and pencils/ Nail care products,vitamins and supplements,Eye shadows and pencils/ Nail care products + vitamins and supplements,Scale
+0.0017,0.1946,1.3247,Body soaps and washes/ body moisturizers,hand creams,Body soaps and washes/ body moisturizers + hand creams,Precision
+0.0014,0.1250,1.3245,foundations and concealers/ hand creams,Accessories,foundations and concealers/ hand creams + Accessories,Monitor
+0.0019,0.1503,1.3243,body moisturizers/ brushes and applicators,face masks and exfoliators,body moisturizers/ brushes and applicators + face masks and exfoliators,Monitor
+0.0031,0.1503,1.3241,face moisturizing products/ Nail care products,face masks and exfoliators,face moisturizing products/ Nail care products + face masks and exfoliators,Reach
+0.0024,0.1253,1.3235,shampoos and conditioners/ vitamins and supplements,brushes and applicators,shampoos and conditioners/ vitamins and supplements + brushes and applicators,Reach
+0.0045,0.2635,1.3234,hand creams/ Eye shadows and pencils,Nail care products,hand creams/ Eye shadows and pencils + Nail care products,Scale
+0.0016,0.1502,1.3233,Accessories/ Eye shadows and pencils,face masks and exfoliators,Accessories/ Eye shadows and pencils + face masks and exfoliators,Monitor
+0.0017,0.2635,1.3232,Body soaps and washes/ brushes and applicators,Nail care products,Body soaps and washes/ brushes and applicators + Nail care products,Precision
+0.0018,0.1704,1.3219,face masks and exfoliators/ brushes and applicators,vitamins and supplements,face masks and exfoliators/ brushes and applicators + vitamins and supplements,Precision
+0.0013,0.1500,1.3216,"face moisturizing products/ candles, sprays, diffusers",face masks and exfoliators,"face moisturizing products/ candles, sprays, diffusers + face masks and exfoliators",Monitor
+0.0022,0.1247,1.3216,brushes and applicators/ Nail care products,hair colors and toners,brushes and applicators/ Nail care products + hair colors and toners,Reach
+0.0015,0.1054,1.3209,face masks and exfoliators/ vitamins and supplements,"candles, sprays, diffusers","face masks and exfoliators/ vitamins and supplements + candles, sprays, diffusers",Monitor
+0.0014,0.1250,1.3207,foundations and concealers/ hand creams,brushes and applicators,foundations and concealers/ hand creams + brushes and applicators,Monitor
+0.0036,0.2123,1.3202,"face moisturizing products/ bath oils, bubbles and soaks",shampoos and conditioners,"face moisturizing products/ bath oils, bubbles and soaks + shampoos and conditioners",Scale
+0.0017,0.1629,1.3199,face moisturizing products/ Accessories,Eye shadows and pencils,face moisturizing products/ Accessories + Eye shadows and pencils,Monitor
+0.0013,0.1245,1.3197,Accessories/ Eye shadows and pencils,hair colors and toners,Accessories/ Eye shadows and pencils + hair colors and toners,Monitor
+0.0012,0.1245,1.3192,shampoos and conditioners/ Body soaps and washes,hair colors and toners,shampoos and conditioners/ Body soaps and washes + hair colors and toners,Monitor
+0.0017,0.1528,1.3186,foundations and concealers/ hand creams,face moisturizing products,foundations and concealers/ hand creams + face moisturizing products,Monitor
+0.0021,0.1937,1.3185,"candles, sprays, diffusers/ bath oils, bubbles and soaks",hand creams,"candles, sprays, diffusers/ bath oils, bubbles and soaks + hand creams",Scale
+0.0017,0.1946,1.3184,Lipsticks/ Nail care products,"bath oils, bubbles and soaks","Lipsticks/ Nail care products + bath oils, bubbles and soaks",Precision
+0.0027,0.1699,1.3182,face masks and exfoliators/ hand creams,vitamins and supplements,face masks and exfoliators/ hand creams + vitamins and supplements,Scale
+0.0024,0.1627,1.3181,shampoos and conditioners/ brushes and applicators,Eye shadows and pencils,shampoos and conditioners/ brushes and applicators + Eye shadows and pencils,Reach
+0.0035,0.1935,1.3177,face moisturizing products/ shampoos and conditioners,hand creams,face moisturizing products/ shampoos and conditioners + hand creams,Scale
+0.0018,0.1243,1.3174,face masks and exfoliators/ vitamins and supplements,Accessories,face masks and exfoliators/ vitamins and supplements + Accessories,Monitor
+0.0044,0.2623,1.3173,body moisturizers/ Eye shadows and pencils,Nail care products,body moisturizers/ Eye shadows and pencils + Nail care products,Scale
+0.0028,0.1051,1.3172,shampoos and conditioners/ Nail care products,"candles, sprays, diffusers","shampoos and conditioners/ Nail care products + candles, sprays, diffusers",Reach
+0.0018,0.1625,1.3171,face moisturizing products/ brushes and applicators,Eye shadows and pencils,face moisturizing products/ brushes and applicators + Eye shadows and pencils,Monitor
+0.0026,0.2118,1.3171,hair colors and toners/ body moisturizers,shampoos and conditioners,hair colors and toners/ body moisturizers + shampoos and conditioners,Scale
+0.0021,0.2118,1.3166,face moisturizing products/ foundations and concealers,shampoos and conditioners,face moisturizing products/ foundations and concealers + shampoos and conditioners,Scale
+0.0010,0.1051,1.3166,foundations and concealers/ vitamins and supplements,"candles, sprays, diffusers","foundations and concealers/ vitamins and supplements + candles, sprays, diffusers",Monitor
+0.0016,0.1242,1.3163,Body soaps and washes/ Nail care products,Accessories,Body soaps and washes/ Nail care products + Accessories,Monitor
+0.0038,0.2620,1.3159,"Accessories/ bath oils, bubbles and soaks",Nail care products,"Accessories/ bath oils, bubbles and soaks + Nail care products",Scale
+0.0024,0.1931,1.3150,hair colors and toners/ body moisturizers,hand creams,hair colors and toners/ body moisturizers + hand creams,Scale
+0.0019,0.2115,1.3147,hair colors and toners/ Accessories,shampoos and conditioners,hair colors and toners/ Accessories + shampoos and conditioners,Precision
+0.0036,0.1694,1.3146,shampoos and conditioners/ body moisturizers,vitamins and supplements,shampoos and conditioners/ body moisturizers + vitamins and supplements,Scale
+0.0017,0.1049,1.3143,face moisturizing products/ hand creams,"candles, sprays, diffusers","face moisturizing products/ hand creams + candles, sprays, diffusers",Monitor
+0.0038,0.2113,1.3139,hair colors and toners/ Nail care products,shampoos and conditioners,hair colors and toners/ Nail care products + shampoos and conditioners,Scale
+0.0036,0.1889,1.3136,shampoos and conditioners/ vitamins and supplements,body moisturizers,shampoos and conditioners/ vitamins and supplements + body moisturizers,Scale
+0.0018,0.1243,1.3136,face masks and exfoliators/ vitamins and supplements,brushes and applicators,face masks and exfoliators/ vitamins and supplements + brushes and applicators,Monitor
+0.0043,0.1620,1.3131,shampoos and conditioners/ Nail care products,Eye shadows and pencils,shampoos and conditioners/ Nail care products + Eye shadows and pencils,Reach
+0.0034,0.1938,1.3129,brushes and applicators/ Nail care products,"bath oils, bubbles and soaks","brushes and applicators/ Nail care products + bath oils, bubbles and soaks",Scale
+0.0029,0.1047,1.3127,"bath oils, bubbles and soaks/ Nail care products","candles, sprays, diffusers","bath oils, bubbles and soaks/ Nail care products + candles, sprays, diffusers",Reach
+0.0040,0.1489,1.3120,shampoos and conditioners/ Nail care products,face masks and exfoliators,shampoos and conditioners/ Nail care products + face masks and exfoliators,Reach
+0.0051,0.1927,1.3119,shampoos and conditioners/ Nail care products,hand creams,shampoos and conditioners/ Nail care products + hand creams,Scale
+0.0015,0.1238,1.3119,face moisturizing products/ vitamins and supplements,Accessories,face moisturizing products/ vitamins and supplements + Accessories,Monitor
+0.0019,0.1046,1.3105,hair colors and toners/ Nail care products,"candles, sprays, diffusers","hair colors and toners/ Nail care products + candles, sprays, diffusers",Monitor
+0.0024,0.1884,1.3104,foundations and concealers/ shampoos and conditioners,body moisturizers,foundations and concealers/ shampoos and conditioners + body moisturizers,Scale
+0.0015,0.1689,1.3104,"Body soaps and washes/ bath oils, bubbles and soaks",vitamins and supplements,"Body soaps and washes/ bath oils, bubbles and soaks + vitamins and supplements",Monitor
+0.0043,0.1934,1.3103,Eye shadows and pencils/ Nail care products,"bath oils, bubbles and soaks","Eye shadows and pencils/ Nail care products + bath oils, bubbles and soaks",Scale
+0.0014,0.2609,1.3101,foundations and concealers/ Body soaps and washes,Nail care products,foundations and concealers/ Body soaps and washes + Nail care products,Precision
+0.0044,0.1616,1.3096,body moisturizers/ Nail care products,Eye shadows and pencils,body moisturizers/ Nail care products + Eye shadows and pencils,Reach
+0.0025,0.1236,1.3094,face masks and exfoliators/ Nail care products,hair colors and toners,face masks and exfoliators/ Nail care products + hair colors and toners,Reach
+0.0020,0.2105,1.3089,face moisturizing products/ hair colors and toners,shampoos and conditioners,face moisturizing products/ hair colors and toners + shampoos and conditioners,Precision
+0.0022,0.1615,1.3085,hand creams/ brushes and applicators,Eye shadows and pencils,hand creams/ brushes and applicators + Eye shadows and pencils,Reach
+0.0021,0.1044,1.3079,"hand creams/ bath oils, bubbles and soaks","candles, sprays, diffusers","hand creams/ bath oils, bubbles and soaks + candles, sprays, diffusers",Reach
+0.0037,0.1930,1.3079,shampoos and conditioners/ vitamins and supplements,"bath oils, bubbles and soaks","shampoos and conditioners/ vitamins and supplements + bath oils, bubbles and soaks",Scale
+0.0013,0.2102,1.3069,"foundations and concealers/ candles, sprays, diffusers",shampoos and conditioners,"foundations and concealers/ candles, sprays, diffusers + shampoos and conditioners",Precision
+0.0021,0.2101,1.3064,foundations and concealers/ vitamins and supplements,shampoos and conditioners,foundations and concealers/ vitamins and supplements + shampoos and conditioners,Scale
+0.0023,0.2601,1.3062,foundations and concealers/ face masks and exfoliators,Nail care products,foundations and concealers/ face masks and exfoliators + Nail care products,Scale
+0.0018,0.1918,1.3061,"candles, sprays, diffusers/ vitamins and supplements",hand creams,"candles, sprays, diffusers/ vitamins and supplements + hand creams",Precision
+0.0030,0.1878,1.3059,face moisturizing products/ hand creams,body moisturizers,face moisturizing products/ hand creams + body moisturizers,Scale
+0.0033,0.1918,1.3057,"face moisturizing products/ bath oils, bubbles and soaks",hand creams,"face moisturizing products/ bath oils, bubbles and soaks + hand creams",Scale
+0.0018,0.1878,1.3056,"candles, sprays, diffusers/ vitamins and supplements",body moisturizers,"candles, sprays, diffusers/ vitamins and supplements + body moisturizers",Precision
+0.0041,0.1512,1.3051,hand creams/ Nail care products,face moisturizing products,hand creams/ Nail care products + face moisturizing products,Reach
+0.0012,0.1124,1.3045,Accessories/ face masks and exfoliators,foundations and concealers,Accessories/ face masks and exfoliators + foundations and concealers,Monitor
+0.0042,0.2597,1.3043,face masks and exfoliators/ hand creams,Nail care products,face masks and exfoliators/ hand creams + Nail care products,Scale
+0.0024,0.2096,1.3033,Accessories/ vitamins and supplements,shampoos and conditioners,Accessories/ vitamins and supplements + shampoos and conditioners,Scale
+0.0024,0.2096,1.3033,brushes and applicators/ vitamins and supplements,shampoos and conditioners,brushes and applicators/ vitamins and supplements + shampoos and conditioners,Scale
+0.0032,0.1874,1.3028,"face masks and exfoliators/ bath oils, bubbles and soaks",body moisturizers,"face masks and exfoliators/ bath oils, bubbles and soaks + body moisturizers",Scale
+0.0016,0.2094,1.3021,foundations and concealers/ brushes and applicators,shampoos and conditioners,foundations and concealers/ brushes and applicators + shampoos and conditioners,Precision
+0.0033,0.1872,1.3019,Accessories/ Nail care products,body moisturizers,Accessories/ Nail care products + body moisturizers,Scale
+0.0032,0.1872,1.3018,"face moisturizing products/ bath oils, bubbles and soaks",body moisturizers,"face moisturizing products/ bath oils, bubbles and soaks + body moisturizers",Scale
+0.0015,0.1921,1.3018,"candles, sprays, diffusers/ brushes and applicators","bath oils, bubbles and soaks","candles, sprays, diffusers/ brushes and applicators + bath oils, bubbles and soaks",Precision
+0.0020,0.1477,1.3016,"hair colors and toners/ bath oils, bubbles and soaks",face masks and exfoliators,"hair colors and toners/ bath oils, bubbles and soaks + face masks and exfoliators",Monitor
+0.0015,0.1912,1.3016,Body soaps and washes/ Eye shadows and pencils,hand creams,Body soaps and washes/ Eye shadows and pencils + hand creams,Precision
+0.0027,0.1872,1.3015,"Accessories/ bath oils, bubbles and soaks",body moisturizers,"Accessories/ bath oils, bubbles and soaks + body moisturizers",Scale
+0.0033,0.2590,1.3009,Accessories/ hand creams,Nail care products,Accessories/ hand creams + Nail care products,Scale
+0.0024,0.1920,1.3006,face moisturizing products/ Eye shadows and pencils,"bath oils, bubbles and soaks","face moisturizing products/ Eye shadows and pencils + bath oils, bubbles and soaks",Scale
+0.0024,0.1676,1.3002,shampoos and conditioners/ Accessories,vitamins and supplements,shampoos and conditioners/ Accessories + vitamins and supplements,Reach
+0.0033,0.1227,1.3000,hand creams/ Nail care products,Accessories,hand creams/ Nail care products + Accessories,Reach
+0.0033,0.1227,1.2997,body moisturizers/ Nail care products,Accessories,body moisturizers/ Nail care products + Accessories,Reach
+0.0014,0.1674,1.2990,Body soaps and washes/ body moisturizers,vitamins and supplements,Body soaps and washes/ body moisturizers + vitamins and supplements,Monitor
+0.0015,0.1674,1.2988,hair colors and toners/ Accessories,vitamins and supplements,hair colors and toners/ Accessories + vitamins and supplements,Monitor
+0.0018,0.1603,1.2988,foundations and concealers/ body moisturizers,Eye shadows and pencils,foundations and concealers/ body moisturizers + Eye shadows and pencils,Monitor
+0.0025,0.1505,1.2986,shampoos and conditioners/ face masks and exfoliators,face moisturizing products,shampoos and conditioners/ face masks and exfoliators + face moisturizing products,Reach
+0.0022,0.1225,1.2985,hand creams/ vitamins and supplements,hair colors and toners,hand creams/ vitamins and supplements + hair colors and toners,Reach
+0.0041,0.2585,1.2984,face moisturizing products/ hand creams,Nail care products,face moisturizing products/ hand creams + Nail care products,Scale
+0.0034,0.1673,1.2980,face masks and exfoliators/ Nail care products,vitamins and supplements,face masks and exfoliators/ Nail care products + vitamins and supplements,Reach
+0.0014,0.1118,1.2980,Body soaps and washes/ Nail care products,foundations and concealers,Body soaps and washes/ Nail care products + foundations and concealers,Monitor
+0.0042,0.2585,1.2980,face moisturizing products/ body moisturizers,Nail care products,face moisturizing products/ body moisturizers + Nail care products,Scale
+0.0024,0.1035,1.2971,fragrances,"candles, sprays, diffusers","fragrances + candles, sprays, diffusers",Reach
+0.0014,0.1905,1.2968,foundations and concealers/ Accessories,hand creams,foundations and concealers/ Accessories + hand creams,Precision
+0.0018,0.1117,1.2963,face masks and exfoliators/ hand creams,foundations and concealers,face masks and exfoliators/ hand creams + foundations and concealers,Monitor
+0.0030,0.1501,1.2954,body moisturizers/ hand creams,face moisturizing products,body moisturizers/ hand creams + face moisturizing products,Reach
+0.0015,0.1912,1.2954,face moisturizing products/ Body soaps and washes,"bath oils, bubbles and soaks","face moisturizing products/ Body soaps and washes + bath oils, bubbles and soaks",Precision
+0.0025,0.2579,1.2954,hair colors and toners/ face masks and exfoliators,Nail care products,hair colors and toners/ face masks and exfoliators + Nail care products,Scale
+0.0018,0.1862,1.2950,face moisturizing products/ hair colors and toners,body moisturizers,face moisturizing products/ hair colors and toners + body moisturizers,Precision
+0.0013,0.1500,1.2946,"candles, sprays, diffusers/ face masks and exfoliators",face moisturizing products,"candles, sprays, diffusers/ face masks and exfoliators + face moisturizing products",Monitor
+0.0012,0.1500,1.2946,"hair colors and toners/ candles, sprays, diffusers",face moisturizing products,"hair colors and toners/ candles, sprays, diffusers + face moisturizing products",Monitor
+0.0023,0.2578,1.2946,"Body soaps and washes/ bath oils, bubbles and soaks",Nail care products,"Body soaps and washes/ bath oils, bubbles and soaks + Nail care products",Scale
+0.0028,0.1597,1.2944,hand creams/ vitamins and supplements,Eye shadows and pencils,hand creams/ vitamins and supplements + Eye shadows and pencils,Reach
+0.0022,0.1667,1.2931,hair colors and toners/ hand creams,vitamins and supplements,hair colors and toners/ hand creams + vitamins and supplements,Reach
+0.0028,0.1898,1.2925,"Accessories/ bath oils, bubbles and soaks",hand creams,"Accessories/ bath oils, bubbles and soaks + hand creams",Scale
+0.0023,0.1113,1.2924,face moisturizing products/ Nail care products,foundations and concealers,face moisturizing products/ Nail care products + foundations and concealers,Reach
+0.0014,0.1220,1.2922,foundations and concealers/ body moisturizers,hair colors and toners,foundations and concealers/ body moisturizers + hair colors and toners,Monitor
+0.0017,0.2573,1.2922,shampoos and conditioners/ Lipsticks,Nail care products,shampoos and conditioners/ Lipsticks + Nail care products,Precision
+0.0030,0.1113,1.2919,hand creams/ Nail care products,foundations and concealers,hand creams/ Nail care products + foundations and concealers,Reach
+0.0040,0.1897,1.2914,shampoos and conditioners/ body moisturizers,hand creams,shampoos and conditioners/ body moisturizers + hand creams,Scale
+0.0033,0.1894,1.2896,Accessories/ Nail care products,hand creams,Accessories/ Nail care products + hand creams,Scale
+0.0049,0.1854,1.2892,shampoos and conditioners/ Nail care products,body moisturizers,shampoos and conditioners/ Nail care products + body moisturizers,Scale
+0.0022,0.1220,1.2891,hair colors and toners/ Nail care products,brushes and applicators,hair colors and toners/ Nail care products + brushes and applicators,Reach
+0.0049,0.2567,1.2890,shampoos and conditioners/ vitamins and supplements,Nail care products,shampoos and conditioners/ vitamins and supplements + Nail care products,Scale
+0.0027,0.1494,1.2890,shampoos and conditioners/ Eye shadows and pencils,face moisturizing products,shampoos and conditioners/ Eye shadows and pencils + face moisturizing products,Reach
+0.0018,0.1028,1.2888,hand creams/ vitamins and supplements,"candles, sprays, diffusers","hand creams/ vitamins and supplements + candles, sprays, diffusers",Monitor
+0.0038,0.2566,1.2887,hair colors and toners/ shampoos and conditioners,Nail care products,hair colors and toners/ shampoos and conditioners + Nail care products,Scale
+0.0027,0.1220,1.2885,Eye shadows and pencils/ Nail care products,brushes and applicators,Eye shadows and pencils/ Nail care products + brushes and applicators,Reach
+0.0012,0.1216,1.2882,face moisturizing products/ foundations and concealers,Accessories,face moisturizing products/ foundations and concealers + Accessories,Monitor
+0.0027,0.1892,1.2880,face masks and exfoliators/ vitamins and supplements,hand creams,face masks and exfoliators/ vitamins and supplements + hand creams,Scale
+0.0020,0.1589,1.2874,hair colors and toners/ body moisturizers,Eye shadows and pencils,hair colors and toners/ body moisturizers + Eye shadows and pencils,Monitor
+0.0015,0.1900,1.2874,Body soaps and washes/ vitamins and supplements,"bath oils, bubbles and soaks","Body soaps and washes/ vitamins and supplements + bath oils, bubbles and soaks",Precision
+0.0021,0.1109,1.2874,shampoos and conditioners/ vitamins and supplements,foundations and concealers,shampoos and conditioners/ vitamins and supplements + foundations and concealers,Reach
+0.0012,0.1215,1.2870,face moisturizing products/ hair colors and toners,Accessories,face moisturizing products/ hair colors and toners + Accessories,Monitor
+0.0013,0.1214,1.2867,brushes and applicators/ Eye shadows and pencils,hair colors and toners,brushes and applicators/ Eye shadows and pencils + hair colors and toners,Monitor
+0.0014,0.1850,1.2864,Body soaps and washes/ vitamins and supplements,body moisturizers,Body soaps and washes/ vitamins and supplements + body moisturizers,Precision
+0.0051,0.1898,1.2859,shampoos and conditioners/ Nail care products,"bath oils, bubbles and soaks","shampoos and conditioners/ Nail care products + bath oils, bubbles and soaks",Scale
+0.0021,0.1897,1.2851,"candles, sprays, diffusers/ hand creams","bath oils, bubbles and soaks","candles, sprays, diffusers/ hand creams + bath oils, bubbles and soaks",Scale
+0.0013,0.1848,1.2849,Body soaps and washes/ face masks and exfoliators,body moisturizers,Body soaps and washes/ face masks and exfoliators + body moisturizers,Precision
+0.0016,0.1216,1.2846,foundations and concealers/ shampoos and conditioners,brushes and applicators,foundations and concealers/ shampoos and conditioners + brushes and applicators,Monitor
+0.0045,0.1655,1.2839,hand creams/ Nail care products,vitamins and supplements,hand creams/ Nail care products + vitamins and supplements,Reach
+0.0034,0.1215,1.2838,"bath oils, bubbles and soaks/ Nail care products",brushes and applicators,"bath oils, bubbles and soaks/ Nail care products + brushes and applicators",Reach
+0.0015,0.1215,1.2837,Accessories/ body moisturizers,brushes and applicators,Accessories/ body moisturizers + brushes and applicators,Monitor
+0.0014,0.1885,1.2832,foundations and concealers/ brushes and applicators,hand creams,foundations and concealers/ brushes and applicators + hand creams,Precision
+0.0024,0.1845,1.2831,hair colors and toners/ hand creams,body moisturizers,hair colors and toners/ hand creams + body moisturizers,Scale
+0.0019,0.1892,1.2819,Body soaps and washes/ hand creams,"bath oils, bubbles and soaks","Body soaps and washes/ hand creams + bath oils, bubbles and soaks",Precision
+0.0017,0.1023,1.2817,"bath oils, bubbles and soaks/ vitamins and supplements","candles, sprays, diffusers","bath oils, bubbles and soaks/ vitamins and supplements + candles, sprays, diffusers",Monitor
+0.0035,0.1651,1.2811,face moisturizing products/ Nail care products,vitamins and supplements,face moisturizing products/ Nail care products + vitamins and supplements,Reach
+0.0026,0.1454,1.2809,Accessories/ Nail care products,face masks and exfoliators,Accessories/ Nail care products + face masks and exfoliators,Reach
+0.0021,0.2060,1.2808,Accessories/ face masks and exfoliators,shampoos and conditioners,Accessories/ face masks and exfoliators + shampoos and conditioners,Scale
+0.0024,0.1209,1.2807,body moisturizers/ hand creams,hair colors and toners,body moisturizers/ hand creams + hair colors and toners,Reach
+0.0043,0.2059,1.2804,face moisturizing products/ Nail care products,shampoos and conditioners,face moisturizing products/ Nail care products + shampoos and conditioners,Scale
+0.0023,0.1103,1.2802,face masks and exfoliators/ Nail care products,foundations and concealers,face masks and exfoliators/ Nail care products + foundations and concealers,Reach
+0.0017,0.1483,1.2797,"candles, sprays, diffusers/ hand creams",face moisturizing products,"candles, sprays, diffusers/ hand creams + face moisturizing products",Monitor
+0.0010,0.1102,1.2795,"candles, sprays, diffusers/ vitamins and supplements",foundations and concealers,"candles, sprays, diffusers/ vitamins and supplements + foundations and concealers",Monitor
+0.0033,0.1840,1.2793,shampoos and conditioners/ Eye shadows and pencils,body moisturizers,shampoos and conditioners/ Eye shadows and pencils + body moisturizers,Scale
+0.0017,0.1648,1.2789,Accessories/ Eye shadows and pencils,vitamins and supplements,Accessories/ Eye shadows and pencils + vitamins and supplements,Monitor
+0.0016,0.1839,1.2784,foundations and concealers/ face masks and exfoliators,body moisturizers,foundations and concealers/ face masks and exfoliators + body moisturizers,Precision
+0.0044,0.2545,1.2783,"bath oils, bubbles and soaks/ vitamins and supplements",Nail care products,"bath oils, bubbles and soaks/ vitamins and supplements + Nail care products",Scale
+0.0010,0.1020,1.2778,face moisturizing products/ foundations and concealers,"candles, sprays, diffusers","face moisturizing products/ foundations and concealers + candles, sprays, diffusers",Monitor
+0.0014,0.1885,1.2771,foundations and concealers/ brushes and applicators,"bath oils, bubbles and soaks","foundations and concealers/ brushes and applicators + bath oils, bubbles and soaks",Precision
+0.0011,0.1480,1.2770,foundations and concealers/ hair colors and toners,face moisturizing products,foundations and concealers/ hair colors and toners + face moisturizing products,Monitor
+0.0017,0.1019,1.2764,shampoos and conditioners/ face masks and exfoliators,"candles, sprays, diffusers","shampoos and conditioners/ face masks and exfoliators + candles, sprays, diffusers",Monitor
+0.0019,0.1835,1.2761,Accessories/ face masks and exfoliators,body moisturizers,Accessories/ face masks and exfoliators + body moisturizers,Precision
+0.0021,0.2052,1.2760,"candles, sprays, diffusers/ body moisturizers",shampoos and conditioners,"candles, sprays, diffusers/ body moisturizers + shampoos and conditioners",Scale
+0.0028,0.1644,1.2756,hand creams/ Eye shadows and pencils,vitamins and supplements,hand creams/ Eye shadows and pencils + vitamins and supplements,Reach
+0.0017,0.1447,1.2753,"candles, sprays, diffusers/ shampoos and conditioners",face masks and exfoliators,"candles, sprays, diffusers/ shampoos and conditioners + face masks and exfoliators",Monitor
+0.0037,0.1643,1.2750,"shampoos and conditioners/ bath oils, bubbles and soaks",vitamins and supplements,"shampoos and conditioners/ bath oils, bubbles and soaks + vitamins and supplements",Reach
+0.0020,0.1477,1.2750,"hair colors and toners/ bath oils, bubbles and soaks",face moisturizing products,"hair colors and toners/ bath oils, bubbles and soaks + face moisturizing products",Monitor
+0.0018,0.1098,1.2749,body moisturizers/ vitamins and supplements,foundations and concealers,body moisturizers/ vitamins and supplements + foundations and concealers,Monitor
+0.0045,0.2538,1.2747,hand creams/ vitamins and supplements,Nail care products,hand creams/ vitamins and supplements + Nail care products,Scale
+0.0026,0.2537,1.2743,"candles, sprays, diffusers/ body moisturizers",Nail care products,"candles, sprays, diffusers/ body moisturizers + Nail care products",Scale
+0.0014,0.1446,1.2739,Body soaps and washes/ shampoos and conditioners,face masks and exfoliators,Body soaps and washes/ shampoos and conditioners + face masks and exfoliators,Monitor
+0.0027,0.1202,1.2738,Eye shadows and pencils/ Nail care products,hair colors and toners,Eye shadows and pencils/ Nail care products + hair colors and toners,Reach
+0.0021,0.1641,1.2735,foundations and concealers/ shampoos and conditioners,vitamins and supplements,foundations and concealers/ shampoos and conditioners + vitamins and supplements,Reach
+0.0012,0.1016,1.2731,face moisturizing products/ vitamins and supplements,"candles, sprays, diffusers","face moisturizing products/ vitamins and supplements + candles, sprays, diffusers",Monitor
+0.0012,0.1205,1.2730,Body soaps and washes/ shampoos and conditioners,brushes and applicators,Body soaps and washes/ shampoos and conditioners + brushes and applicators,Monitor
+0.0018,0.1829,1.2717,foundations and concealers/ vitamins and supplements,body moisturizers,foundations and concealers/ vitamins and supplements + body moisturizers,Precision
+0.0016,0.1014,1.2714,face moisturizing products/ body moisturizers,"candles, sprays, diffusers","face moisturizing products/ body moisturizers + candles, sprays, diffusers",Monitor
+0.0025,0.1014,1.2708,vitamins and supplements/ Nail care products,"candles, sprays, diffusers","vitamins and supplements/ Nail care products + candles, sprays, diffusers",Reach
+0.0019,0.1472,1.2708,body moisturizers/ brushes and applicators,face moisturizing products,body moisturizers/ brushes and applicators + face moisturizing products,Monitor
+0.0018,0.1638,1.2706,foundations and concealers/ body moisturizers,vitamins and supplements,foundations and concealers/ body moisturizers + vitamins and supplements,Monitor
+0.0012,0.1199,1.2700,Accessories/ face masks and exfoliators,hair colors and toners,Accessories/ face masks and exfoliators + hair colors and toners,Monitor
+0.0021,0.1013,1.2693,shampoos and conditioners/ body moisturizers,"candles, sprays, diffusers","shampoos and conditioners/ body moisturizers + candles, sprays, diffusers",Reach
+0.0033,0.1565,1.2685,shampoos and conditioners/ body moisturizers,Eye shadows and pencils,shampoos and conditioners/ body moisturizers + Eye shadows and pencils,Reach
+0.0012,0.1824,1.2680,hand creams/ Lipsticks,body moisturizers,hand creams/ Lipsticks + body moisturizers,Precision
+0.0029,0.1634,1.2678,hair colors and toners/ Nail care products,vitamins and supplements,hair colors and toners/ Nail care products + vitamins and supplements,Reach
+0.0015,0.1196,1.2677,body moisturizers/ brushes and applicators,Accessories,body moisturizers/ brushes and applicators + Accessories,Monitor
+0.0012,0.1092,1.2673,"candles, sprays, diffusers/ bath oils, bubbles and soaks",foundations and concealers,"candles, sprays, diffusers/ bath oils, bubbles and soaks + foundations and concealers",Monitor
+0.0019,0.1195,1.2664,face masks and exfoliators/ body moisturizers,Accessories,face masks and exfoliators/ body moisturizers + Accessories,Monitor
+0.0030,0.1860,1.2663,face moisturizing products/ body moisturizers,hand creams,face moisturizing products/ body moisturizers + hand creams,Scale
+0.0035,0.2521,1.2662,hand creams/ brushes and applicators,Nail care products,hand creams/ brushes and applicators + Nail care products,Scale
+0.0017,0.2036,1.2660,Body soaps and washes/ body moisturizers,shampoos and conditioners,Body soaps and washes/ body moisturizers + shampoos and conditioners,Precision
+0.0014,0.1090,1.2659,hair colors and toners/ body moisturizers,foundations and concealers,hair colors and toners/ body moisturizers + foundations and concealers,Monitor
+0.0012,0.1010,1.2658,hair colors and toners/ Eye shadows and pencils,"candles, sprays, diffusers","hair colors and toners/ Eye shadows and pencils + candles, sprays, diffusers",Monitor
+0.0020,0.1194,1.2656,body moisturizers/ Eye shadows and pencils,hair colors and toners,body moisturizers/ Eye shadows and pencils + hair colors and toners,Monitor
+0.0011,0.1466,1.2652,foundations and concealers/ brushes and applicators,face moisturizing products,foundations and concealers/ brushes and applicators + face moisturizing products,Monitor
+0.0012,0.1197,1.2646,Body soaps and washes/ hand creams,brushes and applicators,Body soaps and washes/ hand creams + brushes and applicators,Monitor
+0.0012,0.1856,1.2638,Body soaps and washes/ brushes and applicators,hand creams,Body soaps and washes/ brushes and applicators + hand creams,Precision
+0.0027,0.1865,1.2636,face masks and exfoliators/ vitamins and supplements,"bath oils, bubbles and soaks","face masks and exfoliators/ vitamins and supplements + bath oils, bubbles and soaks",Scale
+0.0027,0.1559,1.2633,brushes and applicators/ Nail care products,Eye shadows and pencils,brushes and applicators/ Nail care products + Eye shadows and pencils,Reach
+0.0019,0.1195,1.2628,face masks and exfoliators/ body moisturizers,brushes and applicators,face masks and exfoliators/ body moisturizers + brushes and applicators,Monitor
+0.0024,0.1627,1.2621,shampoos and conditioners/ brushes and applicators,vitamins and supplements,shampoos and conditioners/ brushes and applicators + vitamins and supplements,Reach
+0.0019,0.1815,1.2619,face masks and exfoliators/ brushes and applicators,body moisturizers,face masks and exfoliators/ brushes and applicators + body moisturizers,Precision
+0.0011,0.1007,1.2619,foundations and concealers/ hand creams,"candles, sprays, diffusers","foundations and concealers/ hand creams + candles, sprays, diffusers",Monitor
+0.0014,0.1190,1.2615,face moisturizing products/ face masks and exfoliators,Accessories,face moisturizing products/ face masks and exfoliators + Accessories,Monitor
+0.0021,0.1190,1.2615,shampoos and conditioners/ Eye shadows and pencils,hair colors and toners,shampoos and conditioners/ Eye shadows and pencils + hair colors and toners,Reach
+0.0028,0.1626,1.2614,brushes and applicators/ Nail care products,vitamins and supplements,brushes and applicators/ Nail care products + vitamins and supplements,Reach
+0.0013,0.1626,1.2613,"candles, sprays, diffusers/ brushes and applicators",vitamins and supplements,"candles, sprays, diffusers/ brushes and applicators + vitamins and supplements",Monitor
+0.0019,0.1006,1.2609,shampoos and conditioners/ vitamins and supplements,"candles, sprays, diffusers","shampoos and conditioners/ vitamins and supplements + candles, sprays, diffusers",Monitor
+0.0019,0.1556,1.2605,face moisturizing products/ vitamins and supplements,Eye shadows and pencils,face moisturizing products/ vitamins and supplements + Eye shadows and pencils,Monitor
+0.0013,0.1086,1.2603,"candles, sprays, diffusers/ shampoos and conditioners",foundations and concealers,"candles, sprays, diffusers/ shampoos and conditioners + foundations and concealers",Monitor
+0.0028,0.2509,1.2598,brushes and applicators/ vitamins and supplements,Nail care products,brushes and applicators/ vitamins and supplements + Nail care products,Scale
+0.0014,0.1084,1.2589,Accessories/ hand creams,foundations and concealers,Accessories/ hand creams + foundations and concealers,Monitor
+0.0016,0.1429,1.2587,foundations and concealers/ body moisturizers,face masks and exfoliators,foundations and concealers/ body moisturizers + face masks and exfoliators,Monitor
+0.0016,0.1622,1.2582,Body soaps and washes/ hand creams,vitamins and supplements,Body soaps and washes/ hand creams + vitamins and supplements,Monitor
+0.0021,0.1809,1.2580,"candles, sprays, diffusers/ shampoos and conditioners",body moisturizers,"candles, sprays, diffusers/ shampoos and conditioners + body moisturizers",Scale
+0.0020,0.1187,1.2580,"face moisturizing products/ bath oils, bubbles and soaks",hair colors and toners,"face moisturizing products/ bath oils, bubbles and soaks + hair colors and toners",Monitor
+0.0017,0.1857,1.2580,"candles, sprays, diffusers/ Eye shadows and pencils","bath oils, bubbles and soaks","candles, sprays, diffusers/ Eye shadows and pencils + bath oils, bubbles and soaks",Precision
+0.0011,0.1847,1.2576,"foundations and concealers/ candles, sprays, diffusers",hand creams,"foundations and concealers/ candles, sprays, diffusers + hand creams",Precision
+0.0018,0.1621,1.2575,"candles, sprays, diffusers/ hand creams",vitamins and supplements,"candles, sprays, diffusers/ hand creams + vitamins and supplements",Monitor
+0.0027,0.1847,1.2574,"candles, sprays, diffusers/ Nail care products",hand creams,"candles, sprays, diffusers/ Nail care products + hand creams",Scale
+0.0013,0.1003,1.2570,foundations and concealers/ shampoos and conditioners,"candles, sprays, diffusers","foundations and concealers/ shampoos and conditioners + candles, sprays, diffusers",Monitor
+0.0017,0.1807,1.2567,Body soaps and washes/ shampoos and conditioners,body moisturizers,Body soaps and washes/ shampoos and conditioners + body moisturizers,Precision
+0.0043,0.1550,1.2562,"bath oils, bubbles and soaks/ Nail care products",Eye shadows and pencils,"bath oils, bubbles and soaks/ Nail care products + Eye shadows and pencils",Reach
+0.0027,0.2500,1.2555,brushes and applicators/ Eye shadows and pencils,Nail care products,brushes and applicators/ Eye shadows and pencils + Nail care products,Scale
+0.0019,0.2500,1.2555,Body soaps and washes/ vitamins and supplements,Nail care products,Body soaps and washes/ vitamins and supplements + Nail care products,Precision
+0.0017,0.1549,1.2554,"candles, sprays, diffusers/ bath oils, bubbles and soaks",Eye shadows and pencils,"candles, sprays, diffusers/ bath oils, bubbles and soaks + Eye shadows and pencils",Monitor
+0.0013,0.1185,1.2553,foundations and concealers/ body moisturizers,Accessories,foundations and concealers/ body moisturizers + Accessories,Monitor
+0.0011,0.1081,1.2551,Body soaps and washes/ hand creams,foundations and concealers,Body soaps and washes/ hand creams + foundations and concealers,Monitor
+0.0014,0.1852,1.2548,foundations and concealers/ Accessories,"bath oils, bubbles and soaks","foundations and concealers/ Accessories + bath oils, bubbles and soaks",Precision
+0.0031,0.1841,1.2533,"bath oils, bubbles and soaks/ vitamins and supplements",hand creams,"bath oils, bubbles and soaks/ vitamins and supplements + hand creams",Scale
+0.0017,0.1546,1.2531,Accessories/ vitamins and supplements,Eye shadows and pencils,Accessories/ vitamins and supplements + Eye shadows and pencils,Monitor
+0.0010,0.1182,1.2523,"candles, sprays, diffusers/ face masks and exfoliators",Accessories,"candles, sprays, diffusers/ face masks and exfoliators + Accessories",Monitor
+0.0013,0.1799,1.2509,foundations and concealers/ Accessories,body moisturizers,foundations and concealers/ Accessories + body moisturizers,Precision
+0.0026,0.1799,1.2509,hair colors and toners/ shampoos and conditioners,body moisturizers,hair colors and toners/ shampoos and conditioners + body moisturizers,Scale
+0.0018,0.1077,1.2507,body moisturizers/ Eye shadows and pencils,foundations and concealers,body moisturizers/ Eye shadows and pencils + foundations and concealers,Monitor
+0.0025,0.2490,1.2506,foundations and concealers/ vitamins and supplements,Nail care products,foundations and concealers/ vitamins and supplements + Nail care products,Scale
+0.0019,0.1612,1.2506,"candles, sprays, diffusers/ shampoos and conditioners",vitamins and supplements,"candles, sprays, diffusers/ shampoos and conditioners + vitamins and supplements",Monitor
+0.0025,0.1419,1.2505,"bath oils, bubbles and soaks/ Eye shadows and pencils",face masks and exfoliators,"bath oils, bubbles and soaks/ Eye shadows and pencils + face masks and exfoliators",Reach
+0.0024,0.1419,1.2502,hand creams/ Eye shadows and pencils,face masks and exfoliators,hand creams/ Eye shadows and pencils + face masks and exfoliators,Reach
+0.0030,0.1835,1.2495,foundations and concealers/ Nail care products,hand creams,foundations and concealers/ Nail care products + hand creams,Scale
+0.0026,0.1610,1.2490,face masks and exfoliators/ body moisturizers,vitamins and supplements,face masks and exfoliators/ body moisturizers + vitamins and supplements,Reach
+0.0028,0.1834,1.2487,vitamins and supplements/ Eye shadows and pencils,hand creams,vitamins and supplements/ Eye shadows and pencils + hand creams,Scale
+0.0040,0.2008,1.2483,body moisturizers/ hand creams,shampoos and conditioners,body moisturizers/ hand creams + shampoos and conditioners,Scale
+0.0025,0.1416,1.2477,hair colors and toners/ Nail care products,face masks and exfoliators,hair colors and toners/ Nail care products + face masks and exfoliators,Reach
+0.0026,0.1794,1.2476,"candles, sprays, diffusers/ Nail care products",body moisturizers,"candles, sprays, diffusers/ Nail care products + body moisturizers",Scale
+0.0023,0.1832,1.2475,Body soaps and washes/ Nail care products,hand creams,Body soaps and washes/ Nail care products + hand creams,Scale
+0.0019,0.1538,1.2467,"foundations and concealers/ bath oils, bubbles and soaks",Eye shadows and pencils,"foundations and concealers/ bath oils, bubbles and soaks + Eye shadows and pencils",Monitor
+0.0010,0.1176,1.2466,Body soaps and washes/ body moisturizers,Accessories,Body soaps and washes/ body moisturizers + Accessories,Monitor
+0.0010,0.1176,1.2466,Lipsticks/ Nail care products,hair colors and toners,Lipsticks/ Nail care products + hair colors and toners,Monitor
+0.0017,0.1073,1.2460,face moisturizing products/ hand creams,foundations and concealers,face moisturizing products/ hand creams + foundations and concealers,Monitor
+0.0021,0.1792,1.2457,face masks and exfoliators/ Eye shadows and pencils,body moisturizers,face masks and exfoliators/ Eye shadows and pencils + body moisturizers,Scale
+0.0023,0.1604,1.2447,"Accessories/ bath oils, bubbles and soaks",vitamins and supplements,"Accessories/ bath oils, bubbles and soaks + vitamins and supplements",Reach
+0.0017,0.1837,1.2445,"candles, sprays, diffusers/ vitamins and supplements","bath oils, bubbles and soaks","candles, sprays, diffusers/ vitamins and supplements + bath oils, bubbles and soaks",Precision
+0.0016,0.1536,1.2443,Accessories/ face masks and exfoliators,Eye shadows and pencils,Accessories/ face masks and exfoliators + Eye shadows and pencils,Monitor
+0.0035,0.1828,1.2442,shampoos and conditioners/ vitamins and supplements,hand creams,shampoos and conditioners/ vitamins and supplements + hand creams,Scale
+0.0020,0.1174,1.2438,"face masks and exfoliators/ bath oils, bubbles and soaks",hair colors and toners,"face masks and exfoliators/ bath oils, bubbles and soaks + hair colors and toners",Monitor
+0.0030,0.1827,1.2436,body moisturizers/ Eye shadows and pencils,hand creams,body moisturizers/ Eye shadows and pencils + hand creams,Scale
+0.0017,0.2000,1.2435,"Body soaps and washes/ bath oils, bubbles and soaks",shampoos and conditioners,"Body soaps and washes/ bath oils, bubbles and soaks + shampoos and conditioners",Precision
+0.0019,0.2000,1.2435,"candles, sprays, diffusers/ vitamins and supplements",shampoos and conditioners,"candles, sprays, diffusers/ vitamins and supplements + shampoos and conditioners",Precision
+0.0017,0.2000,1.2435,"candles, sprays, diffusers/ face masks and exfoliators",shampoos and conditioners,"candles, sprays, diffusers/ face masks and exfoliators + shampoos and conditioners",Precision
+0.0019,0.1534,1.2428,body moisturizers/ brushes and applicators,Eye shadows and pencils,body moisturizers/ brushes and applicators + Eye shadows and pencils,Monitor
+0.0012,0.1410,1.2421,hair colors and toners/ Accessories,face masks and exfoliators,hair colors and toners/ Accessories + face masks and exfoliators,Monitor
+0.0019,0.1786,1.2417,brushes and applicators/ Eye shadows and pencils,body moisturizers,brushes and applicators/ Eye shadows and pencils + body moisturizers,Precision
+0.0014,0.1786,1.2417,foundations and concealers/ hair colors and toners,body moisturizers,foundations and concealers/ hair colors and toners + body moisturizers,Precision
+0.0026,0.2472,1.2414,Accessories/ face masks and exfoliators,Nail care products,Accessories/ face masks and exfoliators + Nail care products,Scale
+0.0012,0.1600,1.2414,"hair colors and toners/ candles, sprays, diffusers",vitamins and supplements,"hair colors and toners/ candles, sprays, diffusers + vitamins and supplements",Monitor
+0.0015,0.1175,1.2412,Accessories/ hand creams,brushes and applicators,Accessories/ hand creams + brushes and applicators,Monitor
+0.0026,0.1784,1.2404,face masks and exfoliators/ vitamins and supplements,body moisturizers,face masks and exfoliators/ vitamins and supplements + body moisturizers,Scale
+0.0029,0.1170,1.2398,vitamins and supplements/ Nail care products,hair colors and toners,vitamins and supplements/ Nail care products + hair colors and toners,Reach
+0.0016,0.1530,1.2397,"candles, sprays, diffusers/ body moisturizers",Eye shadows and pencils,"candles, sprays, diffusers/ body moisturizers + Eye shadows and pencils",Monitor
+0.0024,0.1529,1.2391,face masks and exfoliators/ hand creams,Eye shadows and pencils,face masks and exfoliators/ hand creams + Eye shadows and pencils,Reach
+0.0014,0.1173,1.2390,face masks and exfoliators/ Eye shadows and pencils,brushes and applicators,face masks and exfoliators/ Eye shadows and pencils + brushes and applicators,Monitor
+0.0038,0.1529,1.2389,vitamins and supplements/ Nail care products,Eye shadows and pencils,vitamins and supplements/ Nail care products + Eye shadows and pencils,Reach
+0.0012,0.1172,1.2385,Accessories/ Eye shadows and pencils,brushes and applicators,Accessories/ Eye shadows and pencils + brushes and applicators,Monitor
+0.0016,0.1067,1.2384,shampoos and conditioners/ brushes and applicators,foundations and concealers,shampoos and conditioners/ brushes and applicators + foundations and concealers,Monitor
+0.0017,0.1991,1.2379,Lipsticks/ Nail care products,shampoos and conditioners,Lipsticks/ Nail care products + shampoos and conditioners,Precision
+0.0033,0.1818,1.2378,shampoos and conditioners/ Eye shadows and pencils,hand creams,shampoos and conditioners/ Eye shadows and pencils + hand creams,Scale
+0.0033,0.1991,1.2377,body moisturizers/ Eye shadows and pencils,shampoos and conditioners,body moisturizers/ Eye shadows and pencils + shampoos and conditioners,Scale
+0.0050,0.1826,1.2372,hand creams/ Nail care products,"bath oils, bubbles and soaks","hand creams/ Nail care products + bath oils, bubbles and soaks",Scale
+0.0019,0.1171,1.2372,body moisturizers/ Eye shadows and pencils,brushes and applicators,body moisturizers/ Eye shadows and pencils + brushes and applicators,Monitor
+0.0018,0.1433,1.2368,hair colors and toners/ body moisturizers,face moisturizing products,hair colors and toners/ body moisturizers + face moisturizing products,Monitor
+0.0036,0.1816,1.2366,"bath oils, bubbles and soaks/ body moisturizers",hand creams,"bath oils, bubbles and soaks/ body moisturizers + hand creams",Scale
+0.0038,0.2462,1.2366,vitamins and supplements/ Eye shadows and pencils,Nail care products,vitamins and supplements/ Eye shadows and pencils + Nail care products,Scale
+0.0031,0.2461,1.2360,hair colors and toners/ body moisturizers,Nail care products,hair colors and toners/ body moisturizers + Nail care products,Scale
+0.0012,0.1824,1.2356,"candles, sprays, diffusers/ Accessories","bath oils, bubbles and soaks","candles, sprays, diffusers/ Accessories + bath oils, bubbles and soaks",Precision
+0.0038,0.1823,1.2354,shampoos and conditioners/ body moisturizers,"bath oils, bubbles and soaks","shampoos and conditioners/ body moisturizers + bath oils, bubbles and soaks",Scale
+0.0017,0.1590,1.2337,face moisturizing products/ brushes and applicators,vitamins and supplements,face moisturizing products/ brushes and applicators + vitamins and supplements,Monitor
+0.0011,0.1400,1.2335,"hair colors and toners/ candles, sprays, diffusers",face masks and exfoliators,"hair colors and toners/ candles, sprays, diffusers + face masks and exfoliators",Monitor
+0.0019,0.1522,1.2331,Body soaps and washes/ Nail care products,Eye shadows and pencils,Body soaps and washes/ Nail care products + Eye shadows and pencils,Monitor
+0.0020,0.1429,1.2330,shampoos and conditioners/ Accessories,face moisturizing products,shampoos and conditioners/ Accessories + face moisturizing products,Monitor
+0.0030,0.1520,1.2321,body moisturizers/ hand creams,Eye shadows and pencils,body moisturizers/ hand creams + Eye shadows and pencils,Reach
+0.0010,0.1520,1.2321,shampoos and conditioners/ Lipsticks,Eye shadows and pencils,shampoos and conditioners/ Lipsticks + Eye shadows and pencils,Monitor
+0.0045,0.1810,1.2321,vitamins and supplements/ Nail care products,hand creams,vitamins and supplements/ Nail care products + hand creams,Scale
+0.0016,0.1818,1.2320,"face moisturizing products/ candles, sprays, diffusers","bath oils, bubbles and soaks","face moisturizing products/ candles, sprays, diffusers + bath oils, bubbles and soaks",Precision
+0.0025,0.1398,1.2316,face moisturizing products/ shampoos and conditioners,face masks and exfoliators,face moisturizing products/ shampoos and conditioners + face masks and exfoliators,Reach
+0.0011,0.1162,1.2311,foundations and concealers/ Eye shadows and pencils,Accessories,foundations and concealers/ Eye shadows and pencils + Accessories,Monitor
+0.0034,0.2451,1.2308,"bath oils, bubbles and soaks/ brushes and applicators",Nail care products,"bath oils, bubbles and soaks/ brushes and applicators + Nail care products",Scale
+0.0021,0.1060,1.2307,shampoos and conditioners/ hand creams,foundations and concealers,shampoos and conditioners/ hand creams + foundations and concealers,Monitor
+0.0048,0.1769,1.2300,hand creams/ Nail care products,body moisturizers,hand creams/ Nail care products + body moisturizers,Scale
+0.0013,0.1059,1.2297,Accessories/ body moisturizers,foundations and concealers,Accessories/ body moisturizers + foundations and concealers,Monitor
+0.0017,0.1585,1.2294,"candles, sprays, diffusers/ bath oils, bubbles and soaks",vitamins and supplements,"candles, sprays, diffusers/ bath oils, bubbles and soaks + vitamins and supplements",Monitor
+0.0036,0.1813,1.2284,body moisturizers/ hand creams,"bath oils, bubbles and soaks","body moisturizers/ hand creams + bath oils, bubbles and soaks",Scale
+0.0011,0.1162,1.2276,foundations and concealers/ Eye shadows and pencils,brushes and applicators,foundations and concealers/ Eye shadows and pencils + brushes and applicators,Monitor
+0.0012,0.1158,1.2274,Body soaps and washes/ hand creams,hair colors and toners,Body soaps and washes/ hand creams + hair colors and toners,Monitor
+0.0015,0.1765,1.2271,Lipsticks/ Nail care products,body moisturizers,Lipsticks/ Nail care products + body moisturizers,Precision
+0.0036,0.1765,1.2271,"bath oils, bubbles and soaks/ hand creams",body moisturizers,"bath oils, bubbles and soaks/ hand creams + body moisturizers",Scale
+0.0011,0.1422,1.2269,Body soaps and washes/ Eye shadows and pencils,face moisturizing products,Body soaps and washes/ Eye shadows and pencils + face moisturizing products,Monitor
+0.0019,0.1159,1.2250,face moisturizing products/ body moisturizers,brushes and applicators,face moisturizing products/ body moisturizers + brushes and applicators,Monitor
+0.0020,0.1970,1.2247,face moisturizing products/ Accessories,shampoos and conditioners,face moisturizing products/ Accessories + shampoos and conditioners,Precision
+0.0017,0.1807,1.2246,Body soaps and washes/ shampoos and conditioners,"bath oils, bubbles and soaks","Body soaps and washes/ shampoos and conditioners + bath oils, bubbles and soaks",Precision
+0.0023,0.1807,1.2243,hair colors and toners/ body moisturizers,"bath oils, bubbles and soaks","hair colors and toners/ body moisturizers + bath oils, bubbles and soaks",Scale
+0.0015,0.1155,1.2239,foundations and concealers/ shampoos and conditioners,hair colors and toners,foundations and concealers/ shampoos and conditioners + hair colors and toners,Monitor
+0.0014,0.1510,1.2238,"candles, sprays, diffusers/ vitamins and supplements",Eye shadows and pencils,"candles, sprays, diffusers/ vitamins and supplements + Eye shadows and pencils",Monitor
+0.0015,0.1577,1.2234,foundations and concealers/ Eye shadows and pencils,vitamins and supplements,foundations and concealers/ Eye shadows and pencils + vitamins and supplements,Monitor
+0.0027,0.1575,1.2223,"face moisturizing products/ bath oils, bubbles and soaks",vitamins and supplements,"face moisturizing products/ bath oils, bubbles and soaks + vitamins and supplements",Reach
+0.0012,0.1157,1.2222,"candles, sprays, diffusers/ body moisturizers",brushes and applicators,"candles, sprays, diffusers/ body moisturizers + brushes and applicators",Monitor
+0.0019,0.1795,1.2220,Accessories/ Eye shadows and pencils,hand creams,Accessories/ Eye shadows and pencils + hand creams,Precision
+0.0030,0.1757,1.2216,hand creams/ Eye shadows and pencils,body moisturizers,hand creams/ Eye shadows and pencils + body moisturizers,Scale
+0.0023,0.1801,1.2205,Body soaps and washes/ Nail care products,"bath oils, bubbles and soaks","Body soaps and washes/ Nail care products + bath oils, bubbles and soaks",Scale
+0.0016,0.1414,1.2205,hair colors and toners/ Eye shadows and pencils,face moisturizing products,hair colors and toners/ Eye shadows and pencils + face moisturizing products,Monitor
+0.0015,0.1506,1.2202,Body soaps and washes/ hand creams,Eye shadows and pencils,Body soaps and washes/ hand creams + Eye shadows and pencils,Monitor
+0.0050,0.2429,1.2198,"bath oils, bubbles and soaks/ hand creams",Nail care products,"bath oils, bubbles and soaks/ hand creams + Nail care products",Scale
+0.0010,0.1413,1.2195,Body soaps and washes/ face masks and exfoliators,face moisturizing products,Body soaps and washes/ face masks and exfoliators + face moisturizing products,Monitor
+0.0028,0.1384,1.2195,body moisturizers/ hand creams,face masks and exfoliators,body moisturizers/ hand creams + face masks and exfoliators,Reach
+0.0014,0.1154,1.2191,"foundations and concealers/ bath oils, bubbles and soaks",brushes and applicators,"foundations and concealers/ bath oils, bubbles and soaks + brushes and applicators",Monitor
+0.0024,0.1150,1.2189,face moisturizing products/ Nail care products,Accessories,face moisturizing products/ Nail care products + Accessories,Reach
+0.0034,0.1960,1.2186,brushes and applicators/ Nail care products,shampoos and conditioners,brushes and applicators/ Nail care products + shampoos and conditioners,Scale
+0.0023,0.1412,1.2184,foundations and concealers/ Nail care products,face moisturizing products,foundations and concealers/ Nail care products + face moisturizing products,Reach
+0.0048,0.1789,1.2182,body moisturizers/ Nail care products,hand creams,body moisturizers/ Nail care products + hand creams,Scale
+0.0027,0.1503,1.2181,hair colors and toners/ Nail care products,Eye shadows and pencils,hair colors and toners/ Nail care products + Eye shadows and pencils,Reach
+0.0043,0.2424,1.2171,"bath oils, bubbles and soaks/ Eye shadows and pencils",Nail care products,"bath oils, bubbles and soaks/ Eye shadows and pencils + Nail care products",Scale
+0.0050,0.1788,1.2171,"bath oils, bubbles and soaks/ Nail care products",hand creams,"bath oils, bubbles and soaks/ Nail care products + hand creams",Scale
+0.0029,0.1381,1.2170,shampoos and conditioners/ body moisturizers,face masks and exfoliators,shampoos and conditioners/ body moisturizers + face masks and exfoliators,Reach
+0.0019,0.1048,1.2168,"bath oils, bubbles and soaks/ Eye shadows and pencils",foundations and concealers,"bath oils, bubbles and soaks/ Eye shadows and pencils + foundations and concealers",Monitor
+0.0014,0.1957,1.2165,Body soaps and washes/ face masks and exfoliators,shampoos and conditioners,Body soaps and washes/ face masks and exfoliators + shampoos and conditioners,Precision
+0.0026,0.1787,1.2164,shampoos and conditioners/ brushes and applicators,hand creams,shampoos and conditioners/ brushes and applicators + hand creams,Scale
+0.0027,0.1380,1.2159,shampoos and conditioners/ hand creams,face masks and exfoliators,shampoos and conditioners/ hand creams + face masks and exfoliators,Reach
+0.0016,0.1408,1.2156,"candles, sprays, diffusers/ bath oils, bubbles and soaks",face moisturizing products,"candles, sprays, diffusers/ bath oils, bubbles and soaks + face moisturizing products",Monitor
+0.0012,0.1500,1.2155,"hair colors and toners/ candles, sprays, diffusers",Eye shadows and pencils,"hair colors and toners/ candles, sprays, diffusers + Eye shadows and pencils",Monitor
+0.0015,0.1407,1.2147,face masks and exfoliators/ brushes and applicators,face moisturizing products,face masks and exfoliators/ brushes and applicators + face moisturizing products,Monitor
+0.0040,0.1783,1.2140,"shampoos and conditioners/ bath oils, bubbles and soaks",hand creams,"shampoos and conditioners/ bath oils, bubbles and soaks + hand creams",Scale
+0.0048,0.2417,1.2139,body moisturizers/ hand creams,Nail care products,body moisturizers/ hand creams + Nail care products,Scale
+0.0018,0.1045,1.2138,"bath oils, bubbles and soaks/ vitamins and supplements",foundations and concealers,"bath oils, bubbles and soaks/ vitamins and supplements + foundations and concealers",Monitor
+0.0013,0.1498,1.2137,hair colors and toners/ Accessories,Eye shadows and pencils,hair colors and toners/ Accessories + Eye shadows and pencils,Monitor
+0.0044,0.1564,1.2137,"bath oils, bubbles and soaks/ Nail care products",vitamins and supplements,"bath oils, bubbles and soaks/ Nail care products + vitamins and supplements",Reach
+0.0013,0.1145,1.2131,hair colors and toners/ Eye shadows and pencils,Accessories,hair colors and toners/ Eye shadows and pencils + Accessories,Monitor
+0.0018,0.1790,1.2128,foundations and concealers/ vitamins and supplements,"bath oils, bubbles and soaks","foundations and concealers/ vitamins and supplements + bath oils, bubbles and soaks",Precision
+0.0018,0.1950,1.2125,foundations and concealers/ Eye shadows and pencils,shampoos and conditioners,foundations and concealers/ Eye shadows and pencils + shampoos and conditioners,Precision
+0.0049,0.1950,1.2125,vitamins and supplements/ Nail care products,shampoos and conditioners,vitamins and supplements/ Nail care products + shampoos and conditioners,Scale
+0.0027,0.2414,1.2122,"candles, sprays, diffusers/ hand creams",Nail care products,"candles, sprays, diffusers/ hand creams + Nail care products",Scale
+0.0014,0.1561,1.2113,"candles, sprays, diffusers/ Eye shadows and pencils",vitamins and supplements,"candles, sprays, diffusers/ Eye shadows and pencils + vitamins and supplements",Monitor
+0.0012,0.1143,1.2110,brushes and applicators/ Eye shadows and pencils,Accessories,brushes and applicators/ Eye shadows and pencils + Accessories,Monitor
+0.0035,0.1947,1.2108,hand creams/ vitamins and supplements,shampoos and conditioners,hand creams/ vitamins and supplements + shampoos and conditioners,Scale
+0.0015,0.1741,1.2107,Accessories/ brushes and applicators,body moisturizers,Accessories/ brushes and applicators + body moisturizers,Precision
+0.0034,0.1373,1.2096,vitamins and supplements/ Nail care products,face masks and exfoliators,vitamins and supplements/ Nail care products + face masks and exfoliators,Reach
+0.0013,0.1145,1.2096,hair colors and toners/ Eye shadows and pencils,brushes and applicators,hair colors and toners/ Eye shadows and pencils + brushes and applicators,Monitor
+0.0018,0.2408,1.2095,foundations and concealers/ brushes and applicators,Nail care products,foundations and concealers/ brushes and applicators + Nail care products,Precision
+0.0027,0.1558,1.2085,"face masks and exfoliators/ bath oils, bubbles and soaks",vitamins and supplements,"face masks and exfoliators/ bath oils, bubbles and soaks + vitamins and supplements",Reach
+0.0031,0.1140,1.2080,body moisturizers/ Nail care products,hair colors and toners,body moisturizers/ Nail care products + hair colors and toners,Reach
+0.0029,0.1736,1.2072,shampoos and conditioners/ face masks and exfoliators,body moisturizers,shampoos and conditioners/ face masks and exfoliators + body moisturizers,Scale
+0.0043,0.2403,1.2066,shampoos and conditioners/ Eye shadows and pencils,Nail care products,shampoos and conditioners/ Eye shadows and pencils + Nail care products,Scale
+0.0019,0.2402,1.2063,Body soaps and washes/ Eye shadows and pencils,Nail care products,Body soaps and washes/ Eye shadows and pencils + Nail care products,Precision
+0.0040,0.1939,1.2057,face masks and exfoliators/ Nail care products,shampoos and conditioners,face masks and exfoliators/ Nail care products + shampoos and conditioners,Scale
+0.0015,0.1939,1.2054,foundations and concealers/ hair colors and toners,shampoos and conditioners,foundations and concealers/ hair colors and toners + shampoos and conditioners,Precision
+0.0019,0.2400,1.2053,"hair colors and toners/ candles, sprays, diffusers",Nail care products,"hair colors and toners/ candles, sprays, diffusers + Nail care products",Precision
+0.0011,0.1137,1.2051,face moisturizing products/ foundations and concealers,hair colors and toners,face moisturizing products/ foundations and concealers + hair colors and toners,Monitor
+0.0019,0.1553,1.2048,Body soaps and washes/ Nail care products,vitamins and supplements,Body soaps and washes/ Nail care products + vitamins and supplements,Monitor
+0.0012,0.1136,1.2041,face moisturizing products/ Accessories,hair colors and toners,face moisturizing products/ Accessories + hair colors and toners,Monitor
+0.0017,0.1366,1.2040,Body soaps and washes/ Nail care products,face masks and exfoliators,Body soaps and washes/ Nail care products + face masks and exfoliators,Monitor
+0.0021,0.1776,1.2036,"candles, sprays, diffusers/ shampoos and conditioners","bath oils, bubbles and soaks","candles, sprays, diffusers/ shampoos and conditioners + bath oils, bubbles and soaks",Scale
+0.0038,0.1731,1.2035,"shampoos and conditioners/ bath oils, bubbles and soaks",body moisturizers,"shampoos and conditioners/ bath oils, bubbles and soaks + body moisturizers",Scale
+0.0040,0.1935,1.2034,"bath oils, bubbles and soaks/ hand creams",shampoos and conditioners,"bath oils, bubbles and soaks/ hand creams + shampoos and conditioners",Scale
+0.0028,0.1139,1.2033,vitamins and supplements/ Nail care products,brushes and applicators,vitamins and supplements/ Nail care products + brushes and applicators,Reach
+0.0020,0.1135,1.2031,"bath oils, bubbles and soaks/ Eye shadows and pencils",hair colors and toners,"bath oils, bubbles and soaks/ Eye shadows and pencils + hair colors and toners",Monitor
+0.0017,0.1767,1.2030,Body soaps and washes/ shampoos and conditioners,hand creams,Body soaps and washes/ shampoos and conditioners + hand creams,Precision
+0.0016,0.1730,1.2029,"candles, sprays, diffusers/ Eye shadows and pencils",body moisturizers,"candles, sprays, diffusers/ Eye shadows and pencils + body moisturizers",Precision
+0.0017,0.1365,1.2028,face moisturizing products/ vitamins and supplements,face masks and exfoliators,face moisturizing products/ vitamins and supplements + face masks and exfoliators,Monitor
+0.0023,0.1365,1.2024,foundations and concealers/ Nail care products,face masks and exfoliators,foundations and concealers/ Nail care products + face masks and exfoliators,Reach
+0.0027,0.1484,1.2024,face moisturizing products/ shampoos and conditioners,Eye shadows and pencils,face moisturizing products/ shampoos and conditioners + Eye shadows and pencils,Reach
+0.0043,0.1934,1.2023,Eye shadows and pencils/ Nail care products,shampoos and conditioners,Eye shadows and pencils/ Nail care products + shampoos and conditioners,Scale
+0.0038,0.1934,1.2022,"bath oils, bubbles and soaks/ body moisturizers",shampoos and conditioners,"bath oils, bubbles and soaks/ body moisturizers + shampoos and conditioners",Scale
+0.0031,0.1772,1.2010,hand creams/ vitamins and supplements,"bath oils, bubbles and soaks","hand creams/ vitamins and supplements + bath oils, bubbles and soaks",Scale
+0.0017,0.2391,1.2009,Body soaps and washes/ face masks and exfoliators,Nail care products,Body soaps and washes/ face masks and exfoliators + Nail care products,Precision
+0.0011,0.1481,1.2005,foundations and concealers/ Accessories,Eye shadows and pencils,foundations and concealers/ Accessories + Eye shadows and pencils,Monitor
+0.0023,0.1133,1.2004,"bath oils, bubbles and soaks/ body moisturizers",hair colors and toners,"bath oils, bubbles and soaks/ body moisturizers + hair colors and toners",Reach
