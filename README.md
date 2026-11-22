@@ -118,7 +118,9 @@ Applied the Apriori algorithm at the Subcategory level to identify purchasing as
 
 ---
 
-## 9. Key findings: Executive Summary
+## 9. Executive Summary
+
+### Key findings
 
 * SKU-level Market Basket Analysis was ineffective due to the highly fragmented nature of cosmetic products.
 * Subcategory-level analysis identified 2,004 meaningful association rules.
@@ -130,6 +132,9 @@ Applied the Apriori algorithm at the Subcategory level to identify purchasing as
 
 * An Action Framework was developed to translate association rules into recommendation, promotion, and CRM strategies.
 
+### Recommended Next steps
+
+* 
 
 ---
 
