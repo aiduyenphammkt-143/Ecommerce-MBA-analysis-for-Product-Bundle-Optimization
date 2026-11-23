@@ -59,7 +59,9 @@ This project applies Market Basket Analysis (MBA) to uncover purchasing patterns
 
 ### Recommended Next steps
 
-* Deploy Products Recommendation Explorer Dashboard, and work with Marketing or related stakeholders to delve deeply into SKU-level.
+* Deploy the Product Recommendation Explorer Dashboard as the primary interface for Marketing and related teams.
+* Use the dashboard to identify recommendation opportunities starting from product subcategories and drill down into SKU-level opportunities.
+  
   Link PowerBI dashboard: https://app.powerbi.com/links/0mlEe_MFZP?ctid=370fb3b8-3306-4890-9063-cc08be788257&pbi_source=linkShare
 
   <img src='images/Screenshot of Explorer Dashboard.png' width=800>
