@@ -24,54 +24,9 @@ This project applies Market Basket Analysis (MBA) to uncover purchasing patterns
 
 ---
 
-## 3. Analytical Workflow
+## 3. Key results & Final Deliverables
 
-Transaction Data → Basket Transformation → Frequent Itemsets (Apriori) → Association Rules → Rule Evaluation → Action Segmentation → Recommendation Framework
-
----
-## 4. Dataset overview
-
-The analysis is based on 25,728 transaction baskets collected between 2020 and 2023.
-
-The product catalog contains approximately 20,000 SKUs, grouped into 17 subcategories across 5 main categories:
-
-* Face Care
-* Hair Care
-* Body Care
-* Makeup
-* Home & Accessories
-
-*To balance behavioral insights and analytical reliability, the analysis was conducted at the **Subcategory level** rather than the SKU level.*
-
-This approach provides:
-
-* Better representation of customer needs.
-* More interpretable purchasing patterns.
-* Reduced SKU fragmentation caused by brand, color, size, and fragrance variations.
-
----
-
-## 5. Methodology
-
-### Association Rule Mining
-
-Applied the Apriori algorithm at the Subcategory level to identify purchasing associations across product groups.
-
-| Metric | Business Meaning	| Threshold |
-|---|---|---|
-| Support |	% of baskets containing both product groups |	≥ 0.1% |
-| Confidence | Probability of purchasing product group B after purchasing A	| ≥ 10% |
-| Lift | Association strength beyond random chance | ≥ 1.2 |
-
-### Other terminologies
-
-* **Antecedents:** The product category (or categories) that we suppose customers have already purchased.
-* **Consequents:** The product category (or categories) that are frequently purchased together with the antecedents.
-* **Association Rule:** A purchasing pattern that links antecedents to consequents, showing what customers are likely to buy next.
-
----
-
-## 6. Key results
+### Key results
 
 * 25,728 baskets analyzed
 * ~20,000 SKUs evaluated
@@ -79,9 +34,7 @@ Applied the Apriori algorithm at the Subcategory level to identify purchasing as
 * 17 subcategories analyzed
 * 4 recommendation action groups created
 
----
-
-## 7. Final Deliverables
+### Final Deliverables
 
 * Market Basket Analysis Notebook
 * Association Rule Dataset
@@ -90,7 +43,32 @@ Applied the Apriori algorithm at the Subcategory level to identify purchasing as
 
 ---
 
-## 8. MBA Bubble Chart, Association Rules Matrix & Action Framework
+## 4. Executive Summary
+
+### Key findings
+
+* SKU-level Market Basket Analysis was ineffective due to the highly fragmented nature of cosmetic products.
+* Subcategory-level analysis identified 2,004 meaningful association rules.
+* Customer purchases are primarily driven by two needs:
+   * Holistic Self-Care
+   * At-Home Wellness
+
+> Strong associations are not concentrated within a single support-confidence segment, indicating that no single metric is sufficient for prioritization.
+
+* An Action Framework was developed to translate association rules into recommendation, promotion, and CRM strategies.
+
+### Recommended Next steps
+
+* Deploy Products Recommendation Explorer Dashboard, and work with Marketing or related stakeholders to delve deeply into SKU-level.
+  Link PowerBI dashboard: https://app.powerbi.com/links/0mlEe_MFZP?ctid=370fb3b8-3306-4890-9063-cc08be788257&pbi_source=linkShare
+
+  <img src='images/Screenshot of Explorer Dashboard.png' width=800>
+
+* After decisions made, validate recommendation-support decisions through A/B test before mass rollout.
+
+---
+
+## 5. MBA Bubble Chart, Association Rules Matrix & Action Framework
 
 ### Strong Associations Are Not Necessarily the Most Scalable Opportunities
 
@@ -115,37 +93,60 @@ Applied the Apriori algorithm at the Subcategory level to identify purchasing as
 | Precision	| Support ≤ 0.002 & Confidence ≥ 0.1692 | Low-tier Support but high-tier Confidence |Personalized recommendations, CRM journeys, targeted cross-selling |
 | Monitor	| Support ≤ 0.002 & Confidence ≤ 0.1692 | Low-tier Support and Confidence | Periodic review |
 
+---
+
+## 6. Analytical Workflow
+
+Transaction Data → Basket Transformation → Frequent Itemsets (Apriori) → Association Rules → Rule Evaluation → Action Segmentation → Recommendation Framework
+
+---
+## 7. Dataset overview
+
+The analysis is based on 25,728 transaction baskets collected between 2020 and 2023.
+
+The product catalog contains approximately 20,000 SKUs, grouped into 17 subcategories across 5 main categories:
+
+* Face Care
+* Hair Care
+* Body Care
+* Makeup
+* Home & Accessories
+
+*To balance behavioral insights and analytical reliability, the analysis was conducted at the **Subcategory level** rather than the SKU level.*
+
+This approach provides:
+
+* Better representation of customer needs.
+* More interpretable purchasing patterns.
+* Reduced SKU fragmentation caused by brand, color, size, and fragrance variations.
 
 ---
 
-## 9. Executive Summary
+## 8. Methodology
 
-### Key findings
+### Association Rule Mining
 
-* SKU-level Market Basket Analysis was ineffective due to the highly fragmented nature of cosmetic products.
-* Subcategory-level analysis identified 2,004 meaningful association rules.
-* Customer purchases are primarily driven by two needs:
-   * Holistic Self-Care
-   * At-Home Wellness
+Applied the Apriori algorithm at the Subcategory level to identify purchasing associations across product groups.
 
-> Strong associations are not concentrated within a single support-confidence segment, indicating that no single metric is sufficient for prioritization.
+| Metric | Business Meaning	| Threshold |
+|---|---|---|
+| Support |	% of baskets containing both product groups |	≥ 0.1% |
+| Confidence | Probability of purchasing product group B after purchasing A	| ≥ 10% |
+| Lift | Association strength beyond random chance | ≥ 1.2 |
 
-* An Action Framework was developed to translate association rules into recommendation, promotion, and CRM strategies.
+### Other terminologies
 
-### Recommended Next steps
-
-* 
+* **Antecedents:** The product category (or categories) that we suppose customers have already purchased.
+* **Consequents:** The product category (or categories) that are frequently purchased together with the antecedents.
+* **Association Rule:** A purchasing pattern that links antecedents to consequents, showing what customers are likely to buy next.
 
 ---
 
-## 10. Python Libraries
+## 9. Technical skills
 
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Mlxtend (Apriori)
-
+* Programmning languages: Python, DAX (PowerBI)
+* Python Libraries: Pandas, NumPy, Matplotlib, Seaborn, Mlxtend (Apriori).
+* ETL: EDA, Data Cleaning, Data Modeling, Data Schema.
 
 ---
 ## 📁 Repository Structure
