@@ -47,11 +47,11 @@ This project applies Market Basket Analysis (MBA) to uncover purchasing patterns
 
 ### Key findings
 
-* SKU-level Market Basket Analysis was ineffective due to the highly fragmented nature of cosmetic products.
-* Subcategory-level analysis identified 2,004 meaningful association rules.
+* SKU-level analysis generated only single-item itemsets due to product fragmentation. The analysis was therefore shifted to the subcategory level, resulting in 2,004 meaningful association rules and actionable recommendation opportunities.
+  
 * Customer purchases are primarily driven by two needs:
-   * Holistic Self-Care
-   * At-Home Wellness
+   * **Holistic Self-Care:** buying hoslistic rountines of self-care in the same basket is proven broadly, in terms of skin care, hair care, and nail care.
+   * **At-Home Wellness:** niche buying behaviors that purchase body care, bathing products, and home fragrance products are reached significantly high lift, revealing real demands of a specific group of customers.
 
 > Strong associations are not concentrated within a single support-confidence segment, indicating that no single metric is sufficient for prioritization.
 
@@ -65,6 +65,8 @@ This project applies Market Basket Analysis (MBA) to uncover purchasing patterns
   Link PowerBI dashboard: https://app.powerbi.com/links/0mlEe_MFZP?ctid=370fb3b8-3306-4890-9063-cc08be788257&pbi_source=linkShare
 
   <img src='images/Screenshot of Explorer Dashboard.png' width=800>
+ 
+ > *This dashboard helps explore continuations that penetrate broadly and prove potential cross-sell. It is designed to be a **Recommendation Decision Support Tool** to Marketing or other related stakeholders through **antecedent-first recommendation explorer**, and supposed to accelerate decision-making process by enabling comparison through visualizations.*
 
 * After decisions made, validate recommendation-support decisions through A/B test before mass rollout.
 
@@ -74,14 +76,14 @@ This project applies Market Basket Analysis (MBA) to uncover purchasing patterns
 
 ### Strong Associations Are Not Necessarily the Most Scalable Opportunities
 
-***Finding:** Rules with the strongest associations (highest lift values) are distributed across all support-confidence quadrants. This suggests that association strength is largely independent of rule popularity and conversion likelihood in the current dataset.*
+***Finding:** Rules with the strongest associations (highest lift values) are distributed across all support-confidence quadrants. This suggests that association strength is largely independent of basket penetration and cross-sell potential in the current dataset.*
 
 <img src='images/Meaningful association rules.png' width=800>
 
 
 ### Association Rules Action Matrix
 
-***Implication:** Lift was used as a qualification criterion to ensure that only rules exhibiting meaningful associations beyond random chance were considered. Subsequent action segmentation was performed using Support and Confidence, representing market reach and conversion potential, respectively.*
+***Implication:** Lift was used as a qualification criterion to ensure that only rules exhibiting meaningful associations beyond random chance were considered. Subsequent action segmentation was performed using Support and Confidence, representing basket penetration and conversion potential, respectively.*
 
 <img src='images/Association Rules Action Matrix.png' width=800>
 
@@ -102,7 +104,28 @@ This project applies Market Basket Analysis (MBA) to uncover purchasing patterns
 Transaction Data → Basket Transformation → Frequent Itemsets (Apriori) → Association Rules → Rule Evaluation → Action Segmentation → Recommendation Framework
 
 ---
-## 7. Dataset overview
+
+## 7. Methodology
+
+### Association Rule Mining
+
+Applied the Apriori algorithm at the Subcategory level to identify purchasing associations across product groups.
+
+| Metric | Business Meaning	| Threshold |
+|---|---|---|
+| Support |	% of baskets containing both product groups |	≥ 0.1% |
+| Confidence | Probability of purchasing product group B after purchasing A	| ≥ 10% |
+| Lift | Association strength beyond random chance | ≥ 1.2 |
+
+### Other terminologies
+
+* **Antecedents:** The product category (or categories) that we suppose customers have already purchased.
+* **Consequents:** The product category (or categories) that are frequently purchased together with the antecedents.
+* **Association Rule:** A purchasing pattern that links antecedents to consequents, showing what customers are likely to buy next.
+
+---
+
+## 8. Dataset overview
 
 The analysis is based on 25,728 transaction baskets collected between 2020 and 2023.
 
@@ -124,31 +147,22 @@ This approach provides:
 
 ---
 
-## 8. Methodology
-
-### Association Rule Mining
-
-Applied the Apriori algorithm at the Subcategory level to identify purchasing associations across product groups.
-
-| Metric | Business Meaning	| Threshold |
-|---|---|---|
-| Support |	% of baskets containing both product groups |	≥ 0.1% |
-| Confidence | Probability of purchasing product group B after purchasing A	| ≥ 10% |
-| Lift | Association strength beyond random chance | ≥ 1.2 |
-
-### Other terminologies
-
-* **Antecedents:** The product category (or categories) that we suppose customers have already purchased.
-* **Consequents:** The product category (or categories) that are frequently purchased together with the antecedents.
-* **Association Rule:** A purchasing pattern that links antecedents to consequents, showing what customers are likely to buy next.
-
----
-
 ## 9. Technical skills
 
-* Programmning languages: Python, DAX (PowerBI)
-* Python Libraries: Pandas, NumPy, Matplotlib, Seaborn, Mlxtend (Apriori).
-* ETL: EDA, Data Cleaning, Data Modeling, Data Schema.
+### Analytics Techniques:
+- Exploratory Data Analysis (EDA)
+- Market Basket Analysis (MBA)
+- Association Rule Mining
+- Rule Segmentation Framework
+
+### Data Processing:
+- Data Cleaning
+- Basket Transformation
+
+### Visualization:
+- Matplotlib
+- Seaborn
+- Power BI
 
 ---
 ## 📁 Repository Structure
