@@ -101,7 +101,7 @@ This project applies Market Basket Analysis (MBA) to uncover purchasing patterns
 
 ## 6. Analytical Workflow
 
-Transaction Data → Basket Transformation → Frequent Itemsets (Apriori) → Association Rules → Rule Evaluation → Action Segmentation → Recommendation Framework
+Transaction Data → Basket Transformation → Frequent Itemsets (Apriori) → Association Rules → Rule Evaluation → Action Segmentation → Recommendation Framework → Recommendation Explorer Dashboard
 
 ---
 
